@@ -14,6 +14,7 @@
     const QUESTIONS_PER_TEST = 10;
     const HISTORY_KEY = 'quiz_question_history';
     const HISTORY_SIZE = 50; // Remember last 50 questions to avoid repetition
+    const STATS_KEY = 'quiz_statistics';
 
     // State
     let allQuestions = [];
@@ -25,11 +26,15 @@
     const startScreen = document.getElementById('start-screen');
     const quizScreen = document.getElementById('quiz-screen');
     const resultsScreen = document.getElementById('results-screen');
+    const statsScreen = document.getElementById('stats-screen');
     const startBtn = document.getElementById('start-btn');
+    const statsBtn = document.getElementById('stats-btn');
     const prevBtn = document.getElementById('prev-btn');
     const nextBtn = document.getElementById('next-btn');
     const submitBtn = document.getElementById('submit-btn');
     const restartBtn = document.getElementById('restart-btn');
+    const backFromStatsBtn = document.getElementById('back-from-stats-btn');
+    const clearStatsBtn = document.getElementById('clear-stats-btn');
     const questionNumber = document.getElementById('question-number');
     const questionOblast = document.getElementById('question-oblast');
     const questionText = document.getElementById('question-text');
@@ -60,10 +65,13 @@
     // Bind event listeners
     function bindEvents() {
         startBtn.addEventListener('click', startQuiz);
+        statsBtn.addEventListener('click', showStats);
         prevBtn.addEventListener('click', goToPreviousQuestion);
         nextBtn.addEventListener('click', goToNextQuestion);
         submitBtn.addEventListener('click', submitQuiz);
         restartBtn.addEventListener('click', restartQuiz);
+        backFromStatsBtn.addEventListener('click', () => showScreen(startScreen));
+        clearStatsBtn.addEventListener('click', clearStats);
     }
 
     // Cryptographically secure random number generator
@@ -344,8 +352,223 @@
     // Submit the quiz and show results
     function submitQuiz() {
         const results = calculateResults();
+        saveTestResults(results);
         displayResults(results);
         showScreen(resultsScreen);
+    }
+
+    // Get statistics from localStorage
+    function getStats() {
+        try {
+            const stats = localStorage.getItem(STATS_KEY);
+            return stats ? JSON.parse(stats) : {
+                totalTests: 0,
+                totalCorrect: 0,
+                totalQuestions: 0,
+                testHistory: [],
+                oblastStats: {}
+            };
+        } catch (e) {
+            return {
+                totalTests: 0,
+                totalCorrect: 0,
+                totalQuestions: 0,
+                testHistory: [],
+                oblastStats: {}
+            };
+        }
+    }
+
+    // Save statistics to localStorage
+    function saveStats(stats) {
+        try {
+            localStorage.setItem(STATS_KEY, JSON.stringify(stats));
+        } catch (e) {
+            console.warn('Could not save statistics');
+        }
+    }
+
+    // Save test results to statistics
+    function saveTestResults(results) {
+        const stats = getStats();
+
+        // Update totals
+        stats.totalTests++;
+        stats.totalCorrect += results.correct;
+        stats.totalQuestions += results.total;
+
+        // Save test to history (keep last 50 tests)
+        stats.testHistory.unshift({
+            date: new Date().toISOString(),
+            score: results.correct,
+            total: results.total,
+            percentage: results.percentage
+        });
+        if (stats.testHistory.length > 50) {
+            stats.testHistory = stats.testHistory.slice(0, 50);
+        }
+
+        // Update oblast-specific stats
+        results.details.forEach(detail => {
+            const oblast = detail.question.oblast;
+            if (!stats.oblastStats[oblast]) {
+                stats.oblastStats[oblast] = {
+                    correct: 0,
+                    total: 0
+                };
+            }
+            stats.oblastStats[oblast].total++;
+            if (detail.isCorrect) {
+                stats.oblastStats[oblast].correct++;
+            }
+        });
+
+        saveStats(stats);
+    }
+
+    // Clear all statistics
+    function clearStats() {
+        if (confirm('Jeste li sigurni da želite obrisati svu statistiku? Ova akcija se ne može poništiti.')) {
+            localStorage.removeItem(STATS_KEY);
+            showStats(); // Refresh the stats display
+        }
+    }
+
+    // Show statistics screen
+    function showStats() {
+        const stats = getStats();
+        displayStats(stats);
+        showScreen(statsScreen);
+    }
+
+    // Display statistics
+    function displayStats(stats) {
+        // Overall stats
+        const avgScore = stats.totalTests > 0
+            ? Math.round((stats.totalCorrect / stats.totalQuestions) * 100)
+            : 0;
+
+        document.getElementById('stats-total-tests').textContent = stats.totalTests;
+        document.getElementById('stats-avg-score').textContent = avgScore + '%';
+        document.getElementById('stats-total-questions').textContent = stats.totalQuestions;
+        document.getElementById('stats-total-correct').textContent = stats.totalCorrect;
+
+        // Oblast performance chart
+        const chartContainer = document.getElementById('oblast-chart');
+        chartContainer.innerHTML = '';
+
+        if (Object.keys(stats.oblastStats).length === 0) {
+            chartContainer.innerHTML = '<p class="no-data">Završite bar jedan test da vidite statistiku po oblastima.</p>';
+        } else {
+            // Sort by percentage (best to worst)
+            const oblastData = REQUIRED_OBLASTI.map(oblast => {
+                const data = stats.oblastStats[oblast] || { correct: 0, total: 0 };
+                return {
+                    name: oblast,
+                    correct: data.correct,
+                    total: data.total,
+                    percentage: data.total > 0 ? Math.round((data.correct / data.total) * 100) : 0
+                };
+            }).sort((a, b) => b.percentage - a.percentage);
+
+            oblastData.forEach(oblast => {
+                const bar = document.createElement('div');
+                bar.className = 'chart-bar';
+
+                let barClass = 'bar-fill';
+                if (oblast.percentage >= 90) barClass += ' excellent';
+                else if (oblast.percentage >= 75) barClass += ' very-good';
+                else if (oblast.percentage >= 60) barClass += ' good';
+                else if (oblast.percentage >= 40) barClass += ' average';
+                else barClass += ' poor';
+
+                bar.innerHTML = `
+                    <div class="bar-label">
+                        <span class="bar-name">${oblast.name}</span>
+                        <span class="bar-stats">${oblast.correct}/${oblast.total} (${oblast.percentage}%)</span>
+                    </div>
+                    <div class="bar-track">
+                        <div class="${barClass}" style="width: ${oblast.percentage}%"></div>
+                    </div>
+                `;
+                chartContainer.appendChild(bar);
+            });
+        }
+
+        // Recent tests
+        const recentContainer = document.getElementById('recent-tests');
+        recentContainer.innerHTML = '';
+
+        if (stats.testHistory.length === 0) {
+            recentContainer.innerHTML = '<p class="no-data">Još nema završenih testova.</p>';
+        } else {
+            const recentTests = stats.testHistory.slice(0, 10);
+            recentTests.forEach((test, index) => {
+                const testItem = document.createElement('div');
+                testItem.className = 'recent-test-item';
+
+                const date = new Date(test.date);
+                const formattedDate = date.toLocaleDateString('bs-BA', {
+                    day: '2-digit',
+                    month: '2-digit',
+                    year: 'numeric',
+                    hour: '2-digit',
+                    minute: '2-digit'
+                });
+
+                let scoreClass = 'score-badge';
+                if (test.percentage >= 90) scoreClass += ' excellent';
+                else if (test.percentage >= 75) scoreClass += ' very-good';
+                else if (test.percentage >= 60) scoreClass += ' good';
+                else if (test.percentage >= 40) scoreClass += ' average';
+                else scoreClass += ' poor';
+
+                testItem.innerHTML = `
+                    <span class="test-date">${formattedDate}</span>
+                    <span class="${scoreClass}">${test.score}/${test.total} (${test.percentage}%)</span>
+                `;
+                recentContainer.appendChild(testItem);
+            });
+        }
+
+        // Performance trend (last 10 tests)
+        displayTrendChart(stats.testHistory.slice(0, 10).reverse());
+    }
+
+    // Display trend chart for recent tests
+    function displayTrendChart(tests) {
+        const trendContainer = document.getElementById('trend-chart');
+        trendContainer.innerHTML = '';
+
+        if (tests.length < 2) {
+            trendContainer.innerHTML = '<p class="no-data">Potrebna su najmanje 2 testa za prikaz trenda.</p>';
+            return;
+        }
+
+        const maxHeight = 100;
+        const barWidth = Math.min(40, Math.floor(200 / tests.length));
+
+        tests.forEach((test, index) => {
+            const bar = document.createElement('div');
+            bar.className = 'trend-bar';
+            bar.style.width = barWidth + 'px';
+
+            let barClass = 'trend-fill';
+            if (test.percentage >= 90) barClass += ' excellent';
+            else if (test.percentage >= 75) barClass += ' very-good';
+            else if (test.percentage >= 60) barClass += ' good';
+            else if (test.percentage >= 40) barClass += ' average';
+            else barClass += ' poor';
+
+            bar.innerHTML = `
+                <div class="trend-value">${test.percentage}%</div>
+                <div class="trend-track">
+                    <div class="${barClass}" style="height: ${test.percentage}%"></div>
+                </div>
+                <div class="trend-label">#${index + 1}</div>
+            `;
+            trendContainer.appendChild(bar);
+        });
     }
 
     // Calculate quiz results
@@ -393,10 +616,13 @@
         if (results.percentage >= 90) {
             percentageEl.classList.add('excellent');
             percentageEl.textContent += ' - Odličan rezultat!';
-        } else if (results.percentage >= 70) {
+        } else if (results.percentage >= 75) {
+            percentageEl.classList.add('very-good');
+            percentageEl.textContent += ' - Vrlo dobar rezultat!';
+        } else if (results.percentage >= 60) {
             percentageEl.classList.add('good');
             percentageEl.textContent += ' - Dobar rezultat';
-        } else if (results.percentage >= 50) {
+        } else if (results.percentage >= 40) {
             percentageEl.classList.add('average');
             percentageEl.textContent += ' - Prosječan rezultat';
         } else {
@@ -499,6 +725,7 @@
         startScreen.classList.add('hidden');
         quizScreen.classList.add('hidden');
         resultsScreen.classList.add('hidden');
+        statsScreen.classList.add('hidden');
         screen.classList.remove('hidden');
 
         // Scroll to top

@@ -73,7 +73,7 @@ header .subtitle {
     content: '✓';
     position: absolute;
     left: 0;
-    color: #28a745;
+    color: #059669;
     font-weight: bold;
 }
 
@@ -108,13 +108,23 @@ header .subtitle {
 }
 
 .btn-success {
-    background: linear-gradient(135deg, #28a745 0%, #20c997 100%);
+    background: linear-gradient(135deg, #10b981 0%, #059669 100%);
     color: #fff;
 }
 
 .btn-success:hover {
     transform: translateY(-2px);
-    box-shadow: 0 5px 20px rgba(40, 167, 69, 0.4);
+    box-shadow: 0 5px 20px rgba(16, 185, 129, 0.4);
+}
+
+.btn-danger {
+    background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
+    color: #fff;
+}
+
+.btn-danger:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 20px rgba(239, 68, 68, 0.4);
 }
 
 .btn:disabled {
@@ -123,11 +133,28 @@ header .subtitle {
     transform: none;
 }
 
+.start-buttons {
+    display: flex;
+    gap: 12px;
+}
+
 #start-btn {
-    display: block;
-    width: 100%;
+    flex: 2;
     font-size: 1.2rem;
     padding: 18px;
+}
+
+#stats-btn {
+    flex: 1;
+    font-size: 1rem;
+    padding: 18px;
+    background: linear-gradient(135deg, #8b5cf6 0%, #6366f1 100%);
+    color: #fff;
+}
+
+#stats-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 20px rgba(139, 92, 246, 0.4);
 }
 
 /* Quiz Screen */
@@ -277,7 +304,11 @@ header .subtitle {
 }
 
 .score-percentage.excellent {
-    color: #28a745;
+    color: #059669;
+}
+
+.score-percentage.very-good {
+    color: #7c3aed;
 }
 
 .score-percentage.good {
@@ -285,11 +316,11 @@ header .subtitle {
 }
 
 .score-percentage.average {
-    color: #ffc107;
+    color: #d97706;
 }
 
 .score-percentage.poor {
-    color: #dc3545;
+    color: #dc2626;
 }
 
 .results-summary {
@@ -318,11 +349,11 @@ header .subtitle {
 }
 
 .summary-item.correct .count {
-    color: #28a745;
+    color: #059669;
 }
 
 .summary-item.incorrect .count {
-    color: #dc3545;
+    color: #dc2626;
 }
 
 /* Mistakes Section */
@@ -343,11 +374,11 @@ header .subtitle {
     border-radius: 12px;
     padding: 20px;
     margin-bottom: 15px;
-    border-left: 4px solid #dc3545;
+    border-left: 4px solid #dc2626;
 }
 
 .mistake-item.correct {
-    border-left-color: #28a745;
+    border-left-color: #059669;
 }
 
 .mistake-header {
@@ -391,23 +422,23 @@ header .subtitle {
 }
 
 .mistake-answer.user-wrong {
-    background: #f8d7da;
-    color: #721c24;
-    border-color: #f5c6cb;
+    background: #fee2e2;
+    color: #991b1b;
+    border-color: #fecaca;
     font-weight: 500;
 }
 
 .mistake-answer.correct-answer {
-    background: #d4edda;
-    color: #155724;
-    border-color: #c3e6cb;
+    background: #d1fae5;
+    color: #065f46;
+    border-color: #a7f3d0;
     font-weight: 500;
 }
 
 .mistake-answer.user-correct {
-    background: #d4edda;
-    color: #155724;
-    border-color: #c3e6cb;
+    background: #d1fae5;
+    color: #065f46;
+    border-color: #a7f3d0;
     font-weight: 500;
 }
 
@@ -463,6 +494,280 @@ header .subtitle {
     margin-top: 20px;
 }
 
+/* Statistics Screen */
+.stats-header {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.stats-header h2 {
+    color: #1a1a2e;
+    margin-bottom: 8px;
+}
+
+.stats-subtitle {
+    color: #6c757d;
+    font-size: 0.95rem;
+}
+
+.stats-overview {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+    margin-bottom: 30px;
+}
+
+.stat-card {
+    background: #f8f9fa;
+    border-radius: 12px;
+    padding: 20px 15px;
+    text-align: center;
+    border: 1px solid #e9ecef;
+}
+
+.stat-card.highlight {
+    background: linear-gradient(135deg, rgba(20, 184, 166, 0.1) 0%, rgba(8, 145, 178, 0.1) 100%);
+    border-color: #14b8a6;
+}
+
+.stat-value {
+    display: block;
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #1a1a2e;
+    margin-bottom: 5px;
+}
+
+.stat-card.highlight .stat-value {
+    color: #0891b2;
+}
+
+.stat-label {
+    font-size: 0.85rem;
+    color: #6c757d;
+}
+
+.stats-section {
+    margin-bottom: 30px;
+}
+
+.stats-section h3 {
+    color: #1a1a2e;
+    margin-bottom: 8px;
+    font-size: 1.1rem;
+}
+
+.section-subtitle {
+    color: #6c757d;
+    font-size: 0.85rem;
+    margin-bottom: 15px;
+}
+
+/* Oblast Chart (Horizontal Bars) */
+.oblast-chart {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.chart-bar {
+    background: #f8f9fa;
+    border-radius: 8px;
+    padding: 12px;
+}
+
+.bar-label {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+    gap: 10px;
+}
+
+.bar-name {
+    font-size: 0.9rem;
+    color: #1a1a2e;
+    font-weight: 500;
+}
+
+.bar-stats {
+    font-size: 0.85rem;
+    color: #6c757d;
+    white-space: nowrap;
+}
+
+.bar-track {
+    height: 12px;
+    background: #e9ecef;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.bar-fill {
+    height: 100%;
+    border-radius: 6px;
+    transition: width 0.5s ease;
+}
+
+.bar-fill.excellent {
+    background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+}
+
+.bar-fill.very-good {
+    background: linear-gradient(135deg, #8b5cf6 0%, #6366f1 100%);
+}
+
+.bar-fill.good {
+    background: linear-gradient(135deg, #14b8a6 0%, #0891b2 100%);
+}
+
+.bar-fill.average {
+    background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+}
+
+.bar-fill.poor {
+    background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
+}
+
+/* Trend Chart (Vertical Bars) */
+.trend-chart {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 8px;
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 12px;
+    min-height: 180px;
+}
+
+.trend-bar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+.trend-value {
+    font-size: 0.7rem;
+    color: #6c757d;
+    font-weight: 500;
+}
+
+.trend-track {
+    width: 100%;
+    height: 100px;
+    background: #e9ecef;
+    border-radius: 4px;
+    display: flex;
+    align-items: flex-end;
+    overflow: hidden;
+}
+
+.trend-fill {
+    width: 100%;
+    border-radius: 4px 4px 0 0;
+    transition: height 0.5s ease;
+}
+
+.trend-fill.excellent {
+    background: linear-gradient(180deg, #10b981 0%, #059669 100%);
+}
+
+.trend-fill.very-good {
+    background: linear-gradient(180deg, #8b5cf6 0%, #6366f1 100%);
+}
+
+.trend-fill.good {
+    background: linear-gradient(180deg, #14b8a6 0%, #0891b2 100%);
+}
+
+.trend-fill.average {
+    background: linear-gradient(180deg, #f59e0b 0%, #d97706 100%);
+}
+
+.trend-fill.poor {
+    background: linear-gradient(180deg, #ef4444 0%, #dc2626 100%);
+}
+
+.trend-label {
+    font-size: 0.7rem;
+    color: #adb5bd;
+}
+
+/* Recent Tests */
+.recent-tests {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.recent-test-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 15px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    border: 1px solid #e9ecef;
+}
+
+.test-date {
+    font-size: 0.9rem;
+    color: #495057;
+}
+
+.score-badge {
+    font-size: 0.85rem;
+    font-weight: 600;
+    padding: 4px 10px;
+    border-radius: 15px;
+    background: #e9ecef;
+    color: #495057;
+}
+
+.score-badge.excellent {
+    background: #d1fae5;
+    color: #065f46;
+}
+
+.score-badge.very-good {
+    background: #ede9fe;
+    color: #5b21b6;
+}
+
+.score-badge.good {
+    background: #ccfbf1;
+    color: #0f766e;
+}
+
+.score-badge.average {
+    background: #fef3c7;
+    color: #92400e;
+}
+
+.score-badge.poor {
+    background: #fee2e2;
+    color: #991b1b;
+}
+
+.stats-actions {
+    display: flex;
+    gap: 12px;
+    margin-top: 25px;
+}
+
+.stats-actions .btn {
+    flex: 1;
+}
+
+.no-data {
+    color: #6c757d;
+    font-style: italic;
+    text-align: center;
+    padding: 20px;
+}
+
 /* Responsive */
 @media (max-width: 600px) {
     .container {
@@ -497,5 +802,36 @@ header .subtitle {
     .navigation .btn {
         flex: 1;
         min-width: 100px;
+    }
+
+    .start-buttons {
+        flex-direction: column;
+    }
+
+    #start-btn, #stats-btn {
+        flex: none;
+        width: 100%;
+    }
+
+    .stats-overview {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .stat-value {
+        font-size: 1.5rem;
+    }
+
+    .bar-label {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 4px;
+    }
+
+    .trend-chart {
+        padding: 15px 10px;
+    }
+
+    .stats-actions {
+        flex-direction: column;
     }
 }

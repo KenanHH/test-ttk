@@ -27,7 +27,10 @@
                 </ul>
                 <p>Svaki test garantuje najmanje jedno pitanje iz svake oblasti.</p>
             </div>
-            <button id="start-btn" class="btn btn-primary">Započni test</button>
+            <div class="start-buttons">
+                <button id="start-btn" class="btn btn-primary">Započni test</button>
+                <button id="stats-btn" class="btn btn-secondary">Statistika</button>
+            </div>
             <div class="disclaimer">
                 <p><strong>Napomena:</strong> Sva pitanja (624) su generisana korištenjem Claude AI agenata na osnovu zakona i podzakonskih akata navedenih u javnom konkursu. Ovo NISU zvanična ispitna pitanja. Uvijek provjerite sa originalnim tekstovima zakona.</p>
             </div>
@@ -76,7 +79,56 @@
             </div>
         </div>
 
-        <div class="version">v2.0 | 24.12.2024 | Poboljšana randomizacija pitanja</div>
+        <!-- Statistics Screen -->
+        <div id="stats-screen" class="screen hidden">
+            <div class="stats-header">
+                <h2>Statistika</h2>
+                <p class="stats-subtitle">Pregled vašeg napretka</p>
+            </div>
+
+            <div class="stats-overview">
+                <div class="stat-card">
+                    <span class="stat-value" id="stats-total-tests">0</span>
+                    <span class="stat-label">Završenih testova</span>
+                </div>
+                <div class="stat-card highlight">
+                    <span class="stat-value" id="stats-avg-score">0%</span>
+                    <span class="stat-label">Prosječan rezultat</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-value" id="stats-total-correct">0</span>
+                    <span class="stat-label">Tačnih odgovora</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-value" id="stats-total-questions">0</span>
+                    <span class="stat-label">Ukupno pitanja</span>
+                </div>
+            </div>
+
+            <div class="stats-section">
+                <h3>Uspješnost po oblastima</h3>
+                <p class="section-subtitle">Sortirano od najbolje do najslabije oblasti</p>
+                <div id="oblast-chart" class="oblast-chart"></div>
+            </div>
+
+            <div class="stats-section">
+                <h3>Trend napretka</h3>
+                <p class="section-subtitle">Posljednjih 10 testova</p>
+                <div id="trend-chart" class="trend-chart"></div>
+            </div>
+
+            <div class="stats-section">
+                <h3>Nedavni testovi</h3>
+                <div id="recent-tests" class="recent-tests"></div>
+            </div>
+
+            <div class="stats-actions">
+                <button id="back-from-stats-btn" class="btn btn-primary">Nazad</button>
+                <button id="clear-stats-btn" class="btn btn-danger">Obriši statistiku</button>
+            </div>
+        </div>
+
+        <div class="version">v2.2 | 24.12.2024 | Statistika napretka i praćenje po oblastima</div>
     </div>
 
     <script src="app.js"></script>
