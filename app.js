@@ -111,7 +111,8 @@
 
     // Create a unique hash for a question (for deduplication)
     function getQuestionHash(question) {
-        return `${question.oblast}:${question.pitanje.substring(0, 50)}`;
+        // Use full question text to avoid collisions from truncation
+        return `${question.oblast}:${question.pitanje}`;
     }
 
     // Select questions ensuring at least one from each required oblast
@@ -212,6 +213,17 @@
         for (let i = 0; i < 3; i++) {
             finalSelection = shuffleArray(finalSelection);
         }
+
+        // Final safety check: remove any duplicates that slipped through
+        const seenHashes = new Set();
+        finalSelection = finalSelection.filter(q => {
+            if (seenHashes.has(q.hash)) {
+                console.warn('Duplicate question detected and removed:', q.pitanje.substring(0, 50));
+                return false;
+            }
+            seenHashes.add(q.hash);
+            return true;
+        });
 
         // Add random answer order to each question
         return finalSelection.map(q => ({

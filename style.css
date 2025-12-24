@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    background: linear-gradient(135deg, #0f172a 0%, #134e4a 100%);
     min-height: 100vh;
     color: #333;
     line-height: 1.6;
@@ -89,13 +89,13 @@ header .subtitle {
 }
 
 .btn-primary {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #14b8a6 0%, #0891b2 100%);
     color: #fff;
 }
 
 .btn-primary:hover {
     transform: translateY(-2px);
-    box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
+    box-shadow: 0 5px 20px rgba(20, 184, 166, 0.4);
 }
 
 .btn-secondary {
@@ -141,7 +141,7 @@ header .subtitle {
 
 .progress {
     height: 100%;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #14b8a6 0%, #0891b2 100%);
     transition: width 0.3s ease;
     width: 10%;
 }
@@ -201,13 +201,13 @@ header .subtitle {
 }
 
 .answer-btn:hover {
-    border-color: #667eea;
-    background: #f8f9ff;
+    border-color: #14b8a6;
+    background: #f0fdfa;
 }
 
 .answer-btn.selected {
-    border-color: #667eea;
-    background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%);
+    border-color: #14b8a6;
+    background: linear-gradient(135deg, rgba(20, 184, 166, 0.1) 0%, rgba(8, 145, 178, 0.1) 100%);
 }
 
 .answer-btn .answer-letter {
@@ -224,7 +224,7 @@ header .subtitle {
 }
 
 .answer-btn.selected .answer-letter {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #14b8a6 0%, #0891b2 100%);
     color: #fff;
 }
 
@@ -257,12 +257,12 @@ header .subtitle {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #14b8a6 0%, #0891b2 100%);
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 0 auto 15px;
-    box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);
+    box-shadow: 0 10px 30px rgba(20, 184, 166, 0.3);
 }
 
 #score-text {
@@ -281,7 +281,7 @@ header .subtitle {
 }
 
 .score-percentage.good {
-    color: #667eea;
+    color: #0891b2;
 }
 
 .score-percentage.average {
@@ -452,6 +452,15 @@ header .subtitle {
 .disclaimer p {
     margin: 0;
     line-height: 1.5;
+}
+
+/* Version indicator */
+.version {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 0.75rem;
+    padding: 15px 0;
+    margin-top: 20px;
 }
 
 /* Responsive */

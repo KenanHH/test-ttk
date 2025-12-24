@@ -3,10 +3,10 @@
     "oblast": "Zakon o državnoj službi TK",
     "pitanje": "Koji je najduži period na koji se državni službenik može postaviti na radno mjesto u drugom organu državne službe bez njegove saglasnosti?",
     "odgovor_a": "Do 3 mjeseca",
-    "odgovor_b": "Do 6 mjeseci",
+    "odgovor_b": "Nije definirano u zakonu.",
     "odgovor_c": "Do 12 mjeseci",
     "tacan_odgovor": "B",
-    "obrazlozenje": "Prema članu 33. stav 2. Zakona o državnoj službi TK, državni službenik se bez svoje saglasnosti može postaviti na radno mjesto u drugom organu državne službe najduže do 6 mjeseci."
+    "obrazlozenje": "Prema članu 33. Zakona o državnoj službi TK, državni službenik se bez svoje saglasnosti može postaviti na radno mjesto u drugom organu državne službe ukoliko postoji potreba za njegovim angažmanom, a zakon ne definiše najduži period takvog postavljanja."
   },
   {
     "oblast": "Zakon o državnoj službi TK",
@@ -14,8 +14,8 @@
     "odgovor_a": "3 mjeseca",
     "odgovor_b": "6 mjeseci",
     "odgovor_c": "12 mjeseci",
-    "tacan_odgovor": "C",
-    "obrazlozenje": "Prema članu 43. stav 1. Zakona o državnoj službi TK, probni rad traje 12 mjeseci."
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 43. stav 1. Zakona o državnoj službi TK, probni rad traje 6 mjeseci."
   },
   {
     "oblast": "Zakon o državnoj službi TK",
@@ -39,10 +39,10 @@
     "oblast": "Zakon o državnoj službi TK",
     "pitanje": "Koliko najduže može trajati suspenzija državnog službenika?",
     "odgovor_a": "30 dana",
-    "odgovor_b": "60 dana",
-    "odgovor_c": "90 dana",
+    "odgovor_b": "Do okončanja krivičnog, odnosno disciplinskog postupka",
+    "odgovor_c": "60 dana",
     "tacan_odgovor": "B",
-    "obrazlozenje": "Prema članu 67. stav 3. Zakona o državnoj službi TK, suspenzija može trajati najduže 60 dana."
+    "obrazlozenje": "Prema članu 65. stav 4. i članu 66. stav 4. Zakona o državnoj službi TK, suspenzija traje do okončanja istrage odnosno krivičnog postupka, ili do okončanja disciplinskog postupka."
   },
   {
     "oblast": "Zakon o državnoj službi TK",
@@ -83,11 +83,11 @@
   {
     "oblast": "Zakon o državnoj službi TK",
     "pitanje": "Kada državnom službeniku prestaje radni odnos po sili zakona zbog osude za krivično djelo?",
-    "odgovor_a": "Kad je osuđen na kaznu zatvora od najmanje 3 mjeseca",
+    "odgovor_a": "Kad je osuđen na kaznu zatvora u trajanju dužem od 3 mjeseca",
     "odgovor_b": "Kad je osuđen na kaznu zatvora od najmanje 6 mjeseci",
     "odgovor_c": "Kad je osuđen na bilo koju kaznu zatvora",
-    "tacan_odgovor": "B",
-    "obrazlozenje": "Prema članu 57. tačka d) Zakona o državnoj službi TK, radni odnos prestaje po sili zakona kada je državni službenik osuđen na kaznu zatvora u trajanju od najmanje 6 mjeseci."
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 56. stav 1. tačka k) Zakona o državnoj službi TK, radni odnos prestaje po sili zakona ako državni službenik bude osuđen na izdržavanje kazne zatvora u trajanju dužem od tri mjeseca. "
   },
   {
     "oblast": "Zakon o državnoj službi TK",
@@ -201,7 +201,7 @@
     "oblast": "Zakon o krivičnom postupku FBiH",
     "pitanje": "Šta je osumnjičeni?",
     "odgovor_a": "Osoba protiv koje je podignuta optužnica",
-    "odgovor_b": "Osoba protiv koje se vodi istraga",
+    "odgovor_b": "Osoba za koju postoje osnovi sumnje da je počinila krivično djelo",
     "odgovor_c": "Osoba koja je pravosnažno osuđena",
     "tacan_odgovor": "B",
     "obrazlozenje": "Prema članu 21. tačka a) Zakona o krivičnom postupku FBiH, osumnjičeni je osoba protiv koje se vodi istraga zbog sumnje da je počinila krivično djelo."
@@ -229,9 +229,9 @@
     "pitanje": "Šta je optuženi?",
     "odgovor_a": "Osoba protiv koje je podignuta optužnica",
     "odgovor_b": "Osoba protiv koje se vodi istraga",
-    "odgovor_c": "Pravosnažno osuđena osoba",
+    "odgovor_c": "Osoba protiv koje je potvrđena optužnica",
     "tacan_odgovor": "A",
-    "obrazlozenje": "Prema članu 21. tačka b) Zakona o krivičnom postupku FBiH, optuženi je osoba protiv koje je podignuta optužnica koja još nije pravosnažna."
+    "obrazlozenje": "Prema članu 21. tačka b) Zakona o krivičnom postupku FBiH, optuženi je osoba protiv koje je podignuta potvrđena optužnica."
   },
   {
     "oblast": "Zakon o krivičnom postupku FBiH",
@@ -242,23 +242,23 @@
     "tacan_odgovor": "B",
     "obrazlozenje": "Prema članu 26. stav 2. Zakona o krivičnom postupku FBiH, kantonalni sud sudi u prvom stepenu za krivična djela za koja je propisana kazna zatvora preko 10 godina."
   },
-  {
+ {
     "oblast": "Zakon o krivičnom postupku FBiH",
     "pitanje": "Ko određuje mjesnu nadležnost kada je krivično djelo počinjeno na teritoriji više sudova?",
-    "odgovor_a": "Sud koji je prvi započeo postupak",
-    "odgovor_b": "Vrhovni sud FBiH",
+    "odgovor_a": "Vrhovni sud FBiH",
+    "odgovor_b": "Sud koji je prvi potvrdio optužnicu (ili primio na potvrđivanje)",
     "odgovor_c": "Tužitelj",
     "tacan_odgovor": "B",
-    "obrazlozenje": "Prema članu 30. stav 1. Zakona o krivičnom postupku FBiH, ako je djelo počinjeno na području više sudova, nadležan je onaj sud koji je prvi započeo postupak, a Vrhovni sud može odrediti drugi sud."
+    "obrazlozenje": "Prema članu 26. stav 2. Zakona o krivičnom postupku FBiH, ako je djelo počinjeno na područjima raznih sudova, nadležan je onaj sud koji je prvi potvrdio optužnicu (ili primio na potvrđivanje). "
   },
   {
     "oblast": "Zakon o krivičnom postupku FBiH",
     "pitanje": "Koliko branitelja može imati osumnjičeni/optuženi?",
     "odgovor_a": "Jednog",
     "odgovor_b": "Najviše dva",
-    "odgovor_c": "Najviše tri",
+    "odgovor_c": "Više (nema limita), ali samo jedan glavni",
     "tacan_odgovor": "C",
-    "obrazlozenje": "Prema članu 54. stav 1. Zakona o krivičnom postupku FBiH, osumnjičeni odnosno optuženi može imati najviše tri branitelja."
+    "obrazlozenje": "Prema članu 54. stav 1. Zakona o krivičnom postupku FBiH, Osumnjičeni, odnosno optuženi može imati više branitelja, ali samo jedan od njih će imati status glavnog branitelja o čemu će se osumnjičeni, odnosno optuženi izjasniti. Osumnjičeni, odnosno optuženi može imati više branitelja, ali samo jedan od njih će imati status glavnog branitelja o čemu će se osumnjičeni, odnosno optuženi izjasniti. "
   },
   {
     "oblast": "Zakon o krivičnom postupku FBiH",
@@ -296,14 +296,14 @@
     "tacan_odgovor": "C",
     "obrazlozenje": "Prema članu 43. stav 1. Krivičnog zakona FBiH, kazna dugotrajnog zatvora ne može biti kraća od 21 godine ni duža od 45 godina."
   },
-  {
+ {
     "oblast": "Krivični zakon FBiH",
-    "pitanje": "Kada je pokušaj kažnjiv?",
+    "pitanje": "Kada je pokušaj krivičnog djela kažnjiv?",
     "odgovor_a": "Uvijek",
-    "odgovor_b": "Samo kad je to zakonom izričito propisano",
-    "odgovor_c": "Samo za teška krivična djela",
+    "odgovor_b": "Za djela s kaznom zatvora od 3 godine ili težom, te kad zakon izričito propisuje",
+    "odgovor_c": "Samo za djela s kaznom preko 5 godina",
     "tacan_odgovor": "B",
-    "obrazlozenje": "Prema članu 28. stav 1. Krivičnog zakona FBiH, pokušaj krivičnog djela kažnjava se samo kad je to zakonom izričito propisano."
+    "obrazlozenje": "Prema članu 28. stav 1. Krivičnog zakona FBiH, pokušaj se kažnjava ako se za to djelo može izreći kazna zatvora od tri godine ili teža, te za druga djela kad zakon izričito propisuje. "
   },
   {
     "oblast": "Krivični zakon FBiH",
@@ -424,12 +424,12 @@
   },
   {
     "oblast": "Krivični zakon FBiH",
-    "pitanje": "Koliko najduže može trajati rad za opće dobro kao zamjena za kaznu zatvora?",
-    "odgovor_a": "30 dana",
-    "odgovor_b": "60 dana",
-    "odgovor_c": "90 dana",
+    "pitanje": "Koliko najduže može trajati rad za opće dobro na slobodi?",
+    "odgovor_a": "60 radnih dana",
+    "odgovor_b": "90 radnih dana",
+    "odgovor_c": "120 radnih dana",
     "tacan_odgovor": "B",
-    "obrazlozenje": "Prema članu 44a. Krivičnog zakona FBiH, rad za opće dobro može trajati najmanje 10 a najviše 60 dana."
+    "obrazlozenje": "Prema članu 44. stav 3. Krivičnog zakona FBiH, rad za opće dobro na slobodi određuje se u trajanju od najmanje deset do najviše devedeset radnih dana. "
   },
   {
     "oblast": "Krivični zakon FBiH",
@@ -820,12 +820,12 @@
   },
   {
     "oblast": "Zakon o državnoj službi TK",
-    "pitanje": "Novčana kazna za lake povrede službene dužnosti iznosi?",
-    "odgovor_a": "Do 10% plaće u trajanju do 3 mjeseca",
-    "odgovor_b": "Do 15% plaće u trajanju do 3 mjeseca",
-    "odgovor_c": "Do 20% plaće u trajanju do 6 mjeseci",
-    "tacan_odgovor": "B",
-    "obrazlozenje": "Prema članu 62. stav 1. tačka b) Zakona o državnoj službi TK, novčana kazna za lake povrede iznosi do 15% plaće u trajanju do 3 mjeseca."
+    "pitanje": "Novčana kazna kao disciplinska mjera za laku povredu službene dužnosti iznosi?",
+    "odgovor_a": "Do 10% osnovne plate u trajanju do 3 mjeseca",
+    "odgovor_b": "Do 15% osnovne plate u trajanju do 3 mjeseca",
+    "odgovor_c": "Do 20% osnovne plate u trajanju do 6 mjeseci",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 60. stav 1. tačka a) pod 3) Zakona o državnoj službi TK, za lake povrede službene dužnosti može se izreći umanjenje osnovne plate do 10% za period do tri mjeseca. "
   },
   {
     "oblast": "Zakon o državnoj službi TK",
@@ -2701,12 +2701,12 @@
   },
   {
     "oblast": "Zakon o kantonalnom tužilaštvu TK",
-    "pitanje": "Da li funkcija tužilaca ima ograničen mandat?",
-    "odgovor_a": "Da traje 6 godina",
-    "odgovor_b": "Ne funkcija tužilaca je stalna",
-    "odgovor_c": "Da traje 4 godine",
+    "pitanje": "Da li funkcija tužioca (osim Glavnog tužioca i zamjenika) ima vremensko ograničenje?",
+    "odgovor_a": "Da, traje 6 godina",
+    "odgovor_b": "Ne, funkcija tužilaca je stalna",
+    "odgovor_c": "Da, reizbor je svake 4 godine",
     "tacan_odgovor": "B",
-    "obrazlozenje": "Prema članu 7. stav 2. Zakona o kantonalnom tužilaštvu TK, funkcija tužilaca je stalna, a njihov mandat prestaje u slučaju ostavke, penzionisanja ili smjenjivanja."
+    "obrazlozenje": "Prema članu 7. stav 2. Zakona o kantonalnom tužilaštvu TK, funkcija tužilaca je stalna. Mandat od 6 godina važi samo za Glavnog tužioca i zamjenike. "
   },
   {
     "oblast": "Zakon o državnoj službi TK",
@@ -4348,12 +4348,12 @@
   },
   {
     "oblast": "Zakon o državnoj službi TK",
-    "pitanje": "Može li se pripravnik namještenik zaposliti na neodređeno vrijeme?",
-    "odgovor_a": "Da odmah",
-    "odgovor_b": "Ne zapošljava se na određeno vrijeme",
-    "odgovor_c": "Samo uz posebno odobrenje",
+    "pitanje": "Može li se pripravnik namještenik odmah primiti u radni odnos na neodređeno vrijeme?",
+    "odgovor_a": "Da",
+    "odgovor_b": "Ne, prima se na određeno vrijeme (pripravnički staž)",
+    "odgovor_c": "Samo uz saglasnost Vlade",
     "tacan_odgovor": "B",
-    "obrazlozenje": "Prema članu 84. stav 3. Zakona o državnoj službi TK, pripravnici se upošljavaju na određeno vrijeme."
+    "obrazlozenje": "Prema članu 84. Zakona o državnoj službi TK, organ prima pripravnike na pripravnički staž (koji je po prirodi određenog trajanja), a ne odmah u stalni radni odnos. "
   },
   {
     "oblast": "Zakon o državnoj službi TK",
@@ -4516,5 +4516,1084 @@
     "odgovor_c": "U policiju",
     "tacan_odgovor": "B",
     "obrazlozenje": "Prema članu 33. stav 4. Zakona o kantonalnom tužilaštvu TK, tokom dijela pripravničkog staža pripravnici se upućuju na praktičan rad u općinske i kantonalne sudove."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Koje mjere se mogu preduzeti prema optuženom za osiguranje njegove prisutnosti i uspješno vođenje krivičnog postupka prema ZKP FBiH?",
+    "odgovor_a": "Samo pritvor i jamstvo",
+    "odgovor_b": "Poziv, dovođenje, zabrana napuštanja boravišta, jamstvo i pritvor",
+    "odgovor_c": "Samo novčana kazna i pritvor",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 137. stav 1. ZKP FBiH propisuje da su mjere koje se mogu preduzeti: poziv, dovođenje, zabrana napuštanja boravišta, jamstvo i pritvor."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Ko može izdati naredbu za dovođenje optuženog prema ZKP FBiH?",
+    "odgovor_a": "Samo sud",
+    "odgovor_b": "Sud, a izuzetno u hitnim slučajevima i tužitelj",
+    "odgovor_c": "Samo tužitelj",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 139. st. 1. i 2. ZKP FBiH propisuje da naredbu za dovođenje izdaje sud, a izuzetno u hitnim slučajevima može je izdati i tužitelj ako uredno pozvani osumnjičeni ne dođe."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Ko izvršava naredbu za dovođenje optuženog?",
+    "odgovor_a": "Policijski organ",
+    "odgovor_b": "Sudska policija",
+    "odgovor_c": "Tužiteljstvo",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 139. stav 3. ZKP FBiH propisuje da naredbu za dovođenje izvršava sudska policija."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Koliko može trajati privremeno oduzimanje putnih isprava po hitnoj naredbi tužitelja bez sudske odluke?",
+    "odgovor_a": "24 sata",
+    "odgovor_b": "48 sati",
+    "odgovor_c": "72 sata",
+    "tacan_odgovor": "c",
+    "obrazlozenje": "Član 140g. stav 3. ZKP FBiH propisuje da sudija mora odlučiti o naredbi tužitelja u roku od 72 sata, inače se putne isprave vraćaju."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Koliko često sud mora ispitati da li je primijenjena mjera zabrane još potrebna?",
+    "odgovor_a": "Svaki mjesec",
+    "odgovor_b": "Svaka dva mjeseca",
+    "odgovor_c": "Svaka tri mjeseca",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 140b. stav 6. ZKP FBiH propisuje da su sudija za prethodni postupak, sudija za prethodno saslušanje ili sudija odnosno predsjednik vijeća dužni svaka dva mjeseca ispitati da li je primijenjena mjera još potrebna."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Na što se jamstvo uvijek odnosi prema ZKP FBiH?",
+    "odgovor_a": "Na nepokretnu imovinu",
+    "odgovor_b": "Na novčani iznos",
+    "odgovor_c": "Na garanciju poslodavca",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 142. stav 1. ZKP FBiH propisuje da jamstvo uvijek glasi na novčani iznos koji se određuje s obzirom na težinu krivičnog djela, osobne i obiteljske prilike optuženog i imovno stanje osobe koja daje jamstvo."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Šta se dešava s jamstvom ako optuženi pobjegne?",
+    "odgovor_a": "Jamstvo se vraća garantu",
+    "odgovor_b": "Vrijednost data kao jamstvo postaje prihod budžeta Federacije",
+    "odgovor_c": "Jamstvo se prenosi na sud",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 142. stav 4. ZKP FBiH propisuje da ako optuženi pobjegne, rješenjem će se odrediti da je vrijednost data kao jamstvo prihod budžeta Federacije."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Za koje razloge iz člana 146. ZKP FBiH se NE MOŽE odrediti kućni pritvor sa elektronskim nadzorom?",
+    "odgovor_a": "Opasnost od bjekstva",
+    "odgovor_b": "Opasnost da će uništiti dokaze ili ometati postupak uticajem na svjedoke",
+    "odgovor_c": "Opasnost od ponavljanja krivičnog djela",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 144a. stav 1. ZKP FBiH propisuje da se kućni pritvor može odrediti ako postoji razlog iz člana 146. stav 1. tač. a), c) i d), ali NE i tačka b) koja se odnosi na koluzijsku opasnost."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Kome se NE MOŽE odrediti kućni pritvor sa elektronskim nadzorom?",
+    "odgovor_a": "Osumnjičenom za krivična djela protiv braka, porodice i omladine prema osobama iz istog domaćinstva",
+    "odgovor_b": "Osumnjičenom za privredna krivična djela",
+    "odgovor_c": "Osumnjičenom koji nema stalno boravište",
+    "tacan_odgovor": "a",
+    "obrazlozenje": "Član 144a. stav 8. ZKP FBiH propisuje da se kućni pritvor ne može odrediti osumnjičenom za krivična djela protiv braka, porodice i omladine prema osobama koje žive sa njim u istom domaćinstvu."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Ko vrši postavljanje i uklanjanje opreme za elektronski nadzor kod kućnog pritvora?",
+    "odgovor_a": "Policijski organ",
+    "odgovor_b": "Stručna osoba nadležne ustanove",
+    "odgovor_c": "Sudska policija",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 144e. stav 1. ZKP FBiH propisuje da postavljanje i uklanjanje opreme za elektronski nadzor vrši stručna osoba nadležne ustanove."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Ko određuje pritvor prema ZKP FBiH?",
+    "odgovor_a": "Tužitelj samostalno",
+    "odgovor_b": "Sud na prijedlog tužitelja",
+    "odgovor_c": "Policijski organ",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 145. stav 2. ZKP FBiH propisuje da pritvor određuje ili produžuje rješenjem sud na prijedlog tužitelja."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Koliko dana prije isteka roka iz rješenja o pritvoru tužitelj mora podnijeti prijedlog za produženje pritvora?",
+    "odgovor_a": "Tri dana",
+    "odgovor_b": "Pet dana",
+    "odgovor_c": "Sedam dana",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 145. stav 3. ZKP FBiH propisuje da je tužitelj dužan sudu podnijeti obrazložen prijedlog za produženje pritvora najkasnije pet dana prije isteka roka iz rješenja o pritvoru."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Koji je jedan od razloga za određivanje pritvora prema članu 146. ZKP FBiH?",
+    "odgovor_a": "Ako osumnjičeni nema stalno zaposlenje",
+    "odgovor_b": "Ako se krije ili postoje okolnosti koje ukazuju na opasnost od bjekstva",
+    "odgovor_c": "Ako osumnjičeni ima prethodno krivično djelo",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 146. stav 1. tačka a) ZKP FBiH propisuje da se pritvor može odrediti ako se osoba krije ili ako postoje druge okolnosti koje ukazuju na opasnost od bjekstva."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Za koja krivična djela se može odrediti pritvor zbog opasnosti od ponavljanja djela?",
+    "odgovor_a": "Za sva krivična djela",
+    "odgovor_b": "Za djela za koja se može izreći kazna zatvora najmanje tri godine ili teža",
+    "odgovor_c": "Za djela za koja se može izreći kazna zatvora najmanje pet godina",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 146. stav 1. tačka c) ZKP FBiH propisuje da se pritvor može odrediti ako okolnosti opravdavaju bojazan da će ponoviti djelo za koje se može izreći kazna zatvora najmanje od tri godine ili teža kazna."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "U kom roku policijski organ mora sprovesti osobu kojoj je oduzeta sloboda tužitelju?",
+    "odgovor_a": "Najkasnije u roku od 12 sati",
+    "odgovor_b": "Najkasnije u roku od 24 sata",
+    "odgovor_c": "Najkasnije u roku od 48 sati",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 153. stav 1. ZKP FBiH propisuje da je policijski organ dužan osobu kojoj je oduzeta sloboda bez odlaganja, a najkasnije u roku od 24 sata sprovesti tužitelju."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Koliko iznosi rok za sprovođenje osobe tužitelju kod krivičnih djela terorizma?",
+    "odgovor_a": "24 sata",
+    "odgovor_b": "48 sati",
+    "odgovor_c": "72 sata",
+    "tacan_odgovor": "c",
+    "obrazlozenje": "Član 153. stav 2. ZKP FBiH propisuje da se izuzetno, kada se radi o krivičnim djelima terorizma, osoba mora sprovesti tužitelju najkasnije u roku od 72 sata."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "U kom roku sudija za prethodni postupak mora donijeti odluku o prijedlogu za određivanje pritvora?",
+    "odgovor_a": "Odmah, a najkasnije u roku od 12 sati",
+    "odgovor_b": "Odmah, a najkasnije u roku od 24 sata",
+    "odgovor_c": "Odmah, a najkasnije u roku od 48 sati",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 153. stav 6. ZKP FBiH propisuje da će sudija za prethodni postupak odmah, a najkasnije u roku od 24 sata donijeti odluku o prijedlogu za određivanje pritvora."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "U kom roku vijeće mora odlučiti o žalbi na rješenje o pritvoru?",
+    "odgovor_a": "U roku od 24 sata",
+    "odgovor_b": "U roku od 48 sati",
+    "odgovor_c": "U roku od 72 sata",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 153. stav 9. ZKP FBiH propisuje da o žalbi odlučuje vijeće koje je dužno donijeti odluku u roku od 48 sati od prijema žalbe u sud."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Koliko može trajati pritvor po rješenju sudije za prethodni postupak?",
+    "odgovor_a": "Najduže 15 dana",
+    "odgovor_b": "Najduže mjesec dana od dana lišenja slobode",
+    "odgovor_c": "Najduže dva mjeseca",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 149. stav 1. ZKP FBiH propisuje da po rješenju sudije za prethodni postupak pritvor može trajati najduže mjesec dana od dana lišenja slobode."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Za koliko se pritvor može produžiti odlukom vijeća po prijedlogu tužitelja?",
+    "odgovor_a": "Za najviše mjesec dana",
+    "odgovor_b": "Za najviše dva mjeseca",
+    "odgovor_c": "Za najviše tri mjeseca",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 149. stav 2. ZKP FBiH propisuje da se pritvor može odlukom vijeća, po obrazloženom prijedlogu tužitelja, produžiti za najviše dva mjeseca."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "U kojim slučajevima vijeće može produžiti pritvor za još najviše tri mjeseca?",
+    "odgovor_a": "Za sva krivična djela",
+    "odgovor_b": "Ako se postupak vodi za krivično djelo za koje se može izreći kazna zatvora 10 godina ili teža i ako postoje naročito važni razlozi",
+    "odgovor_c": "Samo za organizirani kriminal",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 149. stav 3. ZKP FBiH propisuje ove uvjete za dodatno produženje pritvora za još najviše tri mjeseca."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Koliko maksimalno može trajati pritvor nakon potvrđivanja optužnice za djelo sa propisanom kaznom do pet godina?",
+    "odgovor_a": "Šest mjeseci",
+    "odgovor_b": "Jednu godinu",
+    "odgovor_c": "Dvije godine",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 151. stav 2. tačka a) ZKP FBiH propisuje da pritvor može trajati najduže jednu godinu u slučaju krivičnog djela za koje je propisana kazna zatvora do pet godina."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Koliko maksimalno može trajati pritvor nakon potvrđivanja optužnice za djelo sa propisanom kaznom dugotrajnog zatvora?",
+    "odgovor_a": "Dvije godine",
+    "odgovor_b": "Tri godine",
+    "odgovor_c": "Pet godina",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 151. stav 2. tačka d) ZKP FBiH propisuje da pritvor može trajati najduže tri godine u slučaju krivičnog djela za koje je propisana kazna dugotrajnog zatvora."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Koliko može trajati pritvor poslije izricanja prvostepene presude?",
+    "odgovor_a": "Najduže šest mjeseci",
+    "odgovor_b": "Najduže devet mjeseci, a izuzetno još šest mjeseci",
+    "odgovor_c": "Najduže jednu godinu",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 152. stav 3. ZKP FBiH propisuje da poslije izricanja prvostepene presude pritvor može trajati najduže još devet mjeseci, a izuzetno u složenim predmetima i iz važnih razloga odlukom vijeća može se produžiti za još najduže šest mjeseci."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Koliko dnevno kretanja na otvorenom prostoru mora biti osigurano pritvorenicima?",
+    "odgovor_a": "Najmanje jedan sat",
+    "odgovor_b": "Najmanje dva sata",
+    "odgovor_c": "Najmanje tri sata",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 157. stav 1. ZKP FBiH propisuje da će se pritvorenicima osigurati kretanje na otvorenom prostoru najmanje dva sata dnevno."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Može li pritvorenik koristiti mobitel?",
+    "odgovor_a": "Da, bez ograničenja",
+    "odgovor_b": "Da, uz odobrenje suda",
+    "odgovor_c": "Ne, ali ima pravo obavljati telefonske razgovore pod nadzorom uprave pritvora",
+    "tacan_odgovor": "c",
+    "obrazlozenje": "Član 158. stav 4. ZKP FBiH propisuje da pritvorenik ne može koristiti mobitel, ali ima pravo, u skladu s kućnim redom a pod nadzorom uprave pritvora, o svom trošku obavljati telefonske razgovore."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Ko ima obavezu prijavljivanja krivičnog djela prema ZKP FBiH?",
+    "odgovor_a": "Samo policijski organi",
+    "odgovor_b": "Službene i odgovorne osobe u svim organima vlasti, javnim preduzećima i ustanovama",
+    "odgovor_c": "Samo tužiteljstvo",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 228. stav 1. ZKP FBiH propisuje ovu obavezu za službene i odgovorne osobe u svim organima vlasti u Federaciji, javnim preduzećima i ustanovama i drugim pravnim licima."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Ko je dužan prijaviti sumnju da je maloljetna osoba žrtva zlostavljanja?",
+    "odgovor_a": "Samo roditelji",
+    "odgovor_b": "Zdravstveni radnici, nastavnici, vaspitači, roditelji, staratelji, usvojitelji i druge osobe ovlaštene za zaštitu maloljetnika",
+    "odgovor_c": "Samo policija",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 228. stav 2. ZKP FBiH propisuje ovu obavezu za zdravstvene radnike, nastavnike, vaspitače, roditelje, staratelje, usvojitelje i druge osobe ovlaštene ili dužne pružati zaštitu maloljetnicima."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Kada tužitelj naređuje provođenje istrage?",
+    "odgovor_a": "Kada postoji osnovana sumnja da je izvršeno krivično djelo",
+    "odgovor_b": "Kada postoji vjerovatnoća da je izvršeno krivično djelo",
+    "odgovor_c": "Kada postoje dokazi da je izvršeno krivično djelo",
+    "tacan_odgovor": "a",
+    "obrazlozenje": "Član 231. stav 1. ZKP FBiH propisuje da tužitelj naređuje provođenje istrage ako postoji osnovana sumnja da je izvršeno krivično djelo."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "U kom roku oštećeni i podnositelj prijave mogu podnijeti pritužbu na odluku o neprovođenju istrage?",
+    "odgovor_a": "Pet dana",
+    "odgovor_b": "Osam dana",
+    "odgovor_c": "Petnaest dana",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 231. stav 4. ZKP FBiH propisuje da oštećeni i podnositelj prijave imaju pravo podnijeti pritužbu u roku od osam dana uredu tužitelja."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Ko može narediti obdukciju i ekshumaciju leša?",
+    "odgovor_a": "Ovlaštena službena osoba",
+    "odgovor_b": "Tužitelj, a za ekshumaciju traži naredbu od suda",
+    "odgovor_c": "Isključivo sud",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 237. ZKP FBiH propisuje da tužitelj naređuje izvođenje pregleda i obdukcije, a ako je leš već zakopan odredit će se ekshumacija za koju tužitelj traži naredbu od suda."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "U kom roku tužilac mora obavijestiti glavnog tužioca ako se istraga ne završi?",
+    "odgovor_a": "U roku od tri mjeseca",
+    "odgovor_b": "U roku od šest mjeseci od donošenja naredbe o provođenju istrage",
+    "odgovor_c": "U roku od jedne godine",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 240. stav 2. ZKP FBiH propisuje da ako se istraga ne završi u roku od šest mjeseci od donošenja naredbe o provođenju istrage, tužilac će obavijestiti glavnog tužioca o razlozima neokončanja istrage."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Koliki dodatni rok za okončanje istrage može odrediti glavni tužilac za krivična djela sa kaznom zatvora od 10 godina ili težom?",
+    "odgovor_a": "Šest mjeseci",
+    "odgovor_b": "Najviše jednu godinu",
+    "odgovor_c": "Neograničeno",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 240. stav 2. ZKP FBiH propisuje da glavni tužilac može odrediti novi rok za okončanje istrage koji ne može biti duži od šest mjeseci, odnosno ne može biti duži od jedne godine za krivična djela za koja se može izreći kazna zatvora u trajanju od 10 godina ili teža kazna."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "U kom roku osumnjičeni i oštećeni mogu podnijeti pritužbu glavnom tužiocu zbog trajanja postupka?",
+    "odgovor_a": "U roku od 8 dana",
+    "odgovor_b": "U roku od 15 dana od dana dostavljanja obavijesti",
+    "odgovor_c": "U roku od 30 dana",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 240. stav 4. ZKP FBiH propisuje da osumnjičeni i oštećeni mogu u roku od 15 dana od dana dostavljanja obavijesti podnijeti pritužbu glavnom tužiocu zbog trajanja postupka."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Može li se podići optužnica ako osumnjičeni nije bio ispitan?",
+    "odgovor_a": "Da, uvijek",
+    "odgovor_b": "Da, ako postoje valjani razlozi",
+    "odgovor_c": "Ne, optužnica se ne može podići",
+    "tacan_odgovor": "c",
+    "obrazlozenje": "Član 240. stav 5. ZKP FBiH izričito propisuje da se optužnica ne može podići ako osumnjičeni nije bio ispitan."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "U kom roku tužilac mora uputiti optužnicu sudiji za prethodno saslušanje nakon okončanja istrage?",
+    "odgovor_a": "U roku od 15 dana",
+    "odgovor_b": "U roku od 30 dana",
+    "odgovor_c": "U roku od 60 dana",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 241. stav 1. ZKP FBiH propisuje da tužilac mora pripremiti i uputiti optužnicu sudiji za prethodno saslušanje u roku od 30 dana od dana kada je okončanje istrage zabilježeno u spisu."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "U kom roku sudija za prethodno saslušanje može potvrditi ili odbiti optužnicu?",
+    "odgovor_a": "U roku od pet dana",
+    "odgovor_b": "U roku od osam dana, a u složenim predmetima 15 dana",
+    "odgovor_c": "U roku od 30 dana",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 243. stav 2. ZKP FBiH propisuje da sudija za prethodno saslušanje može potvrditi ili odbiti optužnicu u roku od osam dana, a u složenim predmetima u roku od 15 dana od dana prijema optužnice."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "U kom roku se podnosi žalba protiv rješenja kojim se odbijaju tačke optužnice?",
+    "odgovor_a": "U roku od 12 sati",
+    "odgovor_b": "U roku od 24 sata",
+    "odgovor_c": "U roku od 48 sati",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 243. stav 2. ZKP FBiH propisuje da se protiv rješenja kojim se odbijaju tačke optužnice žalba podnosi u roku od 24 sata."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "U kom roku vijeće odlučuje o žalbi na rješenje o odbijanju optužnice?",
+    "odgovor_a": "U roku od 24 sata",
+    "odgovor_b": "U roku od 48 sati",
+    "odgovor_c": "U roku od 72 sata",
+    "tacan_odgovor": "c",
+    "obrazlozenje": "Član 243. stav 2. ZKP FBiH propisuje da o žalbi odlučuje vijeće u roku od 72 sata."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Koliki rok optuženi ima za podnošenje prethodnih prigovora od dana dostavljanja optužnice?",
+    "odgovor_a": "8 dana",
+    "odgovor_b": "15 dana",
+    "odgovor_c": "30 dana",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 243. stav 5. ZKP FBiH propisuje da sudija za prethodno saslušanje obavještava optuženog da u roku od 15 dana od dana dostavljanja optužnice ima pravo na podnošenje prethodnih prigovora."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Do kada se može zaključiti sporazum o priznanju krivnje?",
+    "odgovor_a": "Samo do potvrđivanja optužnice",
+    "odgovor_b": "Do završetka glavne rasprave, odnosno rasprave pred žalbenim vijećem",
+    "odgovor_c": "Samo do izjašnjenja o krivnji",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 246. stav 1. ZKP FBiH propisuje da osumnjičeni odnosno optuženi i branitelj mogu do završetka glavne rasprave, odnosno rasprave pred žalbenim vijećem pregovarati o uvjetima priznavanja krivnje."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Do kada tužitelj može povući optužnicu bez prethodnog odobrenja?",
+    "odgovor_a": "Do njenog potvrđivanja",
+    "odgovor_b": "Do početka glavnog pretresa",
+    "odgovor_c": "Do izricanja presude",
+    "tacan_odgovor": "a",
+    "obrazlozenje": "Član 247. stav 1. ZKP FBiH propisuje da tužitelj može povući optužnicu bez prethodnog odobrenja do njenog potvrđivanja, a nakon toga do početka glavnog pretresa samo uz odobrenje sudije za prethodno saslušanje."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Šta NIJE predmet prethodnog prigovora prema ZKP FBiH?",
+    "odgovor_a": "Osporavanje nadležnosti",
+    "odgovor_b": "Osporavanje zakonitosti dokaza",
+    "odgovor_c": "Osporavanje visine predložene kazne",
+    "tacan_odgovor": "c",
+    "obrazlozenje": "Član 248. stav 1. ZKP FBiH navodi da se prethodnim prigovorima osporava nadležnost, ističu okolnosti koje isključuju gonjenje, ukazuje na formalne nedostatke, osporava zakonitost dokaza i sl., ali ne i visina predložene kazne."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Ko može prisustvovati glavnom pretresu?",
+    "odgovor_a": "Sve osobe",
+    "odgovor_b": "Samo punoljetne osobe",
+    "odgovor_c": "Samo osobe koje imaju pravni interes",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 249. stav 2. ZKP FBiH propisuje da glavnom pretresu mogu prisustvovati samo punoljetne osobe."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Kada sud može isključiti javnost sa glavnog pretresa?",
+    "odgovor_a": "Na zahtjev optuženog",
+    "odgovor_b": "Ako je to u interesu državne sigurnosti, čuvanja tajne, javnog reda, zaštite morala, osobnog života ili zaštite maloljetnika ili svjedoka",
+    "odgovor_c": "Uvijek kada to zatraži tužitelj",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 250. ZKP FBiH navodi ove razloge za isključenje javnosti."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Je li u sudnici dozvoljeno filmsko ili televizijsko snimanje?",
+    "odgovor_a": "Da, uvijek",
+    "odgovor_b": "Ne, osim izuzetno uz odobrenje predsjednika suda",
+    "odgovor_c": "Da, uz odobrenje stranaka",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 256. stav 3. ZKP FBiH propisuje da je u sudnici zabranjeno filmsko ili televizijsko snimanje, ali izuzetno predsjednik suda može odobriti takvo snimanje."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Koliko može iznositi novčana kazna za branitelja koji narušava red na glavnom pretresu?",
+    "odgovor_a": "Do 5.000 KM",
+    "odgovor_b": "Do 10.000 KM",
+    "odgovor_c": "Do 30.000 KM ako i dalje nastavlja narušavati red",
+    "tacan_odgovor": "c",
+    "obrazlozenje": "Član 257. st. 3. i 4. ZKP FBiH propisuje da se branitelj koji ometa red može kazniti do 10.000 KM, a ako produži narušavati red do 30.000 KM."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Koliko može trajati pritvor optuženom koji očigledno izbjegava dolazak na glavni pretres?",
+    "odgovor_a": "Do 15 dana",
+    "odgovor_b": "Do objavljivanja presude, a najduže 30 dana",
+    "odgovor_c": "Do 60 dana",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 261. stav 4. ZKP FBiH propisuje da ako ne bude ranije ukinut, pritvor traje do objavljivanja presude, a najduže 30 dana."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Je li dozvoljeno suđenje u odsustvu prema ZKP FBiH?",
+    "odgovor_a": "Da, uz ispunjenje određenih uvjeta",
+    "odgovor_b": "Ne, optuženom se ne može suditi u odsustvu",
+    "odgovor_c": "Da, ali samo za lakša krivična djela",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 262. ZKP FBiH izričito propisuje da se optuženom ne može suditi u odsustvu."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Koliko minimalno vremena za pripremu odbrane mora imati novi branitelj za krivično djelo sa kaznom od 10 godina ili težom?",
+    "odgovor_a": "8 dana",
+    "odgovor_b": "15 dana",
+    "odgovor_c": "30 dana",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 263. stav 3. ZKP FBiH propisuje da vremenski period za pripremu odbrane novog branitelja ne može biti kraći od 15 dana ako se radi o krivičnom djelu s propisanom kaznom zatvora deset godina ili težom kaznom."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Kolika je novčana kazna za svjedoka koji bez opravdanog razloga odbije svjedočiti?",
+    "odgovor_a": "Do 10.000 KM",
+    "odgovor_b": "Do 20.000 KM",
+    "odgovor_c": "Do 30.000 KM",
+    "tacan_odgovor": "c",
+    "obrazlozenje": "Član 283. stav 1. ZKP FBiH propisuje da se svjedok koji odbije svjedočiti bez opravdanog razloga može kazniti novčanom kaznom do 30.000 KM."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Koliko dugo svjedok može biti zatvoren zbog odbijanja svjedočenja?",
+    "odgovor_a": "Najduže 15 dana",
+    "odgovor_b": "Najduže 30 dana",
+    "odgovor_c": "Najduže 60 dana",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 283. stav 2. ZKP FBiH propisuje da zatvor traje dok svjedok ne pristane svjedočiti, ili dok njegovo svjedočenje ne postane nepotrebno, ili dok se krivični postupak ne završi, ali najduže 30 dana."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Kada se izrečena presuda nalazi u zapisniku o glavnom pretresu?",
+    "odgovor_a": "Nikada",
+    "odgovor_b": "Samo izreka presude",
+    "odgovor_c": "Potpuna presuda sa obrazloženjem",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 269. stav 1. ZKP FBiH propisuje da se u zapisnik o glavnom pretresu unosi potpuna izreka presude, uz naznačenje da li je presuda javno objavljena."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "U čije ime se izriče i objavljuje presuda?",
+    "odgovor_a": "U ime suda",
+    "odgovor_b": "U ime naroda",
+    "odgovor_c": "U ime Federacije Bosne i Hercegovine",
+    "tacan_odgovor": "c",
+    "obrazlozenje": "Član 294. ZKP FBiH propisuje da se presuda izriče i objavljuje u ime Federacije Bosne i Hercegovine."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Kada sud donosi presudu kojom se optužba odbija?",
+    "odgovor_a": "Kada djelo nije dokazano",
+    "odgovor_b": "Kada sud nije stvarno nadležan, tužitelj je odustao, djelo je obuhvaćeno amnestijom ili pomilovanjem, ili postoji pravosnažna presuda",
+    "odgovor_c": "Samo kada tužitelj odustane",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 298. ZKP FBiH navodi razloge za odbijanje optužbe uključujući nenadležnost, odustanak tužitelja, amnestiju, pomilovanje, zastarjelost i res iudicata."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Kada sud donosi oslobađajuću presudu?",
+    "odgovor_a": "Kada djelo nije krivično djelo, postoje okolnosti koje isključuju krivičnu odgovornost, ili nije dokazano da je optuženi učinio djelo",
+    "odgovor_b": "Samo kada nije dokazano da je optuženi učinio djelo",
+    "odgovor_c": "Kada tužitelj odustane od optužbe",
+    "tacan_odgovor": "a",
+    "obrazlozenje": "Član 299. ZKP FBiH navodi tri razloga za oslobađajuću presudu."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Koliki je rok za podnošenje žalbe na presudu?",
+    "odgovor_a": "8 dana od dana prijema presude",
+    "odgovor_b": "15 dana od dana prijema presude",
+    "odgovor_c": "30 dana od dana prijema presude",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 307. ZKP FBiH propisuje da se žalba protiv presude može podnijeti u roku od 15 dana od dana dostavljanja prijepisa presude."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Ko može podnijeti žalbu na presudu?",
+    "odgovor_a": "Samo stranke",
+    "odgovor_b": "Stranke i branitelj, a u korist optuženog i bračni drug, srodnik i usvojitelj",
+    "odgovor_c": "Samo optuženi i branitelj",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 308. st. 1. i 2. ZKP FBiH propisuje da žalbu mogu podnijeti stranke i branitelj, a u korist optuženog i njegov bračni drug, srodnik u pravoj liniji, usvojitelj, usvojenik, brat, sestra i hranitelj."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Može li branitelj podnijeti žalbu protiv volje optuženog?",
+    "odgovor_a": "Da, uvijek",
+    "odgovor_b": "Ne, nikada",
+    "odgovor_c": "Ne, osim ako je optuženom izrečena kazna dugotrajnog zatvora",
+    "tacan_odgovor": "c",
+    "obrazlozenje": "Član 308. stav 6. ZKP FBiH propisuje da branitelj može podnijeti žalbu i bez naročitog ovlaštenja optuženog, ali ne i protiv njegove volje, osim ako je optuženom izrečena kazna dugotrajnog zatvora."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Do kada se optuženi može odreći prava na žalbu?",
+    "odgovor_a": "Odmah nakon objavljivanja presude",
+    "odgovor_b": "Tek nakon što mu je presuda dostavljena",
+    "odgovor_c": "Do isteka roka za žalbu",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 309. stav 1. ZKP FBiH propisuje da se optuženi može odreći prava na žalbu samo nakon što mu je presuda dostavljena."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Koji su žalbeni osnovi prema ZKP FBiH?",
+    "odgovor_a": "Samo povreda zakona i pogrešno utvrđeno činjenično stanje",
+    "odgovor_b": "Bitna povreda postupka, povreda krivičnog zakona, pogrešno ili nepotpuno utvrđeno činjenično stanje, odluka o sankcijama",
+    "odgovor_c": "Samo odluka o kazni",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 311. ZKP FBiH navodi četiri žalbena osnova."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Koja je bitna povreda postupka ako je presuda zasnovana na dokazu na kojem se ne može zasnivati?",
+    "odgovor_a": "Apsolutno bitna povreda",
+    "odgovor_b": "Relativno bitna povreda",
+    "odgovor_c": "Nije povreda postupka",
+    "tacan_odgovor": "a",
+    "obrazlozenje": "Član 312. stav 1. tačka i) ZKP FBiH navodi da je bitna povreda postupka ako se presuda zasniva na dokazu na kome se po odredbama zakona ne može zasnivati."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "U kom roku se podnosi odgovor na žalbu?",
+    "odgovor_a": "5 dana od prijema žalbe",
+    "odgovor_b": "8 dana od prijema žalbe",
+    "odgovor_c": "15 dana od prijema žalbe",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 317. ZKP FBiH propisuje da protivna stranka i branitelj mogu u roku od osam dana od dana prijema podnijeti sudu odgovor na žalbu."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Šta znači zabrana reformatio in peius?",
+    "odgovor_a": "Zabrana ponovnog suđenja",
+    "odgovor_b": "Ako je žalba podnesena samo u korist optuženog, presuda se ne smije izmijeniti na njegovu štetu",
+    "odgovor_c": "Zabrana ponavljanja postupka",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 322. ZKP FBiH propisuje da ako je podnesena žalba samo u korist optuženog, presuda se ne smije izmijeniti na njegovu štetu."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Kada se MORA održati pretres pred drugostepenim sudom?",
+    "odgovor_a": "Uvijek",
+    "odgovor_b": "Ako je u istom predmetu presuda već jednom bila ukinuta",
+    "odgovor_c": "Nikada, uvijek se odlučuje na sjednici vijeća",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 325. stav 2. ZKP FBiH propisuje da se pretres pred drugostepenim sudom mora održati ako je u istom krivičnom predmetu presuda već jednom bila ukinuta."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Kada je dozvoljena žalba na drugostepenu presudu?",
+    "odgovor_a": "Uvijek",
+    "odgovor_b": "Samo ako je drugostepeni sud preinačio oslobađajuću presudu u osuđujuću",
+    "odgovor_c": "Nikada",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 333. stav 1. ZKP FBiH propisuje da je žalba dozvoljena ako je drugostepeni sud preinačio prvostepenu oslobađajuću presudu i izrekao osuđujuću, ili na raspravi donio osuđujuću presudu umjesto oslobađajuće."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Koliki je opći rok za podnošenje žalbe na rješenje?",
+    "odgovor_a": "24 sata",
+    "odgovor_b": "3 dana od dostavljanja rješenja",
+    "odgovor_c": "8 dana od dostavljanja rješenja",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 335. stav 2. ZKP FBiH propisuje da se, ako nije drugačije određeno, žalba na rješenje podnosi u roku od tri dana od dana dostavljanja rješenja."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Za koja krivična djela tužitelj može zatražiti izdavanje kaznenog naloga?",
+    "odgovor_a": "Za sva krivična djela",
+    "odgovor_b": "Za krivična djela s propisanom kaznom zatvora do pet godina ili novčanom kaznom kao glavnom kaznom",
+    "odgovor_c": "Za krivična djela s propisanom kaznom zatvora do tri godine",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 350. stav 1. ZKP FBiH propisuje da za krivična djela s propisanom kaznom zatvora do pet godina ili novčanom kaznom kao glavnom kaznom tužitelj može zatražiti izdavanje kaznenog naloga."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Kolika novčana kazna se može zatražiti kaznenim nalogom?",
+    "odgovor_a": "Do 10.000 KM",
+    "odgovor_b": "Do 30.000 KM",
+    "odgovor_c": "Do 50.000 KM",
+    "tacan_odgovor": "c",
+    "obrazlozenje": "Član 350. stav 3. ZKP FBiH propisuje da se izricanje novčane kazne može zatražiti u visini koja ne može biti veća od 50.000 KM."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "U kom roku sud zakazuje saslušanje optuženog nakon potvrđivanja optužnice za kazneni nalog?",
+    "odgovor_a": "U roku od 3 dana",
+    "odgovor_b": "Bez odlaganja, a najkasnije u roku od 8 dana",
+    "odgovor_c": "U roku od 15 dana",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 352. stav 1. ZKP FBiH propisuje da sudija zakazuje saslušanje optuženog bez odlaganja, a najkasnije u roku od osam dana od dana potvrđivanja optužnice."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Kada se može dopustiti ponavljanje krivičnog postupka u korist osuđenog?",
+    "odgovor_a": "Samo ako se pronađu novi dokazi",
+    "odgovor_b": "Ako je presuda zasnovana na lažnoj ispravi ili lažnom iskazu, ako je do presude došlo usljed krivičnog djela sudije, ili ako se iznesu nove činjenice ili dokazi",
+    "odgovor_c": "Samo ako Ustavni sud utvrdi kršenje prava",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 343. stav 1. ZKP FBiH navodi razloge za ponavljanje postupka u korist osuđenog."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Ko može podnijeti zahtjev za ponavljanje postupka poslije smrti osuđenog?",
+    "odgovor_a": "Niko",
+    "odgovor_b": "Tužitelj i bračni drug, srodnici u pravoj liniji, brat, sestra, usvojitelj i usvojenik",
+    "odgovor_c": "Samo bračni drug",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 345. stav 1. ZKP FBiH propisuje da poslije smrti osuđenog zahtjev u njegovu korist mogu podnijeti tužitelj i osobe iz člana 308. stav 2. (bračni drug, srodnici, usvojitelj, usvojenik, brat, sestra, hranitelj)."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Kada počinje teći rok za brisanje osude na novčanu kaznu ili zatvor do jedne godine iz kaznene evidencije?",
+    "odgovor_a": "Od dana pravosnažnosti presude",
+    "odgovor_b": "Od dana izvršenja, zastare ili oprosta kazne",
+    "odgovor_c": "Od dana izricanja presude",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 125. stav 1. tačka c) KZ FBiH propisuje da se osuda na novčanu kaznu i kaznu zatvora do jedne godine briše po proteku tri godine od dana izvršenja, zastare ili oprosta kazne."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Koliki je rok za brisanje osude na kaznu zatvora preko jedne do tri godine?",
+    "odgovor_a": "Tri godine",
+    "odgovor_b": "Pet godina",
+    "odgovor_c": "Deset godina",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 125. stav 1. tačka d) KZ FBiH propisuje da se osuda na kaznu zatvora preko jedne do tri godine briše po proteku pet godina od dana izvršenja, zastare ili oprosta kazne."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Koliki je rok za brisanje osude na kaznu zatvora preko pet do deset godina?",
+    "odgovor_a": "Deset godina",
+    "odgovor_b": "Petnaest godina",
+    "odgovor_c": "Dvadeset godina",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 125. stav 1. tačka f) KZ FBiH propisuje da se osuda na kaznu zatvora preko pet do deset godina briše po proteku 15 godina od dana izvršenja, zastare ili oprosta kazne."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Koja osuda se NE MOŽE brisati iz kaznene evidencije?",
+    "odgovor_a": "Osuda na kaznu zatvora preko deset godina",
+    "odgovor_b": "Osuda na kaznu dugotrajnog zatvora i osuda za spolno zlostavljanje djeteta",
+    "odgovor_c": "Sve osude se mogu brisati",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 125. stav 4. KZ FBiH propisuje da se osuda na kaznu dugotrajnog zatvora i osuda zbog krivičnih djela spolnog zlostavljanja i iskorištavanja djeteta te trgovine ljudima na štetu djeteta ne briše."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Kada se osuda ne može brisati iz kaznene evidencije?",
+    "odgovor_a": "Samo dok traje krivični postupak za novo djelo",
+    "odgovor_b": "Dok traje krivični postupak za novo djelo, dok traje primjena mjera sigurnosti ili dok oduzimanje imovinske koristi nije potpuno izvršeno",
+    "odgovor_c": "Nikada ako je osoba recidivist",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 125. st. 5. i 6. KZ FBiH propisuje ove uvjete kada se osuda ne može brisati."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Da li su podaci iz kaznene evidencije javni?",
+    "odgovor_a": "Da, uvijek",
+    "odgovor_b": "Ne, podaci iz kaznene evidencije nisu javni podaci",
+    "odgovor_c": "Da, ali samo za osuđene osobe",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 125a. stav 1. KZ FBiH izričito propisuje da podaci iz kaznene evidencije nisu javni podaci."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Za koga se NE primjenjuje odgovornost pravnih osoba za krivična djela?",
+    "odgovor_a": "Za privatna preduzeća",
+    "odgovor_b": "Za BiH, FBiH, RS, Brčko Distrikt, kanton, grad, općinu i mjesnu zajednicu",
+    "odgovor_c": "Za javna preduzeća",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 126. stav 1. KZ FBiH izuzima ove subjekte od odgovornosti pravnih osoba za krivična djela."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Koji je jedan od osnova odgovornosti pravne osobe za krivično djelo?",
+    "odgovor_a": "Kada zaposlenik počini djelo bez znanja rukovodstva",
+    "odgovor_b": "Kada smisao učinjenog djela proizlazi iz zaključka, naloga ili odobrenja rukovodećih ili nadzornih organa",
+    "odgovor_c": "Uvijek kada se djelo počini na radnom mjestu",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 128. tačka a) KZ FBiH navodi ovaj osnov odgovornosti pravne osobe."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Da li je pravna osoba odgovorna i kada učinitelj nije kriv za djelo?",
+    "odgovor_a": "Ne, nikada",
+    "odgovor_b": "Da, uz ispunjenje uvjeta iz člana 128. KZ FBiH",
+    "odgovor_c": "Da, ali samo za teža krivična djela",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 129. stav 1. KZ FBiH propisuje da je pravna osoba odgovorna za krivično djelo i kad učinitelj za učinjeno djelo nije kriv, uz ispunjenje ostalih uvjeta."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Koje kazne se mogu izreći pravnim osobama?",
+    "odgovor_a": "Samo novčana kazna",
+    "odgovor_b": "Novčana kazna, kazna oduzimanja imovine i kazna prestanka pravne osobe",
+    "odgovor_c": "Samo kazna prestanka pravne osobe",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 135. KZ FBiH propisuje da se pravnim osobama mogu izreći novčana kazna, kazna oduzimanja imovine i kazna prestanka pravne osobe."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Koliki je raspon novčane kazne za pravne osobe?",
+    "odgovor_a": "Od 1.000 KM do 1.000.000 KM",
+    "odgovor_b": "Od 5.000 KM do 5.000.000 KM",
+    "odgovor_c": "Od 10.000 KM do 10.000.000 KM",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 136. stav 1. KZ FBiH propisuje da novčana kazna za pravnu osobu ne može biti manja od 5.000 KM niti veća od 5.000.000 KM."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Kada se može izreći kazna prestanka pravne osobe?",
+    "odgovor_a": "Za svako krivično djelo",
+    "odgovor_b": "Ako je aktivnost pravne osobe u cijelosti ili pretežno korištena za učinjenje krivičnih djela",
+    "odgovor_c": "Samo za finansijska krivična djela",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 138. stav 1. KZ FBiH propisuje da se kazna prestanka pravne osobe može izreći ako je aktivnost pravne osobe u cijelosti ili pretežno korištena za učinjenje krivičnih djela."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Koliko može trajati sigurnosna mjera zabrane obavljanja određene djelatnosti za pravnu osobu?",
+    "odgovor_a": "Od tri mjeseca do tri godine",
+    "odgovor_b": "Od šest mjeseci do pet godina",
+    "odgovor_c": "Od jedne do deset godina",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 143. stav 3. KZ FBiH propisuje da se sigurnosna mjera zabrane obavljanja određene djelatnosti može izreći u trajanju od šest mjeseci do pet godina."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Kada nastupa zastarjelost izvršenja novčane kazne izrečene pravnoj osobi?",
+    "odgovor_a": "Dvije godine od pravosnažnosti presude",
+    "odgovor_b": "Tri godine od pravosnažnosti presude",
+    "odgovor_c": "Pet godina od pravosnažnosti presude",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 146. stav 2. tačka a) KZ FBiH propisuje da zastarjelost izvršenja novčane kazne izrečene pravnoj osobi nastupa kad proteknu tri godine od pravosnažnosti presude."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Kolika novčana kazna se može izreći pravnoj osobi za krivična djela sa propisanom kaznom zatvora do tri godine?",
+    "odgovor_a": "Do 500.000 KM",
+    "odgovor_b": "Do 850.000 KM ili do deseterostrukog iznosa štete",
+    "odgovor_c": "Do 1.000.000 KM",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 148. stav 1. KZ FBiH propisuje da se za krivična djela s propisanom kaznom zatvora do tri godine pravna osoba kazniti novčanom kaznom do 850.000 KM ili do deseterostrukog iznosa štete ili koristi."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Može li se pravnoj osobi izreći uvjetna osuda?",
+    "odgovor_a": "Ne, nikada",
+    "odgovor_b": "Da, umjesto novčane kazne sa utvrđenom kaznom do 1.500.000 KM",
+    "odgovor_c": "Da, ali samo za lakša krivična djela",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 140. st. 1. i 2. KZ FBiH propisuje da sud može pravnoj osobi izreći uvjetnu osudu umjesto novčane kazne, pri čemu može utvrditi novčanu kaznu do 1.500.000 KM."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Koja pravna osoba može dobiti blaže kažnjavanje?",
+    "odgovor_a": "Pravna osoba koja ima manje od 10 zaposlenih",
+    "odgovor_b": "Pravna osoba čiji rukovodeći organ dobrovoljno prijavi učinitelja nakon krivičnog djela",
+    "odgovor_c": "Pravna osoba koja posluje s gubitkom",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 134. stav 1. KZ FBiH propisuje da pravna osoba čiji rukovodeći ili nadzorni organ dobrovoljno prijavi učinitelja može se blaže kazniti."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Šta se dešava sa pravnom osobom u stečaju koja je odgovorna za krivično djelo?",
+    "odgovor_a": "Izriče joj se novčana kazna",
+    "odgovor_b": "Ne izriče joj se kazna, već samo sigurnosna mjera oduzimanja predmeta ili se oduzima imovinska korist",
+    "odgovor_c": "Pokreće se likvidacija",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 130. stav 1. KZ FBiH propisuje da se pravnoj osobi u stečaju ne izriče kazna, već se izriče sigurnosna mjera oduzimanja predmeta ili se oduzima imovinska korist pribavljena krivičnim djelom."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Ko odgovara ako pravna osoba prestane prije pravosnažnog okončanja krivičnog postupka?",
+    "odgovor_a": "Niko",
+    "odgovor_b": "Pravna osoba koja je pravni sljednik, ako su njeni organi znali za djelo",
+    "odgovor_c": "Samo fizička osoba koja je počinila djelo",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 130. stav 2. KZ FBiH propisuje da kazne i sankcije se izriču pravnoj osobi pravnom sljedniku ako su njeni rukovodeći ili nadzorni organi prije prestanka pravne osobe znali za učinjeno krivično djelo."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Da li se dokaz koji je pribavljen bez naredbe suda ili tužitelja kad je bila potrebna može koristiti u postupku?",
+    "odgovor_a": "Da, uvijek",
+    "odgovor_b": "Ne, sud ne može zasnivati svoju odluku na tom dokazu",
+    "odgovor_c": "Da, ako je u korist optuženog",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Prema ZKP FBiH, dokazi pribavljeni kršenjem procesnih pravila ne mogu se koristiti, što proizlazi iz člana 312. stav 1. tačka i) koji navodi da je bitna povreda postupka ako se presuda zasniva na dokazu na kojem se ne može zasnivati."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Šta drugostepeni sud ispituje po službenoj dužnosti prilikom odlučivanja o žalbi?",
+    "odgovor_a": "Samo navode iz žalbe",
+    "odgovor_b": "Da li je na štetu optuženog povrijeđen Krivični zakon",
+    "odgovor_c": "Sve okolnosti slučaja",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 321. ZKP FBiH propisuje da drugostepeni sud ispituje presudu u onom dijelu u kojem se pobija žalbom, a po službenoj dužnosti da li je na štetu optuženog povrijeđen Krivični zakon."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Šta je beneficium cohaesionis?",
+    "odgovor_a": "Pravo optuženog na branitelja",
+    "odgovor_b": "Ako drugostepeni sud utvrdi razloge u korist jednog optuženog, po službenoj dužnosti postupa i za saoptužene koji nisu podnijeli žalbu",
+    "odgovor_c": "Pravo na povrat u prijašnje stanje",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 324. ZKP FBiH propisuje da ako drugostepeni sud povodom žalbe utvrdi da su razlozi zbog kojih je donio odluku u korist optuženog od koristi i za saoptužene koji nisu podnijeli žalbu, postupit će po službenoj dužnosti kao da takva žalba postoji."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Koji dokazi se mogu koristiti na novom glavnom pretresu nakon ukidanja presude?",
+    "odgovor_a": "Samo novi dokazi",
+    "odgovor_b": "I ranije izvedeni dokazi ako su svjedoci i vještaci bili unakrsno ispitani ili im je to bilo omogućeno",
+    "odgovor_c": "Samo pisani dokazi",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 331a. stav 4. ZKP FBiH propisuje da iskazi svjedoka i vještaka bit će prihvaćeni ako su prilikom svjedočenja bili unakrsno ispitani ili nisu bili unakrsno ispitani iako im je to bilo omogućeno."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Koliki je rok za brisanje uvjetne osude iz kaznene evidencije?",
+    "odgovor_a": "Odmah po isteku vremena provjeravanja",
+    "odgovor_b": "Jedna godina od dana prestanka vremena provjeravanja",
+    "odgovor_c": "Tri godine od dana prestanka vremena provjeravanja",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 125. stav 1. tačka b) KZ FBiH propisuje da se uvjetna osuda briše po proteku roka od jedne godine od dana prestanka vremena provjeravanja, ako za to vrijeme osuđenik ne počini novo krivično djelo."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Kada nastupa zastarjelost izvršenja kazne oduzimanja imovine izrečene pravnoj osobi?",
+    "odgovor_a": "Tri godine od pravosnažnosti",
+    "odgovor_b": "Pet godina od pravosnažnosti",
+    "odgovor_c": "Deset godina od pravosnažnosti",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 146. stav 2. tačka b) KZ FBiH propisuje da zastarjelost izvršenja kazne oduzimanja imovine i kazne prestanka pravne osobe nastupa kad protekne pet godina od pravosnažnosti presude."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Koji je minimalni broj sudija u vijeću apelacionog odjeljenja koje odlučuje o žalbi?",
+    "odgovor_a": "Jedan sudija",
+    "odgovor_b": "Tri sudije",
+    "odgovor_c": "Pet sudija",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Prema članu 25. ZKP FBiH, vijeće apelacionog odjeljenja sastoji se od tri sudije."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "U kom roku sud mora pisano izraditi presudu nakon objavljivanja?",
+    "odgovor_a": "U roku od 8 dana, a u složenim predmetima 15 dana",
+    "odgovor_b": "U roku od 15 dana, a u složenim predmetima 30 dana",
+    "odgovor_c": "U roku od 30 dana, a u složenim predmetima 60 dana",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 304. stav 1. Zakona o krivičnom postupku FBiH, presuda se mora pisano izraditi u roku od 15 dana po objavljivanju, a u složenim stvarima izuzetno u roku od 30 dana. "  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Koliko dugo osoba može biti zadržana na mjestu učinjenja krivičnog djela radi prikupljanja izjava?",
+    "odgovor_a": "Najduže dva sata",
+    "odgovor_b": "Najduže šest sati",
+    "odgovor_c": "Najduže dvanaest sati",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 235. stav 1. ZKP FBiH propisuje da zadržavanje osoba na mjestu učinjenja krivičnog djela ne može trajati duže od šest sati."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Da li ovlaštena službena osoba može javno objaviti fotografiju osumnjičenog?",
+    "odgovor_a": "Da, uvijek",
+    "odgovor_b": "Da, ali samo po odobrenju tužitelja",
+    "odgovor_c": "Ne, nikada",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 235. stav 2. ZKP FBiH propisuje da ovlaštena službena osoba može javno objaviti fotografiju osobe za koju postoje osnovi sumnje da je učinila krivično djelo, ali samo po odobrenju tužitelja."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "U kom roku osoba može podnijeti pritužbu tužitelju na radnje ovlaštene službene osobe?",
+    "odgovor_a": "U roku od 24 sata",
+    "odgovor_b": "U roku od tri dana",
+    "odgovor_c": "U roku od osam dana",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 234. stav 4. ZKP FBiH propisuje da osoba prema kojoj je preduzeta radnja ima pravo da podnese pritužbu tužitelju u roku od tri dana."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Šta tužitelj može predložiti kod pregovaranja o krivnji?",
+    "odgovor_a": "Samo smanjenje kazne",
+    "odgovor_b": "Kaznu ispod zakonom određenog minimuma ili blažu sankciju",
+    "odgovor_c": "Oslobađanje od kazne",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 246. stav 3. ZKP FBiH propisuje da tužitelj može predložiti izricanje kazne ispod zakonom određenog minimuma kazne zatvora ili blažu sankciju u skladu s krivičnim zakonom."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Ko razmatra sporazum o priznanju krivnje nakon dostavljanja predmeta radi zakazivanja glavne rasprave?",
+    "odgovor_a": "Sudija za prethodno saslušanje",
+    "odgovor_b": "Sudija, odnosno vijeće",
+    "odgovor_c": "Glavni tužilac",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 246. stav 4. ZKP FBiH propisuje da nakon dostavljanja predmeta radi zakazivanja glavne rasprave o sporazumu odlučuje sudija, odnosno vijeće."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Kojim redoslijedom se izvode dokazi na glavnom pretresu?",
+    "odgovor_a": "Prvo odbrana, zatim optužba",
+    "odgovor_b": "Prvo optužba, zatim odbrana, pa replika i duplika",
+    "odgovor_c": "Proizvoljno po odluci suda",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 276. stav 2. ZKP FBiH propisuje redoslijed: dokazi optužbe, dokazi odbrane, dokazi optužbe kojima se pobijaju navodi odbrane (replika), dokazi odbrane kao odgovor (duplika)."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Može li se oštećeni ispitivati o spolnom životu prije počinjenog krivičnog djela?",
+    "odgovor_a": "Da, uvijek",
+    "odgovor_b": "Ne, takvo ispitivanje nije dopušteno",
+    "odgovor_c": "Da, ali samo uz pristanak oštećenog",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 279. stav 1. ZKP FBiH izričito propisuje da oštećenog krivičnim djelom nije dopušteno ispitivati o njegovom spolnom životu prije počinjenog krivičnog djela."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "U kom roku se zakazuje glavna rasprava nakon izjašnjenja o poricanju krivnje?",
+    "odgovor_a": "U roku od 15 dana",
+    "odgovor_b": "U roku od 30 dana, izuzetno još 30 dana",
+    "odgovor_c": "U roku od 60 dana",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 244. stav 4. ZKP FBiH propisuje da će se glavna rasprava zakazati u roku od 30 dana od dana izjašnjavanja o krivnji, a izuzetno se rok može produžiti za još 30 dana."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Šta se dešava ako sud odbaci sporazum o priznanju krivnje?",
+    "odgovor_a": "Postupak se obustavlja",
+    "odgovor_b": "Određuje se datum glavne rasprave, a priznanje se ne može koristiti kao dokaz",
+    "odgovor_c": "Optuženi se automatski smatra krivim",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 246. stav 8. ZKP FBiH propisuje da ako sud odbaci sporazum, istovremeno će se odrediti datum održavanja glavne rasprave, a priznanje iz sporazuma ne može se koristiti kao dokaz."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Kada se primjenjuje nepravo ponavljanje krivičnog postupka?",
+    "odgovor_a": "Kada se otkriju novi dokazi",
+    "odgovor_b": "Kada je u više presuda protiv istog osuđenika izrečeno više kazni bez primjene pravila o stjecaju",
+    "odgovor_c": "Kada Ustavni sud utvrdi povredu prava",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 340a. stav 1. ZKP FBiH propisuje da se pravosnažna presuda može preinačiti bez ponavljanja postupka ako u više presuda protiv istog osuđenika nisu primijenjene odredbe o odmjeravanju jedinstvene kazne za djela u sticaju."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Ko donosi novu presudu kod nepravog ponavljanja postupka?",
+    "odgovor_a": "Apelacioni sud",
+    "odgovor_b": "Prvostepeni sud koji je sudio u stvari s najtežom kaznom",
+    "odgovor_c": "Vrhovni sud",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 340a. stav 2. ZKP FBiH propisuje da je za donošenje nove presude nadležan prvostepeni sud koji je sudio u stvari u kojoj je izrečena najstrožija vrsta kazne, a kod istovrsnih kazni sud koji je izrekao najveću kaznu."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Da li se može ponavljati postupak nakon što je osuđeni izdržao kaznu?",
+    "odgovor_a": "Ne, nikada",
+    "odgovor_b": "Da, zahtjev se može podnijeti i nakon izdržane kazne",
+    "odgovor_c": "Da, ali samo u roku od godinu dana",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 345. stav 2. ZKP FBiH propisuje da se zahtjev za ponavljanje postupka u korist osuđenog može podnijeti i pošto je osuđeni izdržao kaznu."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Šta se dešava ako se ponovljeni postupak obustavi do početka glavnog pretresa?",
+    "odgovor_a": "Ništa",
+    "odgovor_b": "Sud će rješenjem o obustavljanju postupka ukinuti i raniju presudu",
+    "odgovor_c": "Ranija presuda ostaje na snazi",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 349. stav 2. ZKP FBiH propisuje da ako se ponovljeni postupak obustavi do početka glavnog pretresa, sud će rješenjem o obustavljanju postupka ukinuti i raniju presudu."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Ko snosi troškove vještaka angažiranog od strane?",
+    "odgovor_a": "Uvijek sud",
+    "odgovor_b": "Onaj ko ga je angažirao",
+    "odgovor_c": "Osuđenik",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 284. stav 2. ZKP FBiH propisuje da troškove vještaka snosi onaj koji ga je angažovao."
+  },
+  {
+    "oblast": "Zakon o krivičnom postupku FBiH",
+    "pitanje": "Kada pritvorenik ima pravo na slobodnu i neometanu vezu s braniteljem?",
+    "odgovor_a": "Samo tokom radnog vremena",
+    "odgovor_b": "Uvijek, bez ograničenja",
+    "odgovor_c": "Samo uz odobrenje suda",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 158. stav 5. ZKP FBiH propisuje da pritvorenik ima pravo slobodne i neometane veze s braniteljem."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Koliko iznosi rok za brisanje osude kojom je počinitelj oslobođen kazne?",
+    "odgovor_a": "Šest mjeseci",
+    "odgovor_b": "Jedna godina od pravosnažnosti presude",
+    "odgovor_c": "Tri godine",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 125. stav 1. tačka a) KZ FBiH propisuje da se osuda kojom je počinitelj oslobođen kazne briše ako osuđenik u roku od jedne godine od pravosnažnosti presude ne počini novo krivično djelo."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Koliko iznosi rok za brisanje osude na kaznu zatvora preko tri do pet godina?",
+    "odgovor_a": "Pet godina",
+    "odgovor_b": "Deset godina",
+    "odgovor_c": "Petnaest godina",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 125. stav 1. tačka e) KZ FBiH propisuje da se osuda na kaznu zatvora preko tri do pet godina briše po proteku roka od deset godina od dana izvršenja, zastare ili oprosta kazne."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Pod kojim uvjetom sud može odrediti brisanje osude na kaznu zatvora preko deset godina?",
+    "odgovor_a": "Automatski nakon 15 godina",
+    "odgovor_b": "Na molbu osuđenika, ako je proteklo 20 godina i nije počinio novo djelo",
+    "odgovor_c": "Ne može se brisati",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 125. stav 2. KZ FBiH propisuje da sud može, na molbu osuđenika, odrediti brisanje osude na kaznu zatvora preko deset godina ako je protekao rok od 20 godina od izdržavanja, zastare ili oprosta kazne."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Da li odgovornost pravne osobe isključuje odgovornost fizičkih osoba?",
+    "odgovor_a": "Da, uvijek",
+    "odgovor_b": "Ne, odgovornost pravne osobe ne isključuje krivicu fizičkih osoba",
+    "odgovor_c": "Da, osim za teža krivična djela",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 129. stav 2. KZ FBiH propisuje da odgovornost pravne osobe ne isključuje krivicu fizičkih odnosno odgovornih osoba za učinjeno krivično djelo."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Može li se pravna osoba osloboditi kazne?",
+    "odgovor_a": "Ne, nikada",
+    "odgovor_b": "Da, ako rukovodeći organ nakon djela odluči vratiti protupravnu korist ili otkloni štetne posljedice",
+    "odgovor_c": "Da, ali samo u slučaju stečaja",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 134. stav 2. KZ FBiH propisuje da se pravna osoba može osloboditi kazne ako rukovodeći organ odluči vratiti protupravnu korist ili otkloni štetne posljedice ili saopći podatke o odgovornosti drugih pravnih osoba."
+  },
+  {
+    "oblast": "Krivični zakon FBiH",
+    "pitanje": "Koja sigurnosna mjera se može izreći pravnoj osobi pored oduzimanja predmeta?",
+    "odgovor_a": "Zabrana napuštanja zemlje",
+    "odgovor_b": "Objava presude i zabrana vršenja određene djelatnosti",
+    "odgovor_c": "Obavezno liječenje",
+    "tacan_odgovor": "b",
+    "obrazlozenje": "Član 141. KZ FBiH propisuje da se pravnoj osobi mogu izreći sigurnosne mjere objave presude i zabrane vršenja određene djelatnosti."
   }
 ]
