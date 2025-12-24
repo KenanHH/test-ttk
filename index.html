@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="bs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test za pripremanje ispita - Tužilaštvo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Test za pripremanje ispita</h1>
+            <p class="subtitle">Tužilaštvo TK</p>
+        </header>
+
+        <!-- Start Screen -->
+        <div id="start-screen" class="screen">
+            <div class="info-box">
+                <h2>Dobrodošli!</h2>
+                <p>Ovaj test sadrži <strong>10 pitanja</strong> iz sljedećih oblasti:</p>
+                <ul>
+                    <li>Krivični zakon FBiH</li>
+                    <li>Zakon o kantonalnom tužilaštvu TK</li>
+                    <li>Zakon o krivičnom postupku FBiH</li>
+                    <li>Pravilnik o TCMS-u</li>
+                    <li>Zakon o državnoj službi TK</li>
+                </ul>
+                <p>Svaki test garantuje najmanje jedno pitanje iz svake oblasti.</p>
+            </div>
+            <button id="start-btn" class="btn btn-primary">Započni test</button>
+        </div>
+
+        <!-- Quiz Screen -->
+        <div id="quiz-screen" class="screen hidden">
+            <div class="progress-bar">
+                <div id="progress" class="progress"></div>
+            </div>
+            <div class="question-info">
+                <span id="question-number">Pitanje 1 od 10</span>
+                <span id="question-oblast" class="oblast-badge"></span>
+            </div>
+            <div id="question-container" class="question-container">
+                <h2 id="question-text"></h2>
+                <div id="answers" class="answers"></div>
+            </div>
+            <div class="navigation">
+                <button id="prev-btn" class="btn btn-secondary" disabled>Prethodno</button>
+                <button id="next-btn" class="btn btn-primary" disabled>Sljedeće</button>
+                <button id="submit-btn" class="btn btn-success hidden">Završi test</button>
+            </div>
+        </div>
+
+        <!-- Results Screen -->
+        <div id="results-screen" class="screen hidden">
+            <div class="results-header">
+                <h2>Rezultati testa</h2>
+                <div id="score-circle" class="score-circle">
+                    <span id="score-text">0/10</span>
+                </div>
+                <p id="score-percentage" class="score-percentage"></p>
+            </div>
+
+            <div id="results-summary" class="results-summary"></div>
+
+            <div id="mistakes-section" class="mistakes-section">
+                <h3>Pregled grešaka i objašnjenja</h3>
+                <div id="mistakes-list"></div>
+            </div>
+
+            <button id="restart-btn" class="btn btn-primary">Novi test</button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
