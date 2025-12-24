@@ -438,6 +438,22 @@ header .subtitle {
     padding: 16px;
 }
 
+/* Disclaimer */
+.disclaimer {
+    margin-top: 25px;
+    padding: 15px;
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    border-radius: 8px;
+    font-size: 0.85rem;
+    color: #856404;
+}
+
+.disclaimer p {
+    margin: 0;
+    line-height: 1.5;
+}
+
 /* Responsive */
 @media (max-width: 600px) {
     .container {
