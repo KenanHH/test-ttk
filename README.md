@@ -10,7 +10,7 @@ Aplikacija za pripremu ispita sa pitanjima iz 5 pravnih oblasti:
 
 Svaki test sadrži 10 nasumičnih pitanja sa garantovanim najmanje jednim pitanjem iz svake oblasti.
 
-Baza sadrži **502 jedinstvena pitanja**.
+Baza sadrži **624 jedinstvena pitanja**.
 
 ---
 
