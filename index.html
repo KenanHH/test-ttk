@@ -3,14 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Test za pripremanje ispita - Tužilaštvo</title>
+    <title>Test za pripremanje ispita</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
         <header>
             <h1>Test za pripremanje ispita</h1>
-            <p class="subtitle">Tužilaštvo TK</p>
         </header>
 
         <!-- Start Screen -->
@@ -18,13 +17,7 @@
             <div class="info-box">
                 <h2>Dobrodošli!</h2>
                 <p>Ovaj test sadrži <strong>10 pitanja</strong> iz sljedećih oblasti:</p>
-                <ul>
-                    <li>Krivični zakon FBiH</li>
-                    <li>Zakon o kantonalnom tužilaštvu TK</li>
-                    <li>Zakon o krivičnom postupku FBiH</li>
-                    <li>Pravilnik o TCMS-u</li>
-                    <li>Zakon o državnoj službi TK</li>
-                </ul>
+                <ul id="oblasti-list"></ul>
                 <p>Svaki test garantuje najmanje jedno pitanje iz svake oblasti.</p>
             </div>
             <div class="start-buttons">
@@ -32,7 +25,7 @@
                 <button id="stats-btn" class="btn btn-secondary">Statistika</button>
             </div>
             <div class="disclaimer">
-                <p><strong>Napomena:</strong> Sva pitanja (624) su generisana korištenjem Claude AI agenata na osnovu zakona i podzakonskih akata navedenih u javnom konkursu. Ovo NISU zvanična ispitna pitanja. Uvijek provjerite sa originalnim tekstovima zakona.</p>
+                <p><strong>Napomena:</strong> Sva pitanja su generisana korištenjem Claude AI agenata. Ovo NISU zvanična ispitna pitanja. Aplikacija služi isključivo kao pomoćno sredstvo za pripremu i učenje. Ne garantujemo tačnost informacija - uvijek provjerite sa originalnim izvorima.</p>
             </div>
         </div>
 
@@ -75,7 +68,7 @@
 
             <button id="restart-btn" class="btn btn-primary">Novi test</button>
             <div class="disclaimer">
-                <p><strong>Napomena:</strong> Sva pitanja su generisana korištenjem Claude AI. Ovo NISU zvanična ispitna pitanja.</p>
+                <p><strong>Napomena:</strong> Sva pitanja su generisana korištenjem Claude AI. Ovo NISU zvanična ispitna pitanja. Uvijek provjerite sa originalnim izvorima.</p>
             </div>
         </div>
 
@@ -128,7 +121,7 @@
             </div>
         </div>
 
-        <div class="version">v2.2 | 24.12.2024 | Statistika napretka i praćenje po oblastima</div>
+        <div class="version">v3.0 | Generalna quiz aplikacija</div>
     </div>
 
     <script src="app.js"></script>

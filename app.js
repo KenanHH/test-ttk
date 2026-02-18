@@ -2,14 +2,8 @@
 (function() {
     'use strict';
 
-    // Required areas - at least one question from each
-    const REQUIRED_OBLASTI = [
-        'Krivični zakon FBiH',
-        'Zakon o kantonalnom tužilaštvu TK',
-        'Zakon o krivičnom postupku FBiH',
-        'Pravilnik o TCMS-u',
-        'Zakon o državnoj službi TK'
-    ];
+    // Required areas - dynamically derived from loaded questions
+    let REQUIRED_OBLASTI = [];
 
     const QUESTIONS_PER_TEST = 10;
     const HISTORY_KEY = 'quiz_question_history';
@@ -59,7 +53,16 @@
             throw new Error('Failed to load questions');
         }
         allQuestions = await response.json();
-        console.log(`Loaded ${allQuestions.length} questions`);
+
+        // Derive oblasti dynamically from loaded questions
+        REQUIRED_OBLASTI = [...new Set(allQuestions.map(q => q.oblast))];
+        console.log(`Loaded ${allQuestions.length} questions across ${REQUIRED_OBLASTI.length} oblasti`);
+
+        // Populate oblasti list in UI
+        const oblastiList = document.getElementById('oblasti-list');
+        if (oblastiList) {
+            oblastiList.innerHTML = REQUIRED_OBLASTI.map(o => `<li>${o}</li>`).join('');
+        }
     }
 
     // Bind event listeners
