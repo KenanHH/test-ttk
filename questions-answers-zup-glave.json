@@ -646,5 +646,1103 @@
     "odgovor_c": "Posljedice se gase tek nakon proteka 5 godina",
     "tacan_odgovor": "A",
     "obrazlozenje": "Prema članu 266. ZUP-a FBiH, poništavanjem rješenja poništavaju se i sve pravne posljedice koje je takvo rješenje proizvelo (retroaktivno dejstvo)."
+  },
+  {
+    "oblast": "X - POKRETANJE POSTUPKA I ZAHTJEVI STRANAKA",
+    "pitanje": "Kada će nadležni organ pokrenuti postupak po službenoj dužnosti?",
+    "odgovor_a": "Kad to određuje zakon ili propis, ili kad radi zaštite javnog interesa treba pokrenuti postupak",
+    "odgovor_b": "Samo kad stranka to izričito zatraži pisanim podneskom",
+    "odgovor_c": "Uvijek na osnovu anonimne prijave, bez procjene javnog interesa",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 122. stav 1. ZUP-a FBiH, organ pokreće postupak po službenoj dužnosti kad to određuje zakon ili na zakonu zasnovan propis, ili kad utvrdi da radi zaštite javnog interesa treba pokrenuti postupak."
+  },
+  {
+    "oblast": "X - POKRETANJE POSTUPKA I ZAHTJEVI STRANAKA",
+    "pitanje": "Šta organ uzima u obzir pri pokretanju postupka po službenoj dužnosti?",
+    "odgovor_a": "Isključivo naredbu nadređenog organa",
+    "odgovor_b": "Eventualne predstavke građana i pravnih lica te upozorenja organa",
+    "odgovor_c": "Samo medijske napise o predmetu",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 122. stav 2. ZUP-a FBiH, pri pokretanju postupka po službenoj dužnosti organ uzima u obzir i eventualne predstavke građana i pravnih lica te upozorenja organa."
+  },
+  {
+    "oblast": "X - POKRETANJE POSTUPKA I ZAHTJEVI STRANAKA",
+    "pitanje": "Šta organ donosi ako utvrdi da po važećim propisima nema uvjeta za pokretanje postupka povodom zahtjeva stranke?",
+    "odgovor_a": "Rješenje kojim se zahtjev usvaja",
+    "odgovor_b": "Zaključak kojim se zahtjev odbacuje kao preuranjen, protiv kojeg je dopuštena posebna žalba",
+    "odgovor_c": "Ništa, jer zahtjev jednostavno ostaje neriješen",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 123. stav 2. ZUP-a FBiH, ako nema uvjeta za pokretanje postupka, organ donosi zaključak kojim se zahtjev odbacuje kao preuranjen; protiv tog zaključka dopuštena je posebna žalba."
+  },
+  {
+    "oblast": "X - POKRETANJE POSTUPKA I ZAHTJEVI STRANAKA",
+    "pitanje": "Može li organ voditi postupak u stvari za koju je po zakonu potreban zahtjev stranke, ali zahtjeva nema?",
+    "odgovor_a": "Da, organ uvijek može pokrenuti postupak po službenoj dužnosti",
+    "odgovor_b": "Ne, takav postupak može voditi samo ako postoji zahtjev stranke",
+    "odgovor_c": "Može, ali samo uz odobrenje drugostepenog organa",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 124. ZUP-a FBiH, u stvarima u kojima je po zakonu ili po prirodi stvari potreban zahtjev stranke, organ može pokrenuti i voditi postupak samo ako takav zahtjev postoji."
+  },
+  {
+    "oblast": "X - POKRETANJE POSTUPKA I ZAHTJEVI STRANAKA",
+    "pitanje": "Pod kojim uvjetima se može voditi jedan (spojeni) postupak o pravima i obavezama više stranaka?",
+    "odgovor_a": "Kad se prava/obaveze zasnivaju na istom ili sličnom činjeničnom stanju i istom pravnom osnovu, a organ je za sve stvarno nadležan",
+    "odgovor_b": "Kad stranke pripadaju istoj općini, bez obzira na predmet",
+    "odgovor_c": "Kad to zatraži bilo koja od stranaka, bez dodatnih uvjeta",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 125. stav 1. ZUP-a FBiH, jedan postupak za više stranaka može se voditi ako se njihova prava ili obaveze zasnivaju na istom ili sličnom činjeničnom stanju i na istom pravnom osnovu, te ako je organ u pogledu svih predmeta stvarno nadležan."
+  },
+  {
+    "oblast": "X - POKRETANJE POSTUPKA I ZAHTJEVI STRANAKA",
+    "pitanje": "Kako organ pokreće postupak prema većem broju osoba koje mu nisu poznate?",
+    "odgovor_a": "Pojedinačnim pozivom svakoj osobi, inače je postupak ništav",
+    "odgovor_b": "Javnim priopćenjem, ako je riječ o bitno istom zahtjevu prema svim tim osobama",
+    "odgovor_c": "Isključivo objavom u službenom glasilu Federacije",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 126. ZUP-a FBiH, organ može javnim priopćenjem pokrenuti postupak prema većem broju osoba koje mu nisu poznate ili se ne mogu odrediti, ako je riječ o bitno istom zahtjevu prema svim tim osobama."
+  },
+  {
+    "oblast": "X - POKRETANJE POSTUPKA I ZAHTJEVI STRANAKA",
+    "pitanje": "Kakav je položaj svake stranke u spojenom postupku (čl. 125) ili postupku pokrenutom javnim priopćenjem?",
+    "odgovor_a": "Stranke nastupaju isključivo zajednički, kao jedna strana",
+    "odgovor_b": "Svaka stranka istupa u postupku samostalno",
+    "odgovor_c": "Samo prva prijavljena stranka može poduzimati radnje",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 127. stav 1. ZUP-a FBiH, kad se vodi jedan postupak ili je postupak pokrenut javnim priopćenjem, svaka stranka istupa u postupku samostalno."
+  },
+  {
+    "oblast": "X - POKRETANJE POSTUPKA I ZAHTJEVI STRANAKA",
+    "pitanje": "Šta organ donosi ako ne dozvoli proširenje ili izmjenu zahtjeva stranke?",
+    "odgovor_a": "Zaključak, protiv kojeg je dopuštena posebna žalba",
+    "odgovor_b": "Konačno rješenje bez prava na pravni lijek",
+    "odgovor_c": "Usmenu napomenu na zapisnik, bez pisanog akta",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 128. stav 2. ZUP-a FBiH, ako organ ne dozvoli proširenje ili izmjenu zahtjeva, donosi o tome zaključak protiv kojeg je dopuštena posebna žalba."
+  },
+  {
+    "oblast": "X - POKRETANJE POSTUPKA I ZAHTJEVI STRANAKA",
+    "pitanje": "Šta organ donosi kad stranka odustane od zahtjeva u postupku pokrenutom po njenom zahtjevu?",
+    "odgovor_a": "Rješenje kojim odbija zahtjev u meritumu",
+    "odgovor_b": "Zaključak kojim se postupak obustavlja",
+    "odgovor_c": "Zaključak kojim se zahtjev usvaja u cijelosti",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 129. stav 2. ZUP-a FBiH, kad stranka odustane od zahtjeva, organ donosi zaključak kojim se postupak obustavlja, o čemu se obavještava protivna stranka ako je ima."
+  },
+  {
+    "oblast": "X - POKRETANJE POSTUPKA I ZAHTJEVI STRANAKA",
+    "pitanje": "Hoće li se postupak nastaviti i pored odustanka stranke?",
+    "odgovor_a": "Nikada, odustanak uvijek znači kraj postupka",
+    "odgovor_b": "Hoće, ako je dalje vođenje potrebno u javnom interesu ili to zahtijeva protivna stranka",
+    "odgovor_c": "Samo ako odustanak nije dat u pisanoj formi",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 129. stav 3. ZUP-a FBiH, ako je dalje vođenje postupka potrebno u javnom interesu ili to zahtijeva protivna stranka, organ će produžiti vođenje postupka i pored odustanka."
+  },
+  {
+    "oblast": "X - POKRETANJE POSTUPKA I ZAHTJEVI STRANAKA",
+    "pitanje": "Na koji način stranka odustaje od svog zahtjeva?",
+    "odgovor_a": "Samo pred notarom, uz ovjeru potpisa",
+    "odgovor_b": "Podnošenjem pismene izjave ili usmeno na zapisnik, uz mogućnost opoziva dok se ne donese zaključak o obustavi",
+    "odgovor_c": "Isključivo putem advokata sa posebnom punomoći",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 130. stav 1. ZUP-a FBiH, stranka odustaje pismenom izjavom ili usmeno na zapisnik, a odustanak može opozvati dok organ ne donese i ne dostavi joj zaključak o obustavljanju postupka."
+  },
+  {
+    "oblast": "X - POKRETANJE POSTUPKA I ZAHTJEVI STRANAKA",
+    "pitanje": "Ko snosi troškove nastale do obustavljanja postupka kad stranka odustane od zahtjeva?",
+    "odgovor_a": "Organ koji je vodio postupak",
+    "odgovor_b": "Stranka koja je odustala od zahtjeva, osim ako posebnim propisom nije drugačije određeno",
+    "odgovor_c": "Troškovi se uvijek dijele na pola između stranke i organa",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 131. ZUP-a FBiH, stranka koja je odustala od zahtjeva dužna je snositi sve troškove nastale do obustavljanja postupka, osim ako posebnim propisom nije drugačije propisano."
+  },
+  {
+    "oblast": "X - POKRETANJE POSTUPKA I ZAHTJEVI STRANAKA",
+    "pitanje": "Kada organ NEĆE prihvatiti zaključenje poravnanja?",
+    "odgovor_a": "Kad bi poravnanje bilo na štetu javnog interesa, javnog morala ili pravnog interesa trećih osoba",
+    "odgovor_b": "Kad jedna stranka ima više od dvije nekretnine",
+    "odgovor_c": "Kad poravnanje nije ovjereno kod notara",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 132. stav 2. ZUP-a FBiH, poravnanje ne smije biti na štetu javnog interesa, javnog morala ili pravnog interesa trećih osoba; ako bi bilo, organ neće prihvatiti zaključenje poravnanja i o tome donosi poseban zaključak."
+  },
+  {
+    "oblast": "X - POKRETANJE POSTUPKA I ZAHTJEVI STRANAKA",
+    "pitanje": "Kada je poravnanje smatrano zaključenim?",
+    "odgovor_a": "Čim ga službena osoba usmeno odobri",
+    "odgovor_b": "Kad stranke, poslije pročitanog zapisnika o poravnanju, potpišu taj zapisnik",
+    "odgovor_c": "Tek nakon pravomoćnosti posebnog rješenja o poravnanju",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 132. stav 3. ZUP-a FBiH, poravnanje se upisuje u zapisnik i zaključeno je kad stranke, poslije pročitanog zapisnika, potpišu zapisnik."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Šta se mora učiniti prije donošenja rješenja?",
+    "odgovor_a": "Utvrditi sve činjenice i okolnosti značajne za rješenje i strankama omogućiti zaštitu njihovih prava",
+    "odgovor_b": "Samo pribaviti mišljenje drugostepenog organa",
+    "odgovor_c": "Isključivo sačekati protek roka za žalbu",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 133. ZUP-a FBiH, prije donošenja rješenja imaju se utvrditi sve činjenice i okolnosti značajne za rješenje i strankama omogućiti da ostvare i zaštite svoja prava; to se izvodi u skraćenom ili posebnom ispitnom postupku."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Kako je stranka dužna iznijeti činjenično stanje na kojem zasniva zahtjev?",
+    "odgovor_a": "Tačno, istinito i određeno",
+    "odgovor_b": "Okvirno i uopćeno, jer organ sve provjerava sam",
+    "odgovor_c": "Samo usmeno, nikada u pisanom obliku",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 135. stav 1. ZUP-a FBiH, činjenično stanje na kojem zasniva svoj zahtjev stranka je dužna iznijeti tačno, istinito i određeno."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Šta organ donosi kad osoba koja dotad nije učestvovala zatraži svojstvo stranke, a to joj se ne priznaje?",
+    "odgovor_a": "Rješenje protiv kojeg nema pravnog lijeka",
+    "odgovor_b": "Zaključak protiv kojeg je dopuštena posebna žalba",
+    "odgovor_c": "Ništa, jer se takvo svojstvo priznaje automatski",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 137. ZUP-a FBiH, službena osoba ispituje pravo te osobe da bude stranka i donosi zaključak; protiv zaključka kojim se to svojstvo ne priznaje dopuštena je posebna žalba."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Koja je dužnost službene osobe prema stranci tokom postupka (načelo zaštite prava stranaka)?",
+    "odgovor_a": "Da po potrebi upozori stranku na njena prava i ukaže na pravne posljedice njenih radnji ili propuštanja",
+    "odgovor_b": "Da stranci pruži pravne savjete o tome kako da dobije spor",
+    "odgovor_c": "Da nikada ne komunicira sa strankom radi nepristrasnosti",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 138. ZUP-a FBiH, službena osoba koja vodi postupak dužna je, po potrebi, upozoriti stranku na njena prava i ukazati joj na pravne posljedice njenih radnji ili propuštanja."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Koji je jedan od slučajeva u kojem organ može riješiti stvar u skraćenom postupku?",
+    "odgovor_a": "Kad je riječ o poduzimanju hitnih mjera u javnom interesu koje se ne mogu odgađati, a činjenice su utvrđene ili učinjene vjerovatnim",
+    "odgovor_b": "Kad stranka odbije da učestvuje u postupku",
+    "odgovor_c": "Kad postoji više stranaka s protivnim interesima",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 139. stav 1. tačka 4. ZUP-a FBiH, skraćeni postupak je moguć kad je riječ o poduzimanju u javnom interesu hitnih mjera koje se ne mogu odgađati, a činjenice na kojima rješenje treba da bude zasnovano su utvrđene ili bar učinjene vjerovatnim."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Koje pravo stranke organ ne smije povrijediti prije donošenja rješenja u ispitnom postupku?",
+    "odgovor_a": "Pravo da se izjasni o svim činjenicama i okolnostima na kojima treba da se zasniva rješenje",
+    "odgovor_b": "Pravo da sama odredi koja će službena osoba voditi postupak",
+    "odgovor_c": "Pravo da bira mjesto sjedišta organa",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 141. stav 3. ZUP-a FBiH, organ ne može donijeti rješenje prije nego što stranci pruži mogućnost da se izjasni o činjenicama i okolnostima na kojima treba da se zasniva rješenje, a o kojima joj nije bila data mogućnost da se izjasni."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Da li je organ koji vodi postupak vezan pravomoćnom presudom krivičnog suda u pogledu postojanja krivičnog djela?",
+    "odgovor_a": "Da, vezan je pravomoćnom presudom kojom je optuženi oglašen krivim",
+    "odgovor_b": "Ne, organ uvijek sam ocjenjuje postojanje krivičnog djela",
+    "odgovor_c": "Vezan je samo presudom prekršajnog suda",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 142. stav 3. ZUP-a FBiH, u pitanju postojanja krivičnog djela i krivične odgovornosti učinioca organ je vezan pravomoćnom presudom krivičnog suda kojom je optuženi oglašen krivim."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Šta organ donosi o prekidu postupka zbog prethodnog pitanja?",
+    "odgovor_a": "Rješenje koje je odmah izvršno",
+    "odgovor_b": "Zaključak, protiv kojeg je dopuštena posebna žalba (osim ako ga je donio drugostepeni organ)",
+    "odgovor_c": "Usmenu odluku bez pisanog traga",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 142. stav 1. ZUP-a FBiH, o prekidu postupka zbog prethodnog pitanja donosi se zaključak, protiv kojeg je dopuštena posebna žalba, osim ako je zaključak donio drugostepeni organ."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Koliko vremena se, po pravilu, ostavlja pozvanim osobama od dostavljanja poziva do dana usmene rasprave?",
+    "odgovor_a": "Tri dana",
+    "odgovor_b": "Osam dana",
+    "odgovor_c": "Petnaest dana",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 150. stav 2. ZUP-a FBiH, pozvanim osobama ostavit će se, po pravilu, osam dana od dostavljanja poziva do dana rasprave."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Iz kojih razloga službena osoba može isključiti javnost s usmene rasprave?",
+    "odgovor_a": "Zbog razloga morala ili javne sigurnosti, opasnosti ometanja, obiteljskih odnosa ili čuvanja tajne",
+    "odgovor_b": "Zbog velikog broja prisutnih građana",
+    "odgovor_c": "Zbog toga što je stranka nezadovoljna tokom rasprave",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 148. stav 2. ZUP-a FBiH, javnost se može isključiti zbog razloga morala ili javne sigurnosti, ozbiljne opasnosti ometanja rasprave, raspravljanja o obiteljskim odnosima ili čuvanja službene, poslovne, profesionalne, naučne ili umjetničke tajne."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Može li se javnost isključiti pri priopćavanju (objavljivanju) rješenja?",
+    "odgovor_a": "Da, javnost se tada uvijek isključuje",
+    "odgovor_b": "Ne, pri priopćavanju rješenja javnost se ne može isključiti",
+    "odgovor_c": "Može, ali samo uz pristanak stranke",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 148. stav 5. ZUP-a FBiH, pri priopćavanju rješenja javnost se ne može isključiti."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Na koga se NE odnosi isključenje javnosti s usmene rasprave?",
+    "odgovor_a": "Na stranke, njihove punomoćnike i stručne pomagače",
+    "odgovor_b": "Na sve prisutne bez izuzetka",
+    "odgovor_c": "Samo na predstavnike medija",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 149. stav 1. ZUP-a FBiH, isključenje javnosti ne odnosi se na stranke, njihove punomoćnike i stručne pomagače."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Šta će službena osoba učiniti ako stranka po čijem je zahtjevu postupak pokrenut ne dođe na uredno zakazanu raspravu, a može se pretpostaviti da je zahtjev povukla?",
+    "odgovor_a": "Donijeti rješenje u njenu korist",
+    "odgovor_b": "Obustaviti postupak (uz pravo na posebnu žalbu protiv tog zaključka)",
+    "odgovor_c": "Nastaviti raspravu bez ikakve odluke o izostanku",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 154. stav 3. ZUP-a FBiH, ako stranka po čijem je zahtjevu postupak pokrenut ne dođe iako je uredno pozvana, a može se pretpostaviti da je povukla zahtjev, službena osoba obustavlja postupak; protiv tog zaključka dopuštena je posebna žalba."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Šta se smatra ako prisutna stranka, i pored upozorenja, ne stavi primjedbu na rad obavljen na raspravi?",
+    "odgovor_a": "Da je rasprava nezakonita",
+    "odgovor_b": "Da stranka nema primjedbi",
+    "odgovor_c": "Da se rasprava mora ponoviti",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 155. stav 1. ZUP-a FBiH, ako prisutna stranka i pored upozorenja na posljedice ne stavi primjedbu na rad koji se na raspravi obavlja, smatrat će se da nema primjedbi."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Koje činjenice se ne moraju dokazivati?",
+    "odgovor_a": "Činjenice koje su opće poznate",
+    "odgovor_b": "Sve činjenice koje navodi stranka",
+    "odgovor_c": "Činjenice koje organ smatra nevažnim",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 158. stav 2. ZUP-a FBiH, ne treba dokazivati činjenice koje su opće poznate."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Gdje se može izvesti dokazivanje ako je pred organom koji vodi postupak neizvodljivo ili skopčano s nesrazmjernim troškovima?",
+    "odgovor_a": "Dokazivanje se u tom slučaju potpuno izostavlja",
+    "odgovor_b": "Pred zamoljenim organom",
+    "odgovor_c": "Isključivo pred sudom",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 159. ZUP-a FBiH, ako je dokazivanje pred organom koji vodi postupak neizvodljivo ili skopčano s nesrazmjernim troškovima ili velikim gubitkom vremena, dokazivanje se može izvoditi pred zamoljenim organom."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Šta dokazuje javna isprava koju je organ izdao u granicama svoje nadležnosti?",
+    "odgovor_a": "Ono što se u njoj potvrđuje ili određuje",
+    "odgovor_b": "Samo identitet osobe koja ju je podnijela",
+    "odgovor_c": "Ništa, dok je sud ne potvrdi",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 162. stav 1. ZUP-a FBiH, javna isprava izdata u propisanom obliku u granicama nadležnosti dokazuje ono što se u njoj potvrđuje ili određuje."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Je li dopušteno dokazivati da su u javnoj ispravi činjenice neistinito potvrđene?",
+    "odgovor_a": "Da, dopušteno je dokazivati neistinitost ili neispravnost javne isprave",
+    "odgovor_b": "Ne, javna isprava se nikada ne može pobijati",
+    "odgovor_c": "Samo ako to dozvoli organ koji je ispravu izdao",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 162. stav 3. ZUP-a FBiH, dopušteno je dokazivati da su u javnoj ispravi činjenice neistinito potvrđene ili da je isprava neispravno sastavljena."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "U kom obliku stranka može podnijeti ispravu koja služi kao dokaz?",
+    "odgovor_a": "Isključivo u originalu",
+    "odgovor_b": "U originalu, ovjerenom prepisu ili ovjerenoj fotokopiji, a može i u prostom prepisu",
+    "odgovor_c": "Samo u obliku notarski obrađene isprave",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 164. stav 1. ZUP-a FBiH, stranka podnosi ispravu u originalu, mikrofilmskoj kopiji/reprodukciji, ovjerenom prepisu ili ovjerenoj fotokopiji, a može je podnijeti i u prostom prepisu."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Kako se podnose isprave izdate na stranom jeziku?",
+    "odgovor_a": "U ovjerenom prevodu, ako je to potrebno",
+    "odgovor_b": "Samo u originalu, bez prevoda",
+    "odgovor_c": "Isključivo uz prevod sudskog vještaka iz inostranstva",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 168. stav 2. ZUP-a FBiH, isprave izdate na stranom jeziku podnose se u ovjerenom prevodu, ako je to potrebno."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Šta se smatra ako organ u roku od pet dana ne izda uvjerenje iz službene evidencije niti donese rješenje o odbijanju?",
+    "odgovor_a": "Da je zahtjev usvojen",
+    "odgovor_b": "Da je zahtjev odbijen",
+    "odgovor_c": "Da rok počinje teći ponovo",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 169. stav 6. ZUP-a FBiH, ako organ u roku od pet dana ne izda uvjerenje niti donese i dostavi rješenje o odbijanju, smatra se da je zahtjev odbijen."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Vezuje li organ uvjerenje izdato o činjenicama o kojima se NE vodi službena evidencija?",
+    "odgovor_a": "Da, takvo uvjerenje je za organ obavezujuće",
+    "odgovor_b": "Ne, takvo uvjerenje ne vezuje organ koji rješava o stvari",
+    "odgovor_c": "Vezuje samo drugostepeni organ",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 170. stav 2. ZUP-a FBiH, uvjerenje o činjenicama o kojima se ne vodi službena evidencija ne vezuje organ kome je podneseno kao dokaz; ako ga ne prihvati, organ sam utvrđuje te činjenice."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Postoji li opća dužnost odazivanja pozivu i svjedočenja?",
+    "odgovor_a": "Da, svaka pozvana osoba dužna je odazvati se i svjedočiti, ako zakonom nije drugačije određeno",
+    "odgovor_b": "Ne, svjedočenje je u upravnom postupku uvijek dobrovoljno",
+    "odgovor_c": "Dužni su svjedočiti samo državni službenici",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 172. ZUP-a FBiH, svaka osoba koja se kao svjedok poziva dužna je odazvati se pozivu i svjedočiti, ako zakonom nije drugačije određeno."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Iz kojeg razloga svjedok može uskratiti svjedočenje?",
+    "odgovor_a": "Na pitanja čiji bi odgovor njega ili bliskog srodnika izložio teškoj sramoti, znatnoj imovinskoj šteti ili krivičnom gonjenju",
+    "odgovor_b": "Zato što ne poznaje stranke u postupku",
+    "odgovor_c": "Zato što smatra postupak nepotrebnim",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 174. stav 1. ZUP-a FBiH, svjedok može uskratiti svjedočenje na pitanja čiji bi odgovor njega ili određene srodnike izložio teškoj sramoti, znatnoj imovinskoj šteti ili krivičnom gonjenju, te radi čuvanja tajne ili odnosa povjerenja."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Na šta se svjedok prethodno upozorava prije saslušanja?",
+    "odgovor_a": "Da je dužan govoriti istinu, da ništa ne smije prešutjeti i na posljedice davanja lažnog iskaza",
+    "odgovor_b": "Da ima pravo da ne dođe na saslušanje",
+    "odgovor_c": "Da mora platiti taksu za svjedočenje",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 176. stav 1. ZUP-a FBiH, svjedok se prethodno upozorava da je dužan govoriti istinu, da ne smije ništa prešutjeti i predočavaju mu se posljedice davanja lažnog iskaza."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Koja vrsta pitanja nije dopuštena pri saslušanju svjedoka?",
+    "odgovor_a": "Pitanja koja ukazuju na to kako bi se imalo odgovoriti (sugestivna pitanja)",
+    "odgovor_b": "Pitanja o tome otkuda mu je poznato ono što svjedoči",
+    "odgovor_c": "Pitanja o njegovim srodničkim odnosima sa strankama",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 176. stav 5. ZUP-a FBiH, nije dopušteno postavljati pitanja koja ukazuju na to kako bi se imalo odgovoriti."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Koja se mjera može primijeniti prema svjedoku koji je uredno pozvan, a neopravdano ne dođe?",
+    "odgovor_a": "Može se narediti prisilno dovođenje i izreći novčana kazna do 50 DM",
+    "odgovor_b": "Automatski gubi sva građanska prava",
+    "odgovor_c": "Ne može se primijeniti nikakva mjera",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 179. stav 1. ZUP-a FBiH, ako uredno pozvani svjedok neopravdano ne dođe, organ može narediti prisilno dovođenje i kazniti ga novčano do 50 DM."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Kada se izjava stranke može uzeti kao dokazno sredstvo?",
+    "odgovor_a": "Kad za utvrđivanje određene činjenice ne postoji neposredan dokaz, ili se ne može utvrditi drugim dokazima",
+    "odgovor_b": "Uvijek, kao najjači dokaz u postupku",
+    "odgovor_c": "Nikada, jer je stranka pristrasna",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 180. stav 1. ZUP-a FBiH, izjava stranke može se uzeti kao dokazno sredstvo kad za utvrđivanje činjenice ne postoji neposredan dokaz ili se ne može utvrditi na osnovu drugih dokaznih sredstava (te u stvarima malog značaja)."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Na šta je službena osoba dužna upozoriti stranku prije uzimanja njene izjave kao dokaza?",
+    "odgovor_a": "Na krivičnu i materijalnu odgovornost za davanje lažne izjave",
+    "odgovor_b": "Na obavezu plaćanja takse",
+    "odgovor_c": "Na pravo da napusti postupak",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 180. stav 4. ZUP-a FBiH, prije uzimanja izjave stranke službena osoba dužna je upozoriti stranku na krivičnu i materijalnu odgovornost za davanje lažne izjave."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Kada se izvodi dokaz vještačenjem?",
+    "odgovor_a": "Kad je za utvrđivanje ili ocjenu činjenice potrebno stručno znanje kojim ne raspolaže službena osoba",
+    "odgovor_b": "U svakom postupku, kao obavezan dokaz",
+    "odgovor_c": "Samo kad to zatraži drugostepeni organ",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 181. ZUP-a FBiH, dokaz vještačenjem izvodi se kad je za utvrđivanje ili ocjenu neke činjenice potrebno stručno znanje kojim ne raspolaže službena osoba koja vodi postupak."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Koliko vještaka određuje službena osoba, po pravilu?",
+    "odgovor_a": "Uvijek najmanje tri vještaka",
+    "odgovor_b": "Jednog vještaka, a kad ocijeni da je vještačenje složeno, može odrediti dva ili više",
+    "odgovor_c": "Broj vještaka određuje isključivo stranka",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 183. stav 1. ZUP-a FBiH, službena osoba određuje jednog vještaka, a kad ocijeni da je vještačenje složeno, može odrediti dva ili više vještaka."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Ko se ne može odrediti za vještaka?",
+    "odgovor_a": "Osoba koja ne može biti svjedok",
+    "odgovor_b": "Osoba koja je zaposlena u privatnom sektoru",
+    "odgovor_c": "Osoba mlađa od 30 godina",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 183. stav 4. ZUP-a FBiH, za vještaka se ne može odrediti osoba koja ne može biti svjedok."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Po kojim odredbama se postupa u pogledu izuzeća vještaka?",
+    "odgovor_a": "Po odredbama o izuzeću službenih osoba, na odgovarajući način",
+    "odgovor_b": "Vještak se nikada ne može izuzeti",
+    "odgovor_c": "Po posebnom zakonu o vještacima koji ne postoji u ZUP-u",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 186. stav 1. ZUP-a FBiH, u pogledu izuzeća vještaka na odgovarajući način primjenjuju se odredbe o izuzeću službenih osoba; stranka može tražiti izuzeće i ako učini vjerovatnim okolnosti koje dovode u pitanje stručno znanje vještaka."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "U kojem obliku vještak daje nalaz i mišljenje?",
+    "odgovor_a": "Pismeno",
+    "odgovor_b": "Isključivo usmeno na raspravi",
+    "odgovor_c": "Putem snimljene video izjave",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 187. stav 3. ZUP-a FBiH, nalaz i mišljenje vještaka daje se pismeno."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Šta se radi ako nalaz i mišljenje vještaka nisu jasni ili potpuni, a nedostaci se ne mogu otkloniti ponovnim saslušanjem?",
+    "odgovor_a": "Obnovit će se vještačenje s istim ili drugim vještacima, a može se tražiti i mišljenje stručne ustanove",
+    "odgovor_b": "Nalaz se uvijek prihvata kakav jeste",
+    "odgovor_c": "Predmet se obavezno ustupa sudu",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 189. stav 1. ZUP-a FBiH, ako nalaz i mišljenje nisu jasni ili potpuni, ili se bitno razlikuju, obnovit će se vještačenje s istim ili drugim vještacima, a može se zatražiti i mišljenje znanstvene ili stručne ustanove."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Ko ima pravo prisustvovati uviđaju?",
+    "odgovor_a": "Stranke",
+    "odgovor_b": "Samo službena osoba, bez ikoga drugog",
+    "odgovor_c": "Isključivo predstavnici medija",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 193. stav 1. ZUP-a FBiH, stranke imaju pravo prisustvovati uviđaju, a koje će druge osobe prisustvovati određuje službena osoba; uviđaj se može izvršiti i uz sudjelovanje vještaka."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Koja je obaveza vlasnika ili držaoca stvari, prostorija ili zemljišta koji se imaju razgledati?",
+    "odgovor_a": "Dužan je dopustiti da se uviđaj izvrši",
+    "odgovor_b": "Može slobodno zabraniti uviđaj bez posljedica",
+    "odgovor_c": "Dužan je samo ako je prethodno isplaćena naknada",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 195. stav 1. ZUP-a FBiH, vlasnik ili držalac stvari, prostorija ili zemljišta dužan je dopustiti da se uviđaj izvrši; u protivnom se primjenjuju mjere kao prema svjedoku koji odbije svjedočenje."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Kada se može pristupiti osiguranju dokaza?",
+    "odgovor_a": "Kad postoji opravdana bojazan da se dokaz neće moći kasnije izvesti — u svakom stanju postupka, pa i prije nego je pokrenut",
+    "odgovor_b": "Samo nakon pravomoćnosti rješenja",
+    "odgovor_c": "Isključivo na usmenoj raspravi",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 197. ZUP-a FBiH, ako postoji opravdana bojazan da se dokaz neće moći kasnije izvesti ili da će izvođenje biti otežano, dokaz se može izvesti radi osiguranja u svakom stanju postupka, pa i prije nego što je postupak pokrenut."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Kakav pravni lijek je dopušten protiv zaključka kojim se odbija prijedlog za osiguranje dokaza?",
+    "odgovor_a": "Posebna žalba, koja ne prekida tok postupka",
+    "odgovor_b": "Nikakav pravni lijek nije dopušten",
+    "odgovor_c": "Samo tužba u upravnom sporu",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 199. stav 2. ZUP-a FBiH, protiv zaključka kojim se odbija prijedlog za osiguranje dokaza dopuštena je posebna žalba, koja ne prekida tok postupka."
+  },
+  {
+    "oblast": "XI - POSTUPAK DO DONOŠENJA RJEŠENJA",
+    "pitanje": "Da li službena osoba može već saslušanog svjedoka ponovo saslušati ili suočiti svjedoke?",
+    "odgovor_a": "Da, može ponovo saslušati svjedoka i suočiti svjedoke čiji se iskazi ne slažu",
+    "odgovor_b": "Ne, svaki svjedok se saslušava samo jednom",
+    "odgovor_c": "Može, ali samo uz odobrenje suda",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 175. stav 3. ZUP-a FBiH, službena osoba može već saslušanog svjedoka ponovo saslušati, a svjedoke čiji se iskazi ne slažu može suočiti."
+  },
+  {
+    "oblast": "XII - RJEŠENJE",
+    "pitanje": "Kako kolegijalni organ punovažno rješava i donosi rješenje?",
+    "odgovor_a": "Kad je prisutno više od polovine članova, a rješenje donosi većinom glasova prisutnih (osim ako je propisana naročita većina)",
+    "odgovor_b": "Kad su prisutna najmanje dva člana, jednoglasno",
+    "odgovor_c": "Isključivo kad su prisutni svi članovi",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 200. stav 2. ZUP-a FBiH, kolegijalni organ može rješavati kad je prisutno više od polovine članova, a rješenje donosi većinom glasova prisutnih članova, ako nije određena naročita većina."
+  },
+  {
+    "oblast": "XII - RJEŠENJE",
+    "pitanje": "Šta se dešava kad o jednoj stvari rješavaju dva ili više organa koji se ne mogu sporazumjeti ko će donijeti rješenje?",
+    "odgovor_a": "Rješenje donosi organ koji je zadnji odlučivao o toj upravnoj stvari",
+    "odgovor_b": "Stvar se prosljeđuje sudu",
+    "odgovor_c": "Postupak se obustavlja",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 201. stav 2. ZUP-a FBiH, ako se organi ne mogu sporazumjeti ko će donijeti rješenje, donosi ga organ koji je zadnji odlučivao o toj upravnoj stvari."
+  },
+  {
+    "oblast": "XII - RJEŠENJE",
+    "pitanje": "Šta se smatra ako organ čija je suglasnost potrebna ne izda svoj akt u roku od 15 dana?",
+    "odgovor_a": "Da je suglasnost (potvrda/odobrenje/mišljenje) data",
+    "odgovor_b": "Da je suglasnost odbijena, pa se rješenje ne može donijeti",
+    "odgovor_c": "Da postupak prestaje",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 202. stav 5. ZUP-a FBiH, ako organ u roku od 15 dana ne izda akt o suglasnosti, potvrdi ili odobrenju, smatra se da ih je dao; ako ne da nikakvo izjašnjenje, organ može donijeti rješenje i bez pribavljene suglasnosti/mišljenja, ako posebnim propisom nije drugačije određeno."
+  },
+  {
+    "oblast": "XII - RJEŠENJE",
+    "pitanje": "Šta čini službena osoba koja je vodila postupak, ali nije ovlaštena da donese rješenje?",
+    "odgovor_a": "Podnosi nacrt rješenja organu koji donosi rješenje i potpisuje taj nacrt",
+    "odgovor_b": "Sama donosi i potpisuje rješenje",
+    "odgovor_c": "Predmet ustupa drugostepenom organu",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 203. ZUP-a FBiH, ako službena osoba koja je vodila postupak nije ovlaštena donositi rješenje, dužna je podnijeti nacrt rješenja organu koji donosi rješenje i taj nacrt potpisuje."
+  },
+  {
+    "oblast": "XII - RJEŠENJE",
+    "pitanje": "Šta sadrži uvod rješenja?",
+    "odgovor_a": "Naziv organa, propis o nadležnosti, ime stranke i zastupnika/punomoćnika te kratko označenje predmeta",
+    "odgovor_b": "Samo potpis i pečat",
+    "odgovor_c": "Detaljnu ocjenu svih izvedenih dokaza",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 205. stav 1. ZUP-a FBiH, uvod rješenja sadrži naziv organa, propis o nadležnosti, ime stranke i njenog zakonskog zastupnika ili punomoćnika ako ga ima, te kratko označenje predmeta postupka."
+  },
+  {
+    "oblast": "XII - RJEŠENJE",
+    "pitanje": "Šta mora biti navedeno u dispozitivu kad žalba ne odgađa izvršenje rješenja?",
+    "odgovor_a": "Mora biti izričito navedeno da žalba ne odgađa izvršenje",
+    "odgovor_b": "To se navodi samo u obrazloženju, ne i u dispozitivu",
+    "odgovor_c": "Ništa, jer žalba uvijek odgađa izvršenje",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 206. stav 5. ZUP-a FBiH, kad je propisano da žalba ne odgađa izvršenje rješenja, to mora biti navedeno u dispozitivu."
+  },
+  {
+    "oblast": "XII - RJEŠENJE",
+    "pitanje": "O čemu se rješava dispozitivom rješenja?",
+    "odgovor_a": "O predmetu postupka u cijelosti i o svim zahtjevima o kojima u toku postupka nije posebno riješeno",
+    "odgovor_b": "Samo o troškovima postupka",
+    "odgovor_c": "Isključivo o pravnom lijeku",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 206. stav 1. ZUP-a FBiH, dispozitivom se rješava o predmetu postupka u cijelosti i o svim zahtjevima stranaka o kojima u toku postupka nije posebno riješeno."
+  },
+  {
+    "oblast": "XII - RJEŠENJE",
+    "pitanje": "Čemu služi uputstvo o pravnom lijeku u rješenju?",
+    "odgovor_a": "Da se stranka obavijesti može li izjaviti žalbu ili pokrenuti upravni spor odnosno drugi postupak pred sudom",
+    "odgovor_b": "Da se navede ko je vodio postupak",
+    "odgovor_c": "Da se obrazloži ocjena dokaza",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 208. stav 1. ZUP-a FBiH, uputstvom o pravnom lijeku stranka se obavještava da li protiv rješenja može izjaviti žalbu ili pokrenuti upravni spor ili drugi postupak pred sudom."
+  },
+  {
+    "oblast": "XII - RJEŠENJE",
+    "pitanje": "Šta stranka može tražiti kad u rješenju nije dato nikakvo uputstvo o pravnom lijeku ili je nepotpuno?",
+    "odgovor_a": "Može u roku od osam dana tražiti od organa koji je rješenje donio da dopuni rješenje",
+    "odgovor_b": "Mora odmah pokrenuti upravni spor",
+    "odgovor_c": "Ništa, rješenje je tada ništavo",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 208. stav 5. ZUP-a FBiH, kad uputstvo nije dato ili je nepotpuno, stranka može postupiti po važećim propisima, a može u roku od osam dana tražiti dopunu rješenja; rok za žalbu/tužbu tada teče od dostavljanja dopunjenog rješenja."
+  },
+  {
+    "oblast": "XII - RJEŠENJE",
+    "pitanje": "Gdje se u rješenju stavlja uputstvo o pravnom lijeku?",
+    "odgovor_a": "Poslije obrazloženja",
+    "odgovor_b": "Prije uvoda rješenja",
+    "odgovor_c": "Unutar dispozitiva",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 208. stav 8. ZUP-a FBiH, uputstvo o pravnom lijeku, kao poseban sastavni dio rješenja, stavlja se poslije obrazloženja."
+  },
+  {
+    "oblast": "XII - RJEŠENJE",
+    "pitanje": "Ko potpisuje rješenje koje je donio kolegijalni organ?",
+    "odgovor_a": "Predsjedavajući, ako zakonom ili posebnim propisom nije drugačije određeno",
+    "odgovor_b": "Svi članovi kolegijalnog organa pojedinačno",
+    "odgovor_c": "Najmlađi član organa",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 209. stav 2. ZUP-a FBiH, rješenje koje je donio kolegijalni organ potpisuje predsjedavajući, ako ovim zakonom ili posebnim propisom nije drugačije određeno."
+  },
+  {
+    "oblast": "XII - RJEŠENJE",
+    "pitanje": "Kako se može riješiti stvar manjeg značaja u kojoj se udovoljava zahtjevu stranke i ne dira u javni interes ni interes druge osobe?",
+    "odgovor_a": "Rješenje se može sastojati samo od dispozitiva u obliku službene zabilješke u spisu",
+    "odgovor_b": "Rješenje mora obavezno sadržavati sve dijelove i opširno obrazloženje",
+    "odgovor_c": "O takvoj stvari se uopće ne donosi rješenje",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 211. stav 1. ZUP-a FBiH, u stvarima manjeg značaja u kojima se udovoljava zahtjevu stranke, a ne dira se u javni interes ni interes druge osobe, rješenje se može sastojati samo od dispozitiva u obliku službene zabilješke u spisu."
+  },
+  {
+    "oblast": "XII - RJEŠENJE",
+    "pitanje": "Kako se smatra djelimično rješenje u pogledu pravnih lijekova i izvršenja?",
+    "odgovor_a": "Kao samostalno rješenje",
+    "odgovor_b": "Kao nacrt bez pravnog dejstva",
+    "odgovor_c": "Kao zaključak protiv kojeg nema žalbe",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 213. stav 2. ZUP-a FBiH, djelimično rješenje smatra se u pogledu pravnih lijekova i izvršenja samostalnim rješenjem."
+  },
+  {
+    "oblast": "XII - RJEŠENJE",
+    "pitanje": "Šta mora biti izričito naznačeno u privremenom rješenju?",
+    "odgovor_a": "Da je rješenje privremeno",
+    "odgovor_b": "Da je rješenje konačno",
+    "odgovor_c": "Da žalba nije dopuštena",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 215. stav 1. ZUP-a FBiH, u privremenom rješenju mora biti izrično naznačeno da je privremeno."
+  },
+  {
+    "oblast": "XII - RJEŠENJE",
+    "pitanje": "Koji je rok za donošenje rješenja kad nije potrebno provoditi poseban ispitni postupak?",
+    "odgovor_a": "30 dana od predaje urednog zahtjeva, odnosno pokretanja postupka po službenoj dužnosti",
+    "odgovor_b": "8 dana",
+    "odgovor_c": "90 dana",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 216. stav 1. ZUP-a FBiH, kad prije rješenja nije potrebno provoditi poseban ispitni postupak, organ je dužan donijeti i dostaviti rješenje najkasnije u roku od 30 dana, ako posebnim propisom nije određen kraći rok."
+  },
+  {
+    "oblast": "XII - RJEŠENJE",
+    "pitanje": "Od kojeg trenutka proizvodi pravni učinak ispravka greške u rješenju?",
+    "odgovor_a": "Od dana od kojeg proizvodi pravni učinak rješenje koje se ispravlja",
+    "odgovor_b": "Od dana donošenja zaključka o ispravci",
+    "odgovor_c": "Od dana pravomoćnosti zaključka o ispravci",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 217. stav 1. ZUP-a FBiH, ispravka greške proizvodi pravni učinak od dana od kojeg proizvodi pravni učinak rješenje koje se ispravlja."
+  },
+  {
+    "oblast": "XII - RJEŠENJE",
+    "pitanje": "Kakav pravni lijek je dopušten protiv zaključka kojim se rješenje ispravlja ili kojim se odbija prijedlog za ispravljanje?",
+    "odgovor_a": "Posebna žalba",
+    "odgovor_b": "Nikakav, zaključak je konačan",
+    "odgovor_c": "Samo prijedlog za obnovu postupka",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 217. stav 3. ZUP-a FBiH, protiv zaključka kojim se rješenje ispravlja ili kojim se odbija prijedlog za ispravljanje dopuštena je posebna žalba."
+  },
+  {
+    "oblast": "XIII - ZAKLJUČAK",
+    "pitanje": "Šta se određuje u zaključku kojim se nalaže izvršenje neke radnje?",
+    "odgovor_a": "I rok u kome se ta radnja ima izvršiti",
+    "odgovor_b": "Samo iznos takse",
+    "odgovor_c": "Ime svjedoka koji će prisustvovati",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 219. stav 2. ZUP-a FBiH, ako se zaključkom nalaže izvršenje neke radnje, odredit će se i rok u kome se ta radnja ima izvršiti."
+  },
+  {
+    "oblast": "XIII - ZAKLJUČAK",
+    "pitanje": "U kojem obliku se po pravilu sačinjava zaključak?",
+    "odgovor_a": "U vidu službene zabilješke u spisu, a pismeno se izdaje kad je dopuštena posebna žalba ili se može tražiti izvršenje",
+    "odgovor_b": "Uvijek u formi opširnog pisanog rješenja",
+    "odgovor_c": "Isključivo usmeno, bez ikakvog traga u spisu",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 219. stav 3. ZUP-a FBiH, zaključak se sačinjava u vidu službene zabilješke u spisu i priopćava usmeno, a napismeno se izdaje kad se protiv njega može izjaviti posebna žalba ili kad se može odmah tražiti izvršenje."
+  },
+  {
+    "oblast": "XIII - ZAKLJUČAK",
+    "pitanje": "Šta sadrži zaključak koji se izdaje pismeno?",
+    "odgovor_a": "Uvod, dispozitiv, obrazloženje i pouku o pravnom lijeku",
+    "odgovor_b": "Samo dispozitiv",
+    "odgovor_c": "Isključivo potpis i pečat",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 219. stav 4. ZUP-a FBiH, zaključak koji se izdaje pismeno sadrži uvod, dispozitiv, obrazloženje i pouku o pravnom lijeku."
+  },
+  {
+    "oblast": "XIII - ZAKLJUČAK",
+    "pitanje": "U kojem roku, na koji način i kojem organu se izjavljuje žalba protiv zaključka (kad je dopuštena)?",
+    "odgovor_a": "U istom roku, na isti način i istom organu kao i žalba protiv rješenja",
+    "odgovor_b": "U dvostruko dužem roku nego protiv rješenja",
+    "odgovor_c": "Neposredno nadležnom sudu",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 220. stav 2. ZUP-a FBiH, žalba protiv zaključka izjavljuje se u istom roku, na isti način i istom organu kao i žalba protiv rješenja."
+  },
+  {
+    "oblast": "XIII - ZAKLJUČAK",
+    "pitanje": "Da li žalba protiv zaključka odgađa njegovo izvršenje?",
+    "odgovor_a": "Ne odgađa, osim ako je zakonom ili samim zaključkom drugačije određeno",
+    "odgovor_b": "Uvijek odgađa izvršenje",
+    "odgovor_c": "Nikada ne odgađa, bez izuzetka",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 220. stav 4. ZUP-a FBiH, žalba ne odgađa izvršenje zaključka, osim ako je ovim ili drugim zakonom ili samim zaključkom drugačije određeno."
+  },
+  {
+    "oblast": "XIII - ZAKLJUČAK",
+    "pitanje": "Kako zainteresirane osobe mogu pobijati zaključke protiv kojih nije dopuštena posebna žalba?",
+    "odgovor_a": "Žalbom protiv rješenja, osim ako je žalba protiv zaključka isključena zakonom",
+    "odgovor_b": "Samostalnom tužbom protiv zaključka",
+    "odgovor_c": "Takvi zaključci se ne mogu pobijati",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 220. stav 3. ZUP-a FBiH, zaključke protiv kojih nije dopuštena posebna žalba zainteresirane osobe mogu pobijati žalbom protiv rješenja, osim ako je žalba protiv zaključka zakonom isključena."
+  },
+  {
+    "oblast": "XIV - ŽALBA",
+    "pitanje": "Ko, osim stranke, može izjaviti žalbu protiv rješenja kojim je povrijeđen zakon na štetu javnog interesa?",
+    "odgovor_a": "Tužitelj, pravobranitelj i drugi organi kad su zakonom ovlašteni",
+    "odgovor_b": "Bilo koji građanin koji nije stranka",
+    "odgovor_c": "Niko, žalbu može izjaviti samo stranka",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 221. stav 2. ZUP-a FBiH, tužitelj, pravobranitelj i drugi organi, kad su zakonom ovlašteni, mogu izjaviti žalbu protiv rješenja kojim je povrijeđen zakon u korist pojedinca ili pravnog lica, a na štetu javnog interesa."
+  },
+  {
+    "oblast": "XIV - ŽALBA",
+    "pitanje": "Šta stranka može učiniti ako protiv prvostepenog rješenja žalba nije dopuštena?",
+    "odgovor_a": "Može neposredno pokrenuti upravni spor kod nadležnog suda",
+    "odgovor_b": "Nema nikakvu pravnu zaštitu",
+    "odgovor_c": "Mora čekati pet godina pa podnijeti novi zahtjev",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 222. stav 6. ZUP-a FBiH, ako protiv prvostepenog rješenja žalba nije dopuštena, neposredno se može pokrenuti upravni spor kod nadležnog suda."
+  },
+  {
+    "oblast": "XIV - ŽALBA",
+    "pitanje": "Ko u drugom stupnju rješava o žalbi protiv rješenja općinske/gradske službe donesenog na osnovu kantonalnog zakona?",
+    "odgovor_a": "Nadležni kantonalni organ iz odgovarajuće upravne oblasti, ako kantonalnim zakonom nije utvrđena nadležnost drugog organa",
+    "odgovor_b": "Nadležni federalni organ uprave",
+    "odgovor_c": "Općinsko vijeće",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 223. stav 3. ZUP-a FBiH, o žalbi protiv prvostepenih rješenja općinskog načelnika/gradonačelnika odnosno općinskih i gradskih službi, donesenih na osnovu kantonalnog propisa, u drugom stupnju rješava nadležni kantonalni organ, ako kantonalnim zakonom nije utvrđena nadležnost drugog organa."
+  },
+  {
+    "oblast": "XIV - ŽALBA",
+    "pitanje": "Od kojeg trenutka se računa rok za žalbu?",
+    "odgovor_a": "Od dana dostavljanja rješenja (za svaku osobu i organ kojima se dostavlja)",
+    "odgovor_b": "Od dana donošenja rješenja",
+    "odgovor_c": "Od dana objave u službenom glasilu",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 227. stav 2. ZUP-a FBiH, rok za žalbu računa se od dana dostavljanja rješenja, i to za svaku osobu i svaki organ kojima se rješenje dostavlja."
+  },
+  {
+    "oblast": "XIV - ŽALBA",
+    "pitanje": "U kojem iznimnom slučaju se rješenje može izvršiti već u žalbenom roku?",
+    "odgovor_a": "Kad je to zakonom predviđeno, kod hitnih mjera ili kad bi odgađanje nanijelo nepopravljivu štetu",
+    "odgovor_b": "Nikada se ne može izvršiti prije isteka roka",
+    "odgovor_c": "Uvijek, jer žalba ne odgađa izvršenje",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 228. stav 2. ZUP-a FBiH, iznimno se rješenje može izvršiti u žalbenom roku ako je to zakonom predviđeno, ako je riječ o hitnim mjerama ili ako bi usljed odgađanja nastala šteta koja se ne bi mogla popraviti."
+  },
+  {
+    "oblast": "XIV - ŽALBA",
+    "pitanje": "Mora li žalba biti posebno obrazložena?",
+    "odgovor_a": "Ne mora; dovoljno je da žalilac izloži u čemu je nezadovoljan rješenjem",
+    "odgovor_b": "Da, bez detaljnog obrazloženja se odbacuje",
+    "odgovor_c": "Mora je obrazložiti samo advokat",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 229. stav 1. ZUP-a FBiH, u žalbi se mora navesti pobijano rješenje, ali žalbu nije potrebno posebno obrazložiti — dovoljno je da žalilac izloži u kom je pogledu nezadovoljan rješenjem."
+  },
+  {
+    "oblast": "XIV - ŽALBA",
+    "pitanje": "Šta organ radi kad su u žalbi iznesene nove činjenice, a u postupku ima dvije ili više stranaka s suprotnim interesima?",
+    "odgovor_a": "Dostavlja prepis žalbe svakoj takvoj stranci i ostavlja joj rok (ne kraći od 8 ni duži od 15 dana) da se izjasni",
+    "odgovor_b": "Odmah odbacuje žalbu",
+    "odgovor_c": "Ignoriše nove činjenice",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 229. stav 3. ZUP-a FBiH, kad su iznesene nove činjenice i dokazi, a postoje stranke sa suprotnim interesima, organ dostavlja svakoj prepis žalbe i ostavlja rok za izjašnjenje, koji ne može biti kraći od osam ni duži od 15 dana."
+  },
+  {
+    "oblast": "XIV - ŽALBA",
+    "pitanje": "Šta radi drugostepeni organ ako mu je žalba predata neposredno?",
+    "odgovor_a": "Odmah je šalje prvostepenom organu; u pogledu roka smatra se da je predata prvostepenom organu",
+    "odgovor_b": "Odbacuje je kao nedopuštenu",
+    "odgovor_c": "Sam rješava bez slanja prvostepenom organu",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 230. st. 2. i 3. ZUP-a FBiH, ako je žalba predata neposredno drugostepenom organu, on je odmah šalje prvostepenom organu, a u pogledu roka smatra se kao da je predata prvostepenom organu."
+  },
+  {
+    "oblast": "XIV - ŽALBA",
+    "pitanje": "Šta ispituje prvostepeni organ kad primi žalbu?",
+    "odgovor_a": "Da li je žalba dopuštena, pravovremena i izjavljena od ovlaštene osobe",
+    "odgovor_b": "Samo da li je plaćena taksa",
+    "odgovor_c": "Da li je žalilac državljanin Federacije",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 231. stav 1. ZUP-a FBiH, prvostepeni organ ispituje da li je žalba dopuštena, pravovremena i izjavljena od ovlaštene osobe; nedopuštenu, nepravovremenu ili od neovlaštene osobe izjavljenu žalbu odbacuje rješenjem."
+  },
+  {
+    "oblast": "XIV - ŽALBA",
+    "pitanje": "Šta drugostepeni organ radi ako utvrdi da je prvostepeno rješenje donio nenadležan organ?",
+    "odgovor_a": "Poništava rješenje po službenoj dužnosti i dostavlja predmet nadležnom organu na rješavanje",
+    "odgovor_b": "Potvrđuje rješenje radi efikasnosti",
+    "odgovor_c": "Vraća predmet stranci",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 238. stav 2. ZUP-a FBiH, ako drugostepeni organ utvrdi da je prvostepeno rješenje donio nenadležan organ, poništit će ga po službenoj dužnosti i dostaviti predmet nadležnom organu na rješavanje."
+  },
+  {
+    "oblast": "XIV - ŽALBA",
+    "pitanje": "Kada drugostepeni organ sam rješava stvar (umjesto vraćanja na ponovni postupak)?",
+    "odgovor_a": "Kad utvrdi npr. pogrešnu primjenu propisa ili pogrešno ocijenjene dokaze i da se stvar mora riješiti drugačije",
+    "odgovor_b": "Nikada, uvijek vraća predmet prvostepenom organu",
+    "odgovor_c": "Samo ako stranka to izričito zatraži",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 240. stav 1. ZUP-a FBiH, kad drugostepeni organ utvrdi pogrešno ocijenjene dokaze, pogrešan zaključak o činjeničnom stanju ili pogrešnu primjenu propisa (i druge navedene razloge), poništit će prvostepeno rješenje i sam riješiti stvar."
+  },
+  {
+    "oblast": "XIV - ŽALBA",
+    "pitanje": "Može li drugostepeni organ izmijeniti prvostepeno rješenje na štetu žalioca?",
+    "odgovor_a": "Može, ali samo iz nekog od razloga predviđenih u čl. 260, 263. i 264. ovog zakona",
+    "odgovor_b": "Nikada, to je apsolutno zabranjeno",
+    "odgovor_c": "Uvijek, bez ikakvih ograničenja",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 241. stav 2. ZUP-a FBiH, drugostepeni organ može izmijeniti prvostepeno rješenje na štetu žalioca samo iz nekog od razloga predviđenih u čl. 260., 263. i 264. zakona (poništenje po pravu nadzora, vanredno ukidanje, ništavost)."
+  },
+  {
+    "oblast": "XIV - ŽALBA",
+    "pitanje": "Šta mora sadržavati obrazloženje drugostepenog rješenja?",
+    "odgovor_a": "Ocjenu svih navoda žalbe",
+    "odgovor_b": "Samo izreku, bez razloga",
+    "odgovor_c": "Isključivo ime žalioca",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 242. stav 2. ZUP-a FBiH, u obrazloženju drugostepenog rješenja moraju se ocijeniti svi navodi žalbe; ako ih je prvostepeni organ već pravilno ocijenio, drugostepeni se može pozvati na te razloge."
+  },
+  {
+    "oblast": "XIV - ŽALBA",
+    "pitanje": "Šta drugostepeni organ radi u roku od tri dana kad je izjavljena žalba zbog šutnje prvostepenog organa?",
+    "odgovor_a": "Traži da mu prvostepeni organ dostavi spise i pismeno iznese razloge zašto rješenje nije doneseno u roku",
+    "odgovor_b": "Odmah obustavlja postupak",
+    "odgovor_c": "Sam donosi rješenje bez ikakvih radnji",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 243. stav 1. ZUP-a FBiH, kad je žalba izjavljena zbog šutnje, drugostepeni organ je dužan najkasnije u roku od tri dana tražiti od prvostepenog organa dostavu spisa i pismene razloge zašto rješenje nije doneseno u roku."
+  },
+  {
+    "oblast": "XIV - ŽALBA",
+    "pitanje": "Šta se dešava ako stranka odustane od žalbe?",
+    "odgovor_a": "Postupak u vezi sa žalbom obustavlja se zaključkom",
+    "odgovor_b": "Žalba se ipak mora riješiti u meritumu",
+    "odgovor_c": "Rješenje automatski postaje ništavo",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 244. stav 2. ZUP-a FBiH, ako stranka odustane od žalbe, postupak u vezi sa žalbom obustavlja se zaključkom."
+  },
+  {
+    "oblast": "XIV - ŽALBA",
+    "pitanje": "Kada drugostepeni organ odbija žalbu i pored utvrđenih nedostataka u prvostepenom postupku?",
+    "odgovor_a": "Kad su nedostaci takvi da nisu mogli uticati na rješenje stvari",
+    "odgovor_b": "Nikada, svaki nedostatak vodi poništenju",
+    "odgovor_c": "Samo ako stranka pristane",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 237. stav 2. ZUP-a FBiH, drugostepeni organ će odbiti žalbu i kad utvrdi da je u prvostepenom postupku bilo nedostataka, ali su oni takvi da nisu mogli uticati na rješenje stvari."
+  },
+  {
+    "oblast": "XIV - ŽALBA",
+    "pitanje": "Šta radi prvostepeni organ ako povodom žalbe utvrdi da je provedeni postupak bio nepotpun, a to je moglo uticati na rješavanje?",
+    "odgovor_a": "Dužan je upotpuniti postupak u skladu sa zakonom",
+    "odgovor_b": "Mora odmah proslijediti žalbu bez ikakvih radnji",
+    "odgovor_c": "Odbacuje žalbu kao neosnovanu",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 233. stav 1. ZUP-a FBiH, ako organ koji je donio rješenje povodom žalbe utvrdi da je postupak bio nepotpun i da je to moglo uticati na rješavanje, dužan je upotpuniti postupak u skladu s odredbama zakona."
+  },
+  {
+    "oblast": "XV - OBNOVA POSTUPKA",
+    "pitanje": "Da li je ukinuta sudska presuda na kojoj se temeljilo rješenje razlog za obnovu postupka?",
+    "odgovor_a": "Da, ako se rješenje temeljilo na presudi koja je pravomoćno ukinuta",
+    "odgovor_b": "Ne, sudske presude nemaju veze s upravnim postupkom",
+    "odgovor_c": "Samo ako je presuda donesena u parničnom postupku",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 246. tačka 3. ZUP-a FBiH, obnova je moguća ako se rješenje temelji na presudi donesenoj u kaznenom postupku ili postupku o privrednom prestupu, a ta presuda je pravomoćno ukinuta."
+  },
+  {
+    "oblast": "XV - OBNOVA POSTUPKA",
+    "pitanje": "Je li učešće izuzete službene osobe u donošenju rješenja razlog za obnovu?",
+    "odgovor_a": "Da, ako je u donošenju rješenja učestvovala osoba koja je po zakonu morala biti izuzeta",
+    "odgovor_b": "Ne, izuzeće nije razlog za obnovu",
+    "odgovor_c": "Samo ako je osoba bila u srodstvu sa sudijom",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 246. tačka 6. ZUP-a FBiH, obnova je moguća ako je u donošenju rješenja učestvovala službena osoba koja je po zakonu morala biti izuzeta."
+  },
+  {
+    "oblast": "XV - OBNOVA POSTUPKA",
+    "pitanje": "Je li donošenje rješenja od strane neovlaštene osobe razlog za obnovu?",
+    "odgovor_a": "Da, ako je rješenje donijela službena osoba koja nije bila ovlaštena za njegovo donošenje",
+    "odgovor_b": "Ne, bitno je samo da je organ nadležan",
+    "odgovor_c": "Samo ako stranka to dokaže vještačenjem",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 246. tačka 7. ZUP-a FBiH, obnova je moguća ako je rješenje donijela službena osoba nadležnog organa koja nije bila ovlaštena za njegovo donošenje."
+  },
+  {
+    "oblast": "XV - OBNOVA POSTUPKA",
+    "pitanje": "Ko može pokrenuti, odnosno tražiti obnovu postupka?",
+    "odgovor_a": "Stranka može tražiti obnovu, a organ koji je donio rješenje može je pokrenuti po službenoj dužnosti (a tužilac pod istim uvjetima kao stranka)",
+    "odgovor_b": "Samo drugostepeni organ",
+    "odgovor_c": "Isključivo sud u upravnom sporu",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 247. ZUP-a FBiH, obnovu može tražiti stranka, organ koji je donio rješenje može je pokrenuti po službenoj dužnosti, a tužilac može tražiti obnovu pod istim uvjetima kao stranka."
+  },
+  {
+    "oblast": "XV - OBNOVA POSTUPKA",
+    "pitanje": "Ako je rješenje bilo predmet upravnog spora, zbog kojih činjenica se obnova može dozvoliti?",
+    "odgovor_a": "Samo zbog činjenica koje je organ utvrdio u ranijem upravnom postupku, ne i zbog činjenica koje je utvrdio sud",
+    "odgovor_b": "Zbog svih činjenica, uključujući one koje je utvrdio sud",
+    "odgovor_c": "Obnova tada uopće nije moguća",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 248. ZUP-a FBiH, ako je rješenje bilo predmet upravnog spora, obnova se može dozvoliti samo zbog činjenica koje je organ utvrdio u ranijem upravnom postupku, a ne i zbog činjenica koje je utvrdio sud."
+  },
+  {
+    "oblast": "XV - OBNOVA POSTUPKA",
+    "pitanje": "Šta je stranka dužna učiniti u samom prijedlogu za obnovu postupka?",
+    "odgovor_a": "Učiniti vjerovatnim okolnosti na kojima temelji prijedlog i da je prijedlog stavljen u zakonskom roku",
+    "odgovor_b": "Priložiti pravomoćnu presudu suda",
+    "odgovor_c": "Uplatiti polovinu vrijednosti spora",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 251. ZUP-a FBiH, stranka je dužna u prijedlogu za obnovu učiniti vjerovatnim okolnosti na kojima temelji prijedlog, kao i okolnost da je prijedlog stavljen u zakonskom roku."
+  },
+  {
+    "oblast": "XV - OBNOVA POSTUPKA",
+    "pitanje": "Koji organ odlučuje (rješava) o prijedlogu za obnovu postupka?",
+    "odgovor_a": "Organ koji je donio rješenje kojim je postupak okončan",
+    "odgovor_b": "Uvijek prvostepeni organ, bez izuzetka",
+    "odgovor_c": "Isključivo Vlada Federacije",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 252. stav 2. ZUP-a FBiH, o prijedlogu za obnovu postupka rješava onaj organ koji je donio rješenje kojim je postupak okončan."
+  },
+  {
+    "oblast": "XV - OBNOVA POSTUPKA",
+    "pitanje": "Šta organ donosi ako prijedlog za obnovu nije pravovremen ili je izjavljen od neovlaštene osobe?",
+    "odgovor_a": "Zaključak kojim se prijedlog odbacuje",
+    "odgovor_b": "Rješenje kojim se obnova dozvoljava",
+    "odgovor_c": "Rješenje o usvajanju zahtjeva",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 253. st. 1. i 2. ZUP-a FBiH, ako prijedlog nije pravovremen, nije izjavljen od ovlaštene osobe ili okolnost nije učinjena vjerovatnom, organ će zaključkom odbaciti prijedlog."
+  },
+  {
+    "oblast": "XV - OBNOVA POSTUPKA",
+    "pitanje": "Šta nadležni organ može učiniti s prijašnjim rješenjem nakon provedene obnove postupka?",
+    "odgovor_a": "Ostaviti ga na snazi ili ga zamijeniti novim rješenjem (poništiti ili ukinuti prijašnje)",
+    "odgovor_b": "Mora ga uvijek poništiti",
+    "odgovor_c": "Ne smije ga mijenjati ni u kom slučaju",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 255. ZUP-a FBiH, na osnovu podataka iz prijašnjeg i obnovljenog postupka organ donosi rješenje kojim prijašnje rješenje može ostaviti na snazi ili ga zamijeniti novim, pri čemu ga može poništiti ili ukinuti."
+  },
+  {
+    "oblast": "XV - OBNOVA POSTUPKA",
+    "pitanje": "Kada se protiv rješenja donesenog u obnovljenom postupku može izjaviti žalba?",
+    "odgovor_a": "Samo kad je to rješenje (ili zaključak) donio prvostepeni organ; ako ga je donio drugostepeni — pokreće se upravni spor",
+    "odgovor_b": "Uvijek, bez obzira koji organ ga je donio",
+    "odgovor_c": "Nikada, takvo rješenje je konačno",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 256. ZUP-a FBiH, žalba protiv zaključka/rješenja u obnovi dopuštena je samo kad ga je donio prvostepeni organ; ako ga je donio drugostepeni organ, može se neposredno pokrenuti upravni spor."
+  },
+  {
+    "oblast": "XV - OBNOVA POSTUPKA",
+    "pitanje": "Da li prijedlog za obnovu postupka odgađa izvršenje rješenja po kome se obnova traži?",
+    "odgovor_a": "Po pravilu ne odgađa, ali organ može riješiti da se izvršenje odgodi; zaključak kojim se obnova dopušta odgađa izvršenje",
+    "odgovor_b": "Uvijek odgađa izvršenje",
+    "odgovor_c": "Nikada ne odgađa, bez ikakvog izuzetka",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 257. ZUP-a FBiH, prijedlog za obnovu po pravilu ne odgađa izvršenje, ali organ može odlučiti da se odgodi; zaključak kojim se obnova dopušta odgađa izvršenje rješenja protiv kojeg je obnova dozvoljena."
+  },
+  {
+    "oblast": "XV - OBNOVA POSTUPKA",
+    "pitanje": "Je li nemogućnost stranke da se služi svojim jezikom razlog za obnovu postupka?",
+    "odgovor_a": "Da, ako osobi nije bila data mogućnost da se služi svojim jezikom pod uvjetima iz člana 16. zakona",
+    "odgovor_b": "Ne, jezik nije relevantan za obnovu",
+    "odgovor_c": "Samo ako stranka nije iz Federacije BiH",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 246. tačka 11. ZUP-a FBiH, obnova je moguća ako osobi koja je sudjelovala u postupku nije bila data mogućnost da se pod uvjetima iz člana 16. služi svojim jezikom."
+  },
+  {
+    "oblast": "XVI - OSOBITI SLUČAJEVI PONIŠTAVANJA, UKIDANJA I MIJENJANJA RJEŠENJA",
+    "pitanje": "Šta organ može učiniti sa svojim rješenjem do okončanja upravnog spora ako uvažava sve zahtjeve tužbe?",
+    "odgovor_a": "Poništiti ili izmijeniti svoje rješenje iz razloga iz kojih bi ga sud mogao poništiti, ako se ne vrijeđa pravo stranke ili treće osobe",
+    "odgovor_b": "Ne smije dirati u rješenje dok traje spor",
+    "odgovor_c": "Mora čekati presudu suda pa tek onda postupiti",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 258. stav 1. ZUP-a FBiH, organ protiv čijeg je rješenja pravovremeno pokrenut upravni spor može do okončanja spora, ako uvažava sve zahtjeve tužbe, poništiti ili izmijeniti svoje rješenje iz onih razloga iz kojih bi ga sud mogao poništiti, ako se time ne vrijeđa pravo stranke ili treće osobe."
+  },
+  {
+    "oblast": "XVI - OSOBITI SLUČAJEVI PONIŠTAVANJA, UKIDANJA I MIJENJANJA RJEŠENJA",
+    "pitanje": "Protiv kakvog rješenja tužilac može podići zahtjev za zaštitu zakonitosti?",
+    "odgovor_a": "Protiv pravomoćnog rješenja u stvari u kojoj se ne može voditi upravni spor, a sudska zaštita nije osigurana ni izvan njega",
+    "odgovor_b": "Protiv svakog prvostepenog rješenja",
+    "odgovor_c": "Samo protiv rješenja koja je donijela Vlada",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 259. stav 1. ZUP-a FBiH, tužilac može podići zahtjev za zaštitu zakonitosti protiv pravomoćnog rješenja u stvari u kojoj se ne može voditi upravni spor, a sudska zaštita nije osigurana ni izvan upravnog spora, ako smatra da je rješenjem povrijeđen zakon."
+  },
+  {
+    "oblast": "XVI - OSOBITI SLUČAJEVI PONIŠTAVANJA, UKIDANJA I MIJENJANJA RJEŠENJA",
+    "pitanje": "Kako nadležni organ može postupiti povodom zahtjeva za zaštitu zakonitosti?",
+    "odgovor_a": "Može ukinuti pobijano rješenje ili odbiti zahtjev; protiv te odluke žalba nije dopuštena",
+    "odgovor_b": "Može samo potvrditi rješenje",
+    "odgovor_c": "Mora predmet ustupiti sudu",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 259. stav 6. ZUP-a FBiH, povodom zahtjeva za zaštitu zakonitosti nadležni organ može ukinuti pobijano rješenje ili odbiti zahtjev; protiv tog rješenja žalba nije dopuštena."
+  },
+  {
+    "oblast": "XVI - OSOBITI SLUČAJEVI PONIŠTAVANJA, UKIDANJA I MIJENJANJA RJEŠENJA",
+    "pitanje": "Ko može podnijeti inicijativu tužiocu za podnošenje zahtjeva za zaštitu zakonitosti?",
+    "odgovor_a": "Stranka i druga zainteresirana osoba",
+    "odgovor_b": "Samo drugostepeni organ",
+    "odgovor_c": "Isključivo ombudsmen",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 259. stav 7. ZUP-a FBiH, inicijativu nadležnom tužiocu za podnošenje zahtjeva za zaštitu zakonitosti mogu podnijeti i stranka i druga zainteresirana osoba."
+  },
+  {
+    "oblast": "XVI - OSOBITI SLUČAJEVI PONIŠTAVANJA, UKIDANJA I MIJENJANJA RJEŠENJA",
+    "pitanje": "Koji je jedan od razloga za poništenje rješenja po pravu nadzora?",
+    "odgovor_a": "Ako je u istoj stvari ranije doneseno pravomoćno rješenje kojim je ta stvar drugačije riješena",
+    "odgovor_b": "Ako je stranka nezadovoljna obrazloženjem",
+    "odgovor_c": "Ako je rješenje doneseno u skraćenom postupku",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 260. stav 1. tačka 2. ZUP-a FBiH, rješenje se poništava po pravu nadzora ako je u istoj stvari ranije doneseno pravomoćno rješenje kojim je ta upravna stvar drugačije riješena."
+  },
+  {
+    "oblast": "XVI - OSOBITI SLUČAJEVI PONIŠTAVANJA, UKIDANJA I MIJENJANJA RJEŠENJA",
+    "pitanje": "Po čijem zahtjevu se može donijeti rješenje o UKIDANJU po pravu nadzora?",
+    "odgovor_a": "Po službenoj dužnosti ili na zahtjev tužioca ili ombudsmena (ne i stranke)",
+    "odgovor_b": "Samo na zahtjev stranke",
+    "odgovor_c": "Isključivo na zahtjev drugostepenog organa",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 261. stav 2. ZUP-a FBiH, rješenje o poništenju donosi se po službenoj dužnosti, na zahtjev stranke, tužioca ili ombudsmena, a rješenje o ukidanju po službenoj dužnosti ili na zahtjev tužioca ili ombudsmena (dakle bez stranke)."
+  },
+  {
+    "oblast": "XVI - OSOBITI SLUČAJEVI PONIŠTAVANJA, UKIDANJA I MIJENJANJA RJEŠENJA",
+    "pitanje": "Kakav pravni lijek postoji protiv rješenja donesenog po pravu nadzora (čl. 260)?",
+    "odgovor_a": "Žalba nije dopuštena, ali se može neposredno pokrenuti upravni spor",
+    "odgovor_b": "Dopuštena je redovna žalba",
+    "odgovor_c": "Dopušten je prijedlog za obnovu",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 261. stav 6. ZUP-a FBiH, protiv rješenja donesenog na osnovu člana 260. nije dopuštena žalba, već se protiv njega može neposredno pokrenuti upravni spor kod nadležnog suda."
+  },
+  {
+    "oblast": "XVI - OSOBITI SLUČAJEVI PONIŠTAVANJA, UKIDANJA I MIJENJANJA RJEŠENJA",
+    "pitanje": "Od kada djeluje izmjena pravomoćnog rješenja izvršena uz pristanak stranke (čl. 262)?",
+    "odgovor_a": "Samo ubuduće (pro futuro)",
+    "odgovor_b": "Retroaktivno, od početka",
+    "odgovor_c": "Od dana pravomoćnosti prvobitnog rješenja",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 262. stav 3. ZUP-a FBiH, izmjena rješenja na osnovu tog člana djeluje samo ubuduće."
+  },
+  {
+    "oblast": "XVI - OSOBITI SLUČAJEVI PONIŠTAVANJA, UKIDANJA I MIJENJANJA RJEŠENJA",
+    "pitanje": "Koji su razlozi za vanredno ukidanje izvršnog rješenja?",
+    "odgovor_a": "Otklanjanje teške i neposredne opasnosti po život i zdravlje ljudi, javnu sigurnost, mir i poredak, moral ili poremećaja u privredi",
+    "odgovor_b": "Nezadovoljstvo organa donesenom odlukom",
+    "odgovor_c": "Protek roka za žalbu",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 263. stav 1. ZUP-a FBiH, izvršno rješenje može se ukinuti radi otklanjanja teške i neposredne opasnosti po život i zdravlje ljudi, javnu sigurnost, javni mir i poredak ili javni moral, odnosno radi otklanjanja poremećaja u privredi, ako se to ne bi moglo otkloniti blažim sredstvima."
+  },
+  {
+    "oblast": "XVI - OSOBITI SLUČAJEVI PONIŠTAVANJA, UKIDANJA I MIJENJANJA RJEŠENJA",
+    "pitanje": "Na kakvu naknadu ima pravo stranka koja trpi štetu usljed vanrednog ukidanja rješenja?",
+    "odgovor_a": "Na naknadu samo stvarne štete",
+    "odgovor_b": "Na naknadu stvarne štete i izgubljene dobiti",
+    "odgovor_c": "Nema pravo ni na kakvu naknadu",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 263. stav 4. ZUP-a FBiH, stranka koja usljed ukidanja rješenja trpi štetu ima pravo na naknadu samo stvarne štete."
+  },
+  {
+    "oblast": "XVI - OSOBITI SLUČAJEVI PONIŠTAVANJA, UKIDANJA I MIJENJANJA RJEŠENJA",
+    "pitanje": "Koji je jedan od slučajeva u kojem se rješenje oglašava ništavim?",
+    "odgovor_a": "Rješenje koje bi svojim izvršenjem moglo prouzrokovati djelo kažnjivo po kaznenom zakonu",
+    "odgovor_b": "Rješenje doneseno u skraćenom postupku",
+    "odgovor_c": "Rješenje s kojim stranka nije zadovoljna",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 264. tačka 2. ZUP-a FBiH, ništavim se oglašava rješenje koje bi svojim izvršenjem moglo prouzrokovati neko djelo kažnjivo po kaznenom zakonu."
+  },
+  {
+    "oblast": "XVI - OSOBITI SLUČAJEVI PONIŠTAVANJA, UKIDANJA I MIJENJANJA RJEŠENJA",
+    "pitanje": "Je li donošenje rješenja bez prethodnog zahtjeva stranke (kad je zahtjev nužan) razlog ništavosti?",
+    "odgovor_a": "Da, ako stranka na takvo rješenje nije naknadno izričito ili prećutno pristala",
+    "odgovor_b": "Ne, to je samo razlog za žalbu",
+    "odgovor_c": "Samo ako se radi o pravnom licu",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 264. tačka 4. ZUP-a FBiH, ništavim se oglašava rješenje koje je organ donio bez prethodnog zahtjeva stranke (član 124.), a na koje rješenje stranka nije naknadno izričito ili prećutno pristala."
+  },
+  {
+    "oblast": "XVI - OSOBITI SLUČAJEVI PONIŠTAVANJA, UKIDANJA I MIJENJANJA RJEŠENJA",
+    "pitanje": "Kakav pravni lijek je dopušten protiv rješenja kojim se neko rješenje oglašava ništavim?",
+    "odgovor_a": "Dopuštena je žalba; ako nema organa za žalbu, može se pokrenuti upravni spor",
+    "odgovor_b": "Nikakav pravni lijek nije dopušten",
+    "odgovor_c": "Samo prijedlog za obnovu",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 265. stav 4. ZUP-a FBiH, protiv rješenja kojim se rješenje oglašava ništavim ili se odbija prijedlog za oglašavanje ništavim dopuštena je žalba; ako nema organa koji rješava o žalbi, može se neposredno pokrenuti upravni spor."
+  },
+  {
+    "oblast": "XVI - OSOBITI SLUČAJEVI PONIŠTAVANJA, UKIDANJA I MIJENJANJA RJEŠENJA",
+    "pitanje": "Kakvo dejstvo na već nastale pravne posljedice ima UKIDANJE rješenja?",
+    "odgovor_a": "Ne poništavaju se posljedice nastale do dana ukidanja, ali se onemogućava daljnje proizvođenje posljedica",
+    "odgovor_b": "Poništavaju se sve posljedice od početka",
+    "odgovor_c": "Sve posljedice ostaju trajno na snazi",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 266. stav 2. ZUP-a FBiH, ukidanjem rješenja ne poništavaju se pravne posljedice koje je rješenje već proizvelo do dana ukidanja, ali se onemogućava daljnje proizvođenje pravnih posljedica."
+  },
+  {
+    "oblast": "XVI - OSOBITI SLUČAJEVI PONIŠTAVANJA, UKIDANJA I MIJENJANJA RJEŠENJA",
+    "pitanje": "Šta je dužan učiniti organ koji sazna za rješenje kojim je povrijeđen zakon (a povreda je razlog za obnovu, poništenje, ukidanje ili mijenjanje)?",
+    "odgovor_a": "Bez odgađanja obavijestiti organ nadležan za pokretanje postupka i donošenje rješenja",
+    "odgovor_b": "Sam poništiti rješenje bez obzira na nadležnost",
+    "odgovor_c": "Ništa, jer ga se to ne tiče",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 266. stav 3. ZUP-a FBiH, organ koji sazna za rješenje kojim je povrijeđen zakon, a povreda može biti razlog za obnovu, poništavanje, ukidanje ili mijenjanje, dužan je bez odgađanja obavijestiti organ nadležan za pokretanje postupka i donošenje rješenja."
+  },
+  {
+    "oblast": "XVI - OSOBITI SLUČAJEVI PONIŠTAVANJA, UKIDANJA I MIJENJANJA RJEŠENJA",
+    "pitanje": "Može li se rješenje koje je donijela izvršna vlast (npr. Vlada), umjesto nadležnog organa uprave, poništiti zbog stvarne nenadležnosti?",
+    "odgovor_a": "Ne može se poništiti po tom osnovu (čl. 260 st.1 tač.1) samo zato što ga nije donio nadležni organ uprave",
+    "odgovor_b": "Da, uvijek se poništava zbog nenadležnosti",
+    "odgovor_c": "Može, ali samo u roku od jedne godine",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 260. stav 3. ZUP-a FBiH, ako je za donošenje rješenja nadležan organ uprave, a rješenje je donijelo zakonodavno tijelo ili organ izvršne vlasti, takvo se rješenje ne može poništiti na osnovu tačke 1. stava 1. zbog toga što ga nije donio nadležni organ."
   }
 ]
