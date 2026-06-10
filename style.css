@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #0f172a 0%, #134e4a 100%);
+    background: linear-gradient(135deg, #0f172a 0%, #312e81 100%);
     min-height: 100vh;
     color: #333;
     line-height: 1.6;
@@ -89,13 +89,13 @@ header .subtitle {
 }
 
 .btn-primary {
-    background: linear-gradient(135deg, #14b8a6 0%, #0891b2 100%);
+    background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
     color: #fff;
 }
 
 .btn-primary:hover {
     transform: translateY(-2px);
-    box-shadow: 0 5px 20px rgba(20, 184, 166, 0.4);
+    box-shadow: 0 5px 20px rgba(79, 70, 229, 0.4);
 }
 
 .btn-secondary {
@@ -168,7 +168,7 @@ header .subtitle {
 
 .progress {
     height: 100%;
-    background: linear-gradient(135deg, #14b8a6 0%, #0891b2 100%);
+    background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
     transition: width 0.3s ease;
     width: 10%;
 }
@@ -228,13 +228,13 @@ header .subtitle {
 }
 
 .answer-btn:hover {
-    border-color: #14b8a6;
-    background: #f0fdfa;
+    border-color: #4f46e5;
+    background: #eef2ff;
 }
 
 .answer-btn.selected {
-    border-color: #14b8a6;
-    background: linear-gradient(135deg, rgba(20, 184, 166, 0.1) 0%, rgba(8, 145, 178, 0.1) 100%);
+    border-color: #4f46e5;
+    background: linear-gradient(135deg, rgba(79, 70, 229, 0.1) 0%, rgba(124, 58, 237, 0.1) 100%);
 }
 
 .answer-btn .answer-letter {
@@ -251,7 +251,7 @@ header .subtitle {
 }
 
 .answer-btn.selected .answer-letter {
-    background: linear-gradient(135deg, #14b8a6 0%, #0891b2 100%);
+    background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
     color: #fff;
 }
 
@@ -284,12 +284,12 @@ header .subtitle {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    background: linear-gradient(135deg, #14b8a6 0%, #0891b2 100%);
+    background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 0 auto 15px;
-    box-shadow: 0 10px 30px rgba(20, 184, 166, 0.3);
+    box-shadow: 0 10px 30px rgba(79, 70, 229, 0.3);
 }
 
 #score-text {
@@ -312,7 +312,7 @@ header .subtitle {
 }
 
 .score-percentage.good {
-    color: #0891b2;
+    color: #7c3aed;
 }
 
 .score-percentage.average {
@@ -526,8 +526,8 @@ header .subtitle {
 }
 
 .stat-card.highlight {
-    background: linear-gradient(135deg, rgba(20, 184, 166, 0.1) 0%, rgba(8, 145, 178, 0.1) 100%);
-    border-color: #14b8a6;
+    background: linear-gradient(135deg, rgba(79, 70, 229, 0.1) 0%, rgba(124, 58, 237, 0.1) 100%);
+    border-color: #4f46e5;
 }
 
 .stat-value {
@@ -539,7 +539,7 @@ header .subtitle {
 }
 
 .stat-card.highlight .stat-value {
-    color: #0891b2;
+    color: #7c3aed;
 }
 
 .stat-label {
@@ -618,7 +618,7 @@ header .subtitle {
 }
 
 .bar-fill.good {
-    background: linear-gradient(135deg, #14b8a6 0%, #0891b2 100%);
+    background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
 }
 
 .bar-fill.average {
@@ -679,7 +679,7 @@ header .subtitle {
 }
 
 .trend-fill.good {
-    background: linear-gradient(180deg, #14b8a6 0%, #0891b2 100%);
+    background: linear-gradient(180deg, #4f46e5 0%, #7c3aed 100%);
 }
 
 .trend-fill.average {
