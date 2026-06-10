@@ -48,7 +48,7 @@
 
     // Load questions from JSON
     async function loadQuestions() {
-        const response = await fetch('questions-answers.json');
+        const response = await fetch('questions-answers-zup-glave.json');
         if (!response.ok) {
             throw new Error('Failed to load questions');
         }
