@@ -1,0 +1,821 @@
+[
+  {
+    "oblast": "IMENOVANJA, DUŽNOSTI I NESPOJIVOSTI (čl. 24–30)",
+    "pitanje": "Najduže koliko može trajati mandat vršioca dužnosti kojeg organ imenovanja, bez konkursa, postavi kada rukovodiocu samostalne uprave prestane mandat?",
+    "odgovor_a": "šest mjeseci",
+    "odgovor_b": "tri mjeseca",
+    "odgovor_c": "godinu dana",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 24. stav (4) Zakona, vršilac dužnosti obavlja dužnost do okončanja postupka imenovanja novog lica, a najduže šest mjeseci."
+  },
+  {
+    "oblast": "IMENOVANJA, DUŽNOSTI I NESPOJIVOSTI (čl. 24–30)",
+    "pitanje": "Na koji period se imenuju rukovodioci samostalnih uprava i samostalnih upravnih organizacija (lica iz člana 9. stav (2))?",
+    "odgovor_a": "četiri godine",
+    "odgovor_b": "pet godina",
+    "odgovor_c": "tri godine",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 25. stav (3) Zakona, lica iz člana 9. stav (2) imenuju se na period od pet godina, uz mogućnost ponovnog imenovanja na još jedan period od pet godina, najviše dva puta uzastopno."
+  },
+  {
+    "oblast": "IMENOVANJA, DUŽNOSTI I NESPOJIVOSTI (čl. 24–30)",
+    "pitanje": "Neusvajanje izvještaja o radu organa može biti razlog za razrješenje rukovodioca prije isteka mandata, ako se izvještaj odnosi na period koji nije kraći od:",
+    "odgovor_a": "tri mjeseca",
+    "odgovor_b": "godinu dana",
+    "odgovor_c": "šest mjeseci",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 25. stav (6) tačka d) Zakona, lice iz člana 9. stav (2) može biti razriješeno prije isteka mandata ako nadležni organ ne usvoji izvještaj o radu ili finansijski izvještaj za period ne kraći od 6 mjeseci."
+  },
+  {
+    "oblast": "IMENOVANJA, DUŽNOSTI I NESPOJIVOSTI (čl. 24–30)",
+    "pitanje": "U kojem roku je državni službenik, u slučaju spriječenosti dolaska na rad, dužan obavijestiti nadređenog o razlozima spriječenosti?",
+    "odgovor_a": "najkasnije u roku od 24 sata od nastanka razloga",
+    "odgovor_b": "najkasnije u roku od 48 sati od nastanka razloga",
+    "odgovor_c": "najkasnije u roku od tri dana od nastanka razloga",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 28. stav (5) Zakona, državni službenik je dužan obavijestiti nadređenog najkasnije u roku od 24 sata od nastanka razloga spriječenosti."
+  },
+  {
+    "oblast": "IMENOVANJA, DUŽNOSTI I NESPOJIVOSTI (čl. 24–30)",
+    "pitanje": "Kada je državni službenik dužan obavijestiti nadređenog o spriječenosti dolaska na rad ako to zbog objektivnih razloga ili više sile nije mogao učiniti u roku od 24 sata?",
+    "odgovor_a": "u roku od 24 sata od prestanka razloga",
+    "odgovor_b": "odmah po prestanku razloga koji su onemogućili obavještavanje",
+    "odgovor_c": "prvog narednog radnog dana po povratku na posao",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 28. stav (5) Zakona, u slučaju objektivnih razloga ili više sile državni službenik je dužan obavijestiti nadređenog odmah po prestanku razloga koji su onemogućili ranije obavještavanje."
+  },
+  {
+    "oblast": "IMENOVANJA, DUŽNOSTI I NESPOJIVOSTI (čl. 24–30)",
+    "pitanje": "Kada je državni službenik dužan opravdati svoje udaljavanje iz radnih prostorija u toku radnog vremena, ako za to postoji opravdan razlog?",
+    "odgovor_a": "u roku od 24 sata od povratka",
+    "odgovor_b": "sljedećeg radnog dana",
+    "odgovor_c": "odmah po povratku",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 28. stav (4) Zakona, u slučaju opravdanog razloga državni službenik je dužan opravdati svoje udaljavanje odmah po povratku."
+  },
+  {
+    "oblast": "IMENOVANJA, DUŽNOSTI I NESPOJIVOSTI (čl. 24–30)",
+    "pitanje": "Državni službenik koji je razriješen dužnosti ne može se zaposliti kod pravnog lica nad čijim je radom provodio redovan nadzor, niti od tog lica smije primati naknadu, u roku od:",
+    "odgovor_a": "dvije godine od dana razrješenja s dužnosti",
+    "odgovor_b": "jedne godine od dana razrješenja s dužnosti",
+    "odgovor_c": "tri godine od dana razrješenja s dužnosti",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 30. stav (1) tačka b) Zakona, državni službenik koji je razriješen dužnosti u roku od dvije godine od dana razrješenja ne može se zaposliti kod pravnog lica nad čijim je radom provodio redovan nadzor, niti od tog pravnog lica ili firme smije primati bilo kakvu naknadu."
+  },
+  {
+    "oblast": "IMENOVANJA, DUŽNOSTI I NESPOJIVOSTI (čl. 24–30)",
+    "pitanje": "U kojem roku se državni službenik čija prava i obaveze miruju zbog izbora ili imenovanja na položaj može vratiti na isto ili slično radno mjesto, računajući od završetka mandata?",
+    "odgovor_a": "najkasnije u roku od osam dana",
+    "odgovor_b": "najkasnije u roku od 30 dana",
+    "odgovor_c": "najkasnije u roku od 15 dana",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 30. stav (3) Zakona, državni službenik se može vratiti na isto ili slično radno mjesto u istom organu najkasnije u roku od 30 dana od dana završetka mandata i prestanka funkcije."
+  },
+  {
+    "oblast": "IMENOVANJA, DUŽNOSTI I NESPOJIVOSTI (čl. 24–30)",
+    "pitanje": "U kojem roku je državni službenik, čija je kandidatura za javnu funkciju potvrđena, dužan pisanim putem obavijestiti rukovodioca organa državne službe?",
+    "odgovor_a": "u roku od 15 dana od dana potvrđivanja kandidature",
+    "odgovor_b": "u roku od 30 dana od dana potvrđivanja kandidature",
+    "odgovor_c": "u roku od osam dana od dana potvrđivanja kandidature",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 30. stav (4) Zakona, državni službenik je dužan u roku od osam dana od dana potvrđivanja kandidature o tome pisanim putem obavijestiti rukovodioca organa. Neobavještavanje je prekršaj iz člana 95. stav (7) Zakona."
+  },
+  {
+    "oblast": "IMENOVANJA, DUŽNOSTI I NESPOJIVOSTI (čl. 24–30)",
+    "pitanje": "Koliko dana prije dana održavanja izbora je državni službenik, čija je kandidatura potvrđena, dužan koristiti godišnji odmor ili neplaćeno odsustvo?",
+    "odgovor_a": "30 dana",
+    "odgovor_b": "15 dana",
+    "odgovor_c": "60 dana",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 30. stav (5) Zakona, državni službenik je dužan za vrijeme predizborne kampanje, odnosno 30 dana prije dana održavanja izbora, koristiti godišnji odmor ili neplaćeno odsustvo, o čemu se donosi posebno rješenje."
+  },
+  {
+    "oblast": "IMENOVANJA, DUŽNOSTI I NESPOJIVOSTI (čl. 24–30)",
+    "pitanje": "Kada je državni službenik koji je koristio godišnji odmor ili neplaćeno odsustvo zbog kandidature dužan nastaviti radni odnos na svom radnom mjestu?",
+    "odgovor_a": "u roku od tri dana od dana održavanja izbora",
+    "odgovor_b": "sljedeći dan nakon održanih izbora",
+    "odgovor_c": "nakon objave konačnih rezultata izbora",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 30. stav (5) Zakona, sljedeći dan nakon održanih izbora državni službenik je dužan nastaviti radni odnos na svom radnom mjestu."
+  },
+  {
+    "oblast": "IMENOVANJA, DUŽNOSTI I NESPOJIVOSTI (čl. 24–30)",
+    "pitanje": "U kojem roku je državni službenik dužan prijaviti promjene svog imovinskog stanja?",
+    "odgovor_a": "u roku od osam dana od dana nastanka promjena",
+    "odgovor_b": "u roku od 15 dana od dana nastanka promjena",
+    "odgovor_c": "u roku od 30 dana od dana nastanka promjena",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 30. stav (7) Zakona, državni službenik je dužan prijaviti sve promjene imovinskog stanja u roku od 30 dana od dana nastalih promjena. Propuštanje je prekršaj iz člana 95. stav (9) Zakona."
+  },
+  {
+    "oblast": "ŽALBE I PRIGOVORI (rokovi za podnošenje)",
+    "pitanje": "U kojem roku državni službenik može izjaviti žalbu Odboru za žalbe protiv rješenja o njegovim pravima i dužnostima?",
+    "odgovor_a": "15 dana od dana prijema rješenja",
+    "odgovor_b": "osam dana od dana prijema rješenja",
+    "odgovor_c": "30 dana od dana prijema rješenja",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 31. stav (5) Zakona, protiv rješenja o pravima i dužnostima državni službenik ima pravo žalbe Odboru za žalbe u roku od 15 dana od dana prijema rješenja."
+  },
+  {
+    "oblast": "ŽALBE I PRIGOVORI (rokovi za podnošenje)",
+    "pitanje": "U kojem roku lice iz člana 9. stav (2) (rukovodilac uprave) može podnijeti prigovor organu koji je odlučivao o njegovim pravima i dužnostima?",
+    "odgovor_a": "osam dana od dana prijema rješenja",
+    "odgovor_b": "15 dana od dana prijema rješenja",
+    "odgovor_c": "30 dana od dana prijema rješenja",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 31. stav (10) Zakona, prigovor se podnosi organu koji je odlučivao u roku od 15 dana od dana prijema rješenja i odlaže izvršenje rješenja."
+  },
+  {
+    "oblast": "ŽALBE I PRIGOVORI (rokovi za podnošenje)",
+    "pitanje": "U kojem roku se može izjaviti žalba Odboru za žalbe protiv rješenja o prijemu državnog službenika u radni odnos po internom oglasu?",
+    "odgovor_a": "osam dana od dana prijema rješenja, odnosno obavještenja",
+    "odgovor_b": "sedam dana od dana prijema rješenja, odnosno obavještenja",
+    "odgovor_c": "15 dana od dana prijema rješenja, odnosno obavještenja",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 36. stav (11) Zakona, protiv rješenja o prijemu, odnosno obavještenja kandidatima, može se u roku od 15 dana od dana prijema izjaviti žalba Odboru za žalbe. (Za namještenike taj rok iznosi osam dana, član 74. stav (5).)"
+  },
+  {
+    "oblast": "ŽALBE I PRIGOVORI (rokovi za podnošenje)",
+    "pitanje": "U kojem roku državni službenik može izjaviti žalbu Odboru za žalbe radi preispitivanja ocjene svog rada?",
+    "odgovor_a": "15 dana od dana prijema odluke o ocjeni rada",
+    "odgovor_b": "osam dana od dana prijema odluke o ocjeni rada",
+    "odgovor_c": "30 dana od dana prijema odluke o ocjeni rada",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 44. stav (7) tačka b) Zakona, državni službenik ima pravo izjaviti žalbu Odboru za žalbe radi preispitivanja ocjene rada u roku od 15 dana od dana prijema odluke o ocjeni rada."
+  },
+  {
+    "oblast": "ŽALBE I PRIGOVORI (rokovi za podnošenje)",
+    "pitanje": "U kojem roku državni službenik može izjaviti žalbu radi preispitivanja razrješenja zbog dvije uzastopne nezadovoljavajuće godišnje ocjene rada?",
+    "odgovor_a": "osam dana od dana prijema rješenja o razrješenju",
+    "odgovor_b": "15 dana od dana prijema rješenja o razrješenju",
+    "odgovor_c": "30 dana od dana prijema rješenja o razrješenju",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 44. stav (9) Zakona, državni službenik može izjaviti žalbu Odboru za žalbe radi preispitivanja razrješenja u roku od 15 dana od dana prijema rješenja o razrješenju."
+  },
+  {
+    "oblast": "ŽALBE I PRIGOVORI (rokovi za podnošenje)",
+    "pitanje": "U kojem roku nezadovoljni učesnici postupka po internom oglasu za unapređenje mogu podnijeti žalbu Odboru za žalbe?",
+    "odgovor_a": "osam dana od dana prijema obavještenja o unapređenju",
+    "odgovor_b": "sedam dana od dana prijema obavještenja o unapređenju",
+    "odgovor_c": "15 dana od dana prijema obavještenja o unapređenju",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 46. stav (7) Zakona, nezadovoljni državni službenici koji su učesnici postupka po internom oglasu mogu podnijeti žalbu Odboru za žalbe u roku od 15 dana od dana prijema obavještenja o unapređenju."
+  },
+  {
+    "oblast": "ŽALBE I PRIGOVORI (rokovi za podnošenje)",
+    "pitanje": "U kojem roku se može uložiti žalba Odboru za žalbe protiv rješenja o prekobrojnosti, i da li žalba odlaže izvršenje rješenja?",
+    "odgovor_a": "15 dana od dana dostavljanja rješenja; žalba ne odlaže izvršenje",
+    "odgovor_b": "osam dana od dana dostavljanja rješenja; žalba odlaže izvršenje",
+    "odgovor_c": "15 dana od dana dostavljanja rješenja; žalba odlaže izvršenje",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 47. stav (3) Zakona, protiv rješenja o prekobrojnosti može se uložiti žalba Odboru za žalbe u roku od 15 dana od dana dostavljanja rješenja. Žalba ne odlaže izvršenje rješenja."
+  },
+  {
+    "oblast": "ŽALBE I PRIGOVORI (rokovi za podnošenje)",
+    "pitanje": "U kojem roku prekobrojni državni službenik može izjaviti žalbu Odboru za žalbe radi preispitivanja svog razrješenja?",
+    "odgovor_a": "osam dana od dana prijema rješenja o razrješenju",
+    "odgovor_b": "15 dana od dana prijema rješenja o razrješenju",
+    "odgovor_c": "30 dana od dana prijema rješenja o razrješenju",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 47. stav (4) tačka c) Zakona, prekobrojni državni službenik koji je razriješen može izjaviti žalbu Odboru za žalbe u roku od 15 dana od dana prijema rješenja o razrješenju."
+  },
+  {
+    "oblast": "ŽALBE I PRIGOVORI (rokovi za podnošenje)",
+    "pitanje": "U kojem roku državni službenik može podnijeti žalbu Odboru za žalbe protiv rješenja o razrješenju (prestanku radnog odnosa)?",
+    "odgovor_a": "osam dana od dana prijema rješenja o razrješenju",
+    "odgovor_b": "30 dana od dana prijema rješenja o razrješenju",
+    "odgovor_c": "15 dana od dana prijema rješenja o razrješenju",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 57. stav (2) Zakona, državni službenik može u roku od 15 dana od dana prijema rješenja o razrješenju podnijeti žalbu Odboru za žalbe. Žalba ne odlaže izvršenje rješenja (stav (3))."
+  },
+  {
+    "oblast": "ŽALBE I PRIGOVORI (rokovi za podnošenje)",
+    "pitanje": "U kojem roku državni službenik i organ koji je pokrenuo postupak mogu izjaviti žalbu Odboru za žalbe protiv odluke disciplinske komisije?",
+    "odgovor_a": "15 dana od dana prijema rješenja",
+    "odgovor_b": "osam dana od dana prijema rješenja",
+    "odgovor_c": "30 dana od dana prijema rješenja",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 63. stav (2) Zakona, protiv odluke disciplinske komisije organ koji je pokrenuo postupak i državni službenik imaju pravo žalbe Odboru za žalbe u roku od 15 dana od dana prijema rješenja."
+  },
+  {
+    "oblast": "ŽALBE I PRIGOVORI (rokovi za podnošenje)",
+    "pitanje": "U kojem roku državni službenik može uložiti žalbu Odboru za žalbe protiv rješenja o naknadi materijalne štete?",
+    "odgovor_a": "osam dana od dana prijema rješenja",
+    "odgovor_b": "15 dana od dana prijema rješenja",
+    "odgovor_c": "30 dana od dana prijema rješenja",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 68. stav (4) Zakona, protiv rješenja o naknadi štete državni službenik ima pravo uložiti žalbu Odboru za žalbe u roku od 15 dana od dana prijema rješenja."
+  },
+  {
+    "oblast": "ŽALBE I PRIGOVORI (rokovi za podnošenje)",
+    "pitanje": "U kojem roku se može izjaviti žalba Odboru za žalbe protiv rješenja o prijemu namještenika u radni odnos po internom oglasu?",
+    "odgovor_a": "15 dana od dana prijema rješenja, odnosno obavještenja",
+    "odgovor_b": "sedam dana od dana prijema rješenja, odnosno obavještenja",
+    "odgovor_c": "osam dana od dana prijema rješenja, odnosno obavještenja",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 74. stav (5) Zakona, protiv rješenja, odnosno obavještenja o rezultatima internog oglasa za namještenike, žalba se može izjaviti u roku od osam dana od dana prijema."
+  },
+  {
+    "oblast": "ŽALBE I PRIGOVORI (rokovi za podnošenje)",
+    "pitanje": "U kojem roku kandidat koji nije primljen u radni odnos kao namještenik može izjaviti žalbu Odboru za žalbe na obavještenje o rezultatima javnog oglasa?",
+    "odgovor_a": "osam dana od dana prijema obavještenja",
+    "odgovor_b": "15 dana od dana prijema obavještenja",
+    "odgovor_c": "30 dana od dana prijema obavještenja",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 79. stav (1) Zakona, kandidat koji nije primljen ima pravo žalbe Odboru za žalbe u roku od osam dana od dana prijema obavještenja. Žalba odlaže izvršenje rješenja o prijemu (stav (2))."
+  },
+  {
+    "oblast": "ZAPOŠLJAVANJE DRŽAVNIH SLUŽBENIKA (čl. 33–42)",
+    "pitanje": "Koliko dana nakon objavljivanja ostaje otvoren interni oglas za popunu upražnjenog radnog mjesta državnog službenika?",
+    "odgovor_a": "sedam dana",
+    "odgovor_b": "osam dana",
+    "odgovor_c": "15 dana",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 36. stav (5) Zakona, interni oglas ostaje otvoren osam dana od dana objavljivanja. (Za unapređenje je rok najmanje sedam dana, član 46. stav (2).)"
+  },
+  {
+    "oblast": "ZAPOŠLJAVANJE DRŽAVNIH SLUŽBENIKA (čl. 33–42)",
+    "pitanje": "Do kojeg trenutka rukovodilac organa državne službe može donijeti odluku o poništenju internog oglasa za državnog službenika?",
+    "odgovor_a": "najkasnije do isteka roka za podnošenje prijava na interni oglas",
+    "odgovor_b": "najkasnije do donošenja rješenja o prijemu državnog službenika u radni odnos",
+    "odgovor_c": "najkasnije do trenutka kada Komisija utvrdi listu kandidata koji ispunjavaju uslove oglasa",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 36. stav (7) Zakona, odluka o poništenju internog oglasa može se donijeti najkasnije do trenutka kada Komisija ne utvrdi listu kandidata koji ispunjavaju uslove internog oglasa."
+  },
+  {
+    "oblast": "ZAPOŠLJAVANJE DRŽAVNIH SLUŽBENIKA (čl. 33–42)",
+    "pitanje": "Koliki je rok za prijavu kandidata na javni konkurs za državne službenike?",
+    "odgovor_a": "15 dana od dana objave u \"Službenim novinama Federacije BiH\"",
+    "odgovor_b": "osam dana od dana objave u \"Službenim novinama Federacije BiH\"",
+    "odgovor_c": "30 dana od dana objave u \"Službenim novinama Federacije BiH\"",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 37. stav (3) Zakona, rok za prijavu kandidata je 15 dana od dana objave u \"Službenim novinama Federacije Bosne i Hercegovine\"."
+  },
+  {
+    "oblast": "ZAPOŠLJAVANJE DRŽAVNIH SLUŽBENIKA (čl. 33–42)",
+    "pitanje": "Za posljednjih koliko godina, računajući od dana objavljivanja upražnjenog radnog mjesta, kandidat za državnog službenika ne smije biti otpušten iz državne službe kao rezultat disciplinske mjere?",
+    "odgovor_a": "dvije godine",
+    "odgovor_b": "tri godine",
+    "odgovor_c": "pet godina",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 38. stav (1) tačka e) Zakona, opći uvjet je da lice u posljednje tri godine od dana objavljivanja upražnjenog radnog mjesta nije otpušteno iz državne službe kao rezultat disciplinske mjere. (Za namještenike je taj period dvije godine, član 77. tačka e).)"
+  },
+  {
+    "oblast": "ZAPOŠLJAVANJE DRŽAVNIH SLUŽBENIKA (čl. 33–42)",
+    "pitanje": "U kojem roku Komisija vrši izbor kandidata nakon isteka krajnjeg roka za prijave na javni konkurs?",
+    "odgovor_a": "u roku od 15 dana",
+    "odgovor_b": "u roku od 60 dana",
+    "odgovor_c": "u roku od 30 dana",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 41. stav (1) Zakona, izbor kandidata Komisija vrši u roku od 30 dana nakon isteka krajnjeg roka za prijave na javni konkurs."
+  },
+  {
+    "oblast": "ZAPOŠLJAVANJE DRŽAVNIH SLUŽBENIKA (čl. 33–42)",
+    "pitanje": "Do kojeg trenutka rukovodilac organa državne službe može donijeti odluku o poništenju javnog konkursa?",
+    "odgovor_a": "najkasnije do održavanja pismenog dijela stručnog ispita",
+    "odgovor_b": "najkasnije do isteka roka za prijavu kandidata",
+    "odgovor_c": "najkasnije do objavljivanja rezultata javnog konkursa",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 41. stav (4) Zakona, rukovodilac može donijeti odluku o poništenju javnog konkursa najkasnije do održavanja pismenog dijela stručnog ispita."
+  },
+  {
+    "oblast": "ZAPOŠLJAVANJE DRŽAVNIH SLUŽBENIKA (čl. 33–42)",
+    "pitanje": "Ako državni službenik ne stupi na dužnost ili mu prestane radni odnos u periodu od koliko vremena od dana postavljenja, na to mjesto se postavlja naredni kandidat s rezervne liste?",
+    "odgovor_a": "tri mjeseca",
+    "odgovor_b": "šest mjeseci",
+    "odgovor_c": "godinu dana",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 42. stav (5) Zakona, ako državni službenik ne stupi na dužnost ili mu prestane radni odnos u periodu od šest mjeseci od dana postavljenja, postavlja se naredni najuspješniji kandidat s rezervne liste koju čuva Agencija."
+  },
+  {
+    "oblast": "ZAPOŠLJAVANJE DRŽAVNIH SLUŽBENIKA (čl. 33–42)",
+    "pitanje": "Do kada se čuva rezervna lista uspješnih kandidata za radno mjesto državnog službenika?",
+    "odgovor_a": "tri mjeseca od dana konačnosti rješenja o postavljenju",
+    "odgovor_b": "godinu dana od dana objavljivanja rezultata konkursa",
+    "odgovor_c": "do isteka probnog rada postavljenog državnog službenika",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 42. stav (6) Zakona, rezervna lista uspješnih kandidata čuva se do isteka probnog rada postavljenog državnog službenika."
+  },
+  {
+    "oblast": "ZAPOŠLJAVANJE DRŽAVNIH SLUŽBENIKA (čl. 33–42)",
+    "pitanje": "U kojem roku se primjerak rješenja o postavljenju državnog službenika dostavlja Agenciji radi evidentiranja u Registru državnih službenika?",
+    "odgovor_a": "u roku od osam dana od dana donošenja rješenja",
+    "odgovor_b": "u roku od 15 dana od dana donošenja rješenja",
+    "odgovor_c": "u roku od 30 dana od dana donošenja rješenja",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 42. stav (11) Zakona, primjerak rješenja o postavljenju dostavlja se Agenciji u roku od osam dana od dana donošenja rješenja."
+  },
+  {
+    "oblast": "ZAPOŠLJAVANJE DRŽAVNIH SLUŽBENIKA (čl. 33–42)",
+    "pitanje": "Koliko puta se interni premještaj državnog službenika može izvršiti u toku jedne kalendarske godine?",
+    "odgovor_a": "najviše dva puta",
+    "odgovor_b": "samo jednom",
+    "odgovor_c": "jednom u svakih šest mjeseci",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 33. stav (6) Zakona, interni premještaj državnog službenika može se izvršiti samo jednom u toku jedne kalendarske godine."
+  },
+  {
+    "oblast": "OCJENA RADA, UNAPREĐENJE I PREKOBROJNOST (čl. 44–47)",
+    "pitanje": "Državni službenici koji su u organu državne službe radili manje od koliko vremena ne obuhvataju se godišnjim ocjenjivanjem rada?",
+    "odgovor_a": "manje od tri mjeseca",
+    "odgovor_b": "manje od godinu dana",
+    "odgovor_c": "manje od šest mjeseci",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 44. stav (3) Zakona, rukovodilac ocjenjuje rad svih državnih službenika jednom godišnje, osim onih koji su u tom organu radili manje od šest mjeseci."
+  },
+  {
+    "oblast": "OCJENA RADA, UNAPREĐENJE I PREKOBROJNOST (čl. 44–47)",
+    "pitanje": "Koliko uzastopnih nezadovoljavajućih godišnjih ocjena rada dovodi do razrješenja državnog službenika bez otkaznog roka?",
+    "odgovor_a": "dvije uzastopne ocjene",
+    "odgovor_b": "tri uzastopne ocjene",
+    "odgovor_c": "četiri ocjene u periodu od pet godina",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 44. stav (8) i članu 56. stav (1) tačka h) Zakona, dvije uzastopne nezadovoljavajuće godišnje ocjene rada razlog su za razrješenje i prestanak radnog odnosa bez otkaznog roka i naknade zbog otpuštanja."
+  },
+  {
+    "oblast": "OCJENA RADA, UNAPREĐENJE I PREKOBROJNOST (čl. 44–47)",
+    "pitanje": "Koliko najmanje dana traje interni oglas za unapređenje državnog službenika?",
+    "odgovor_a": "osam dana od dana objavljivanja",
+    "odgovor_b": "sedam dana od dana objavljivanja",
+    "odgovor_c": "15 dana od dana objavljivanja",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 46. stav (2) Zakona, interni oglas za unapređenje traje najmanje sedam dana od dana objavljivanja na oglasnoj tabli organa u kojem se vrši unapređenje."
+  },
+  {
+    "oblast": "OCJENA RADA, UNAPREĐENJE I PREKOBROJNOST (čl. 44–47)",
+    "pitanje": "Koliko dugo, od dana prestanka radnog odnosa zbog prekobrojnosti, državni službenik ima prednost prilikom ponovnog zaposlenja u organima državne službe istog nivoa vlasti?",
+    "odgovor_a": "u roku od šest mjeseci",
+    "odgovor_b": "u roku od dvije godine",
+    "odgovor_c": "u roku od godine dana",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 47. stav (6) Zakona, državni službenik i namještenik za čijim je radom prestala potreba zbog prekobrojnosti ima u roku od godine dana od dana prestanka radnog odnosa prednost prilikom ponovnog zaposlenja."
+  },
+  {
+    "oblast": "OCJENA RADA, UNAPREĐENJE I PREKOBROJNOST (čl. 44–47)",
+    "pitanje": "Državni službenik kojem je do sticanja uslova za starosnu penziju ostalo koliko godina staža osiguranja ne može biti proglašen prekobrojnim?",
+    "odgovor_a": "pet ili manje godina",
+    "odgovor_b": "tri ili manje godine",
+    "odgovor_c": "deset ili manje godina",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 47. stav (7) Zakona, prekobrojnim se ne može proglasiti državni službenik kojem je za sticanje uslova za starosnu penziju ostalo pet ili manje godina staža osiguranja."
+  },
+  {
+    "oblast": "PROBNI RAD, PRIPRAVNICI I RAD NA ODREĐENO VRIJEME (čl. 43, 48–50)",
+    "pitanje": "Koliko ukupno traje probni rad državnog službenika kod prvog zapošljavanja u organima državne službe?",
+    "odgovor_a": "tri mjeseca",
+    "odgovor_b": "šest mjeseci",
+    "odgovor_c": "godinu dana",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 43. stav (1) Zakona, probni rad državnog službenika obuhvata vrijeme uvođenja u posao i vrijeme obavljanja dužnosti i ukupno traje šest mjeseci. (Za namještenike traje tri mjeseca, član 80. stav (1).)"
+  },
+  {
+    "oblast": "PROBNI RAD, PRIPRAVNICI I RAD NA ODREĐENO VRIJEME (čl. 43, 48–50)",
+    "pitanje": "Koliko traje pripravnički staž državnih službenika, ako posebnim zakonom nije drugačije određeno?",
+    "odgovor_a": "šest mjeseci",
+    "odgovor_b": "devet mjeseci",
+    "odgovor_c": "jednu godinu",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 48. stav (3) Zakona, pripravnički staž traje jednu godinu, ako posebnim zakonom nije drugačije određeno."
+  },
+  {
+    "oblast": "PROBNI RAD, PRIPRAVNICI I RAD NA ODREĐENO VRIJEME (čl. 43, 48–50)",
+    "pitanje": "Koliko godina radnog staža nakon položenog stručnog ispita mora imati namještenik s visokom stručnom spremom da bi se mogao prijaviti na javni konkurs za stručnog saradnika bez obaveze obavljanja pripravničkog staža?",
+    "odgovor_a": "najmanje pet godina",
+    "odgovor_b": "najmanje tri godine",
+    "odgovor_c": "najmanje deset godina",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 49. stav (1) Zakona, namještenik koji je stekao najmanje VII stepen stručne spreme i ima najmanje pet godina radnog staža u organima državne službe nakon položenog stručnog ispita može se prijaviti bez obaveze pripravničkog staža."
+  },
+  {
+    "oblast": "PROBNI RAD, PRIPRAVNICI I RAD NA ODREĐENO VRIJEME (čl. 43, 48–50)",
+    "pitanje": "Najduže koliko može trajati radni odnos na određeno vrijeme državnog službenika primljenog zbog duže odsutnosti drugog državnog službenika (bolovanje, porodiljsko odsustvo, suspenzija)?",
+    "odgovor_a": "do povratka odsutnog službenika, a najduže dvije godine",
+    "odgovor_b": "do povratka odsutnog službenika, a najduže tri godine",
+    "odgovor_c": "do povratka odsutnog službenika, a najduže 12 mjeseci",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 50. stav (1) Zakona, radni odnos na određeno vrijeme traje do povratka odsutnog državnog službenika na posao, a najduže tri godine. Takav radni odnos ne može prerasti u radni odnos na neodređeno vrijeme (stav (3))."
+  },
+  {
+    "oblast": "PROBNI RAD, PRIPRAVNICI I RAD NA ODREĐENO VRIJEME (čl. 43, 48–50)",
+    "pitanje": "Najduže koliko se, u slučaju hitne potrebe, upražnjeno radno mjesto državnog službenika može popuniti na određeno vrijeme bez javnog konkursa, uz obavezu istovremenog pokretanja postupka javnog oglašavanja?",
+    "odgovor_a": "šest mjeseci",
+    "odgovor_b": "tri godine",
+    "odgovor_c": "12 mjeseci",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 50. stav (4) Zakona, radno mjesto se može popuniti na određeno vrijeme najduže do 12 mjeseci, uz obavezu da se istovremeno pokrene postupak javnog oglašavanja. Omogućavanje rada duže od toga je prekršaj iz člana 95. stav (10) tačka e)."
+  },
+  {
+    "oblast": "GODIŠNJI ODMORI I ODSUSTVA (čl. 52–53)",
+    "pitanje": "Na godišnji odmor u trajanju od najmanje koliko radnih dana državni službenik ima pravo?",
+    "odgovor_a": "20 radnih dana",
+    "odgovor_b": "15 radnih dana",
+    "odgovor_c": "30 radnih dana",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 52. stav (1) Zakona, državni službenik ima pravo na godišnji odmor u trajanju od najmanje 20 radnih dana."
+  },
+  {
+    "oblast": "GODIŠNJI ODMORI I ODSUSTVA (čl. 52–53)",
+    "pitanje": "Do koliko radnih dana plaćenog odsustva u jednoj kalendarskoj godini državni službenik ima pravo, u skladu s kolektivnim ugovorom i pravilnikom?",
+    "odgovor_a": "do pet radnih dana",
+    "odgovor_b": "do sedam radnih dana",
+    "odgovor_c": "do deset radnih dana",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 52. stav (1) Zakona, državni službenik ima pravo na plaćeno odsustvo do sedam radnih dana u jednoj kalendarskoj godini."
+  },
+  {
+    "oblast": "GODIŠNJI ODMORI I ODSUSTVA (čl. 52–53)",
+    "pitanje": "Koliko radnih dana, najviše, može iznositi godišnji odmor po svim osnovama, ako kolektivnim ugovorom nije propisano drugačije?",
+    "odgovor_a": "25 radnih dana",
+    "odgovor_b": "35 radnih dana",
+    "odgovor_c": "30 radnih dana",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 52. stav (2) Zakona, godišnji odmor po svim osnovama ne može biti duži od 30 radnih dana, osim ako kolektivnim ugovorom nije propisano drugačije."
+  },
+  {
+    "oblast": "GODIŠNJI ODMORI I ODSUSTVA (čl. 52–53)",
+    "pitanje": "Ako državni službenik koristi godišnji odmor u dijelovima, koliko najmanje radnih dana mora trajati prvi dio, koji se koristi bez prekida u kalendarskoj godini?",
+    "odgovor_a": "12 radnih dana",
+    "odgovor_b": "10 radnih dana",
+    "odgovor_c": "15 radnih dana",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 52. stav (3) Zakona, prvi dio godišnjeg odmora koristi se bez prekida u trajanju od najmanje 12 radnih dana u toku kalendarske godine."
+  },
+  {
+    "oblast": "GODIŠNJI ODMORI I ODSUSTVA (čl. 52–53)",
+    "pitanje": "Do kojeg roka se, ako se godišnji odmor koristi u dijelovima, mora iskoristiti drugi dio godišnjeg odmora?",
+    "odgovor_a": "najkasnije do 31. marta naredne godine",
+    "odgovor_b": "najkasnije do 30. juna naredne godine",
+    "odgovor_c": "najkasnije do 31. decembra tekuće godine",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 52. stav (3) Zakona, drugi dio godišnjeg odmora koristi se najkasnije do 30. juna naredne godine, sa ili bez prekida."
+  },
+  {
+    "oblast": "GODIŠNJI ODMORI I ODSUSTVA (čl. 52–53)",
+    "pitanje": "Do koliko dana u kalendarskoj godini se državnom službeniku može odobriti neplaćeno odsustvo (npr. za pripremanje i polaganje ispita)?",
+    "odgovor_a": "do 15 dana",
+    "odgovor_b": "do 60 dana",
+    "odgovor_c": "do 30 dana",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 53. stav (1) Zakona, državnom službeniku može se odobriti neplaćeno odsustvo do 30 dana u kalendarskoj godini u taksativno navedenim slučajevima."
+  },
+  {
+    "oblast": "GODIŠNJI ODMORI I ODSUSTVA (čl. 52–53)",
+    "pitanje": "Neplaćeno odsustvo za sindikalne aktivnosti može se odobriti za aktivnosti u trajanju dužem od:",
+    "odgovor_a": "tri dana u mjesecu",
+    "odgovor_b": "pet dana u mjesecu",
+    "odgovor_c": "sedam dana u mjesecu",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 53. stav (1) tačka f) Zakona, neplaćeno odsustvo može se odobriti za sindikalne aktivnosti u trajanju dužem od tri dana u mjesecu."
+  },
+  {
+    "oblast": "GODIŠNJI ODMORI I ODSUSTVA (čl. 52–53)",
+    "pitanje": "Najduže koliko može trajati neplaćeno odsustvo radi boravka u inostranstvu zbog spajanja porodice (kada bračni drug boravi u inostranstvu po odluci nadležne institucije)?",
+    "odgovor_a": "dvije godine",
+    "odgovor_b": "četiri godine",
+    "odgovor_c": "tri godine",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 53. stav (5) Zakona, odsustvo iz stava (4) tačka a) ne može trajati duže od četiri godine."
+  },
+  {
+    "oblast": "GODIŠNJI ODMORI I ODSUSTVA (čl. 52–53)",
+    "pitanje": "Najduže koliko može trajati neplaćeno odsustvo radi školovanja koje nije obuhvaćeno organizovanim oblicima obuke?",
+    "odgovor_a": "jednu godinu",
+    "odgovor_b": "četiri godine",
+    "odgovor_c": "dvije godine",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 53. stav (5) Zakona, odsustvo iz stava (4) tačka b) (školovanje) ne može trajati duže od dvije godine."
+  },
+  {
+    "oblast": "GODIŠNJI ODMORI I ODSUSTVA (čl. 52–53)",
+    "pitanje": "Na koliko radnih dana neplaćenog odsustva u jednoj kalendarskoj godini državni službenik ima pravo radi zadovoljavanja vjerskih odnosno tradicijskih potreba?",
+    "odgovor_a": "dva radna dana",
+    "odgovor_b": "jedan radni dan",
+    "odgovor_c": "sedam radnih dana",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 53. stav (6) Zakona, državni službenik ima pravo na neplaćeno odsustvo u trajanju od dva radna dana u jednoj kalendarskoj godini radi zadovoljavanja vjerskih odnosno tradicijskih potreba."
+  },
+  {
+    "oblast": "PRESTANAK RADNOG ODNOSA, DISCIPLINSKA ODGOVORNOST I SUSPENZIJA (čl. 56–65)",
+    "pitanje": "Državnom službeniku prestaje radni odnos danom pravosnažnosti presude ako bude osuđen na kaznu zatvora u trajanju dužem od:",
+    "odgovor_a": "šest mjeseci",
+    "odgovor_b": "tri mjeseca",
+    "odgovor_c": "godinu dana",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 56. stav (1) tačka k) Zakona, radni odnos prestaje ako državni službenik bude osuđen na izdržavanje kazne zatvora u trajanju dužem od tri mjeseca – danom pravosnažnosti presude (uz izuzetke navedene u toj tački)."
+  },
+  {
+    "oblast": "PRESTANAK RADNOG ODNOSA, DISCIPLINSKA ODGOVORNOST I SUSPENZIJA (čl. 56–65)",
+    "pitanje": "Državnom službeniku prestaje radni odnos ako mu bude izrečena mjera bezbjednosti ili zaštitna mjera zabrane vršenja poziva, djelatnosti ili dužnosti u trajanju dužem od:",
+    "odgovor_a": "30 dana",
+    "odgovor_b": "šest mjeseci",
+    "odgovor_c": "tri mjeseca",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 56. stav (1) tačka m) Zakona, radni odnos prestaje ako mu bude izrečena takva mjera u trajanju dužem od tri mjeseca – danom pravosnažnosti akta kojim je izrečena."
+  },
+  {
+    "oblast": "PRESTANAK RADNOG ODNOSA, DISCIPLINSKA ODGOVORNOST I SUSPENZIJA (čl. 56–65)",
+    "pitanje": "Neopravdano kašnjenje na posao ili raniji odlazak s posla bez odobrenja je laka povreda službene dužnosti ako se desi najviše:",
+    "odgovor_a": "dva puta mjesečno",
+    "odgovor_b": "jednom mjesečno",
+    "odgovor_c": "tri puta mjesečno",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 59. stav (3) tačka a) Zakona, laka povreda je neopravdano kašnjenje ili raniji odlazak mjesečno najviše dva puta. Ako se to desi više od dva puta tokom mjeseca, riječ je o teškoj povredi (stav (4) tačka h))."
+  },
+  {
+    "oblast": "PRESTANAK RADNOG ODNOSA, DISCIPLINSKA ODGOVORNOST I SUSPENZIJA (čl. 56–65)",
+    "pitanje": "Neobavještavanje rukovodioca o spriječenosti dolaska na posao, bez opravdanih razloga, predstavlja laku povredu službene dužnosti kada traje:",
+    "odgovor_a": "od jednog do tri dana",
+    "odgovor_b": "od jednog do dva dana",
+    "odgovor_c": "do pet dana",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 59. stav (3) tačka d) Zakona, laka povreda je neobavještavanje rukovodioca o spriječenosti dolaska na posao od jednog do dva dana, bez opravdanih razloga."
+  },
+  {
+    "oblast": "PRESTANAK RADNOG ODNOSA, DISCIPLINSKA ODGOVORNOST I SUSPENZIJA (čl. 56–65)",
+    "pitanje": "Koji neopravdani izostanak s posla predstavlja tešku povredu službene dužnosti?",
+    "odgovor_a": "tri dana uzastopno ili do deset dana sa prekidima tokom 30 dana",
+    "odgovor_b": "dva dana uzastopno ili do pet dana sa prekidima tokom 15 dana",
+    "odgovor_c": "dva dana uzastopno ili do pet dana sa prekidima tokom 30 dana",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 59. stav (4) tačka i) Zakona, teška povreda je neopravdan izostanak s posla dva dana uzastopno ili do pet dana sa prekidima tokom 30 dana."
+  },
+  {
+    "oblast": "PRESTANAK RADNOG ODNOSA, DISCIPLINSKA ODGOVORNOST I SUSPENZIJA (čl. 56–65)",
+    "pitanje": "Na koji najduži period se, kao disciplinska mjera za laku povredu službene dužnosti, može umanjiti osnovna plata državnog službenika do 10%?",
+    "odgovor_a": "do tri mjeseca",
+    "odgovor_b": "do šest mjeseci",
+    "odgovor_c": "do 12 mjeseci",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 60. stav (1) tačka a) podtačka 3) Zakona, za lake povrede može se izreći umanjenje osnovne plate do 10% za period do tri mjeseca."
+  },
+  {
+    "oblast": "PRESTANAK RADNOG ODNOSA, DISCIPLINSKA ODGOVORNOST I SUSPENZIJA (čl. 56–65)",
+    "pitanje": "Na koji najduži period se, kao disciplinska kazna za tešku povredu službene dužnosti, može umanjiti osnovna plata državnog službenika do 30%?",
+    "odgovor_a": "do tri mjeseca",
+    "odgovor_b": "do šest mjeseci",
+    "odgovor_c": "do 12 mjeseci",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 60. stav (1) tačka b) podtačka 2) Zakona, za teške povrede može se izreći umanjenje osnovne plate do 30% za period do šest mjeseci."
+  },
+  {
+    "oblast": "PRESTANAK RADNOG ODNOSA, DISCIPLINSKA ODGOVORNOST I SUSPENZIJA (čl. 56–65)",
+    "pitanje": "Na koliko najviše vremena se državnom službeniku za tešku povredu može izreći suspenzija prava učešća na internom oglasu i javnom konkursu?",
+    "odgovor_a": "najviše jednu godinu",
+    "odgovor_b": "najviše tri godine",
+    "odgovor_c": "najviše dvije godine",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 60. stav (1) tačka b) podtačka 1) Zakona, suspenzija prava učešća na internom oglasu iz čl. 36. i 46. i javnom konkursu izriče se u periodu od najviše dvije godine."
+  },
+  {
+    "oblast": "PRESTANAK RADNOG ODNOSA, DISCIPLINSKA ODGOVORNOST I SUSPENZIJA (čl. 56–65)",
+    "pitanje": "Na koji period Vlada, gradonačelnik odnosno načelnik imenuje predsjednika i članove disciplinske komisije?",
+    "odgovor_a": "jedne godine",
+    "odgovor_b": "dvije godine",
+    "odgovor_c": "pet godina",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 62. stav (2) Zakona, predsjednika i članove disciplinske komisije imenuje i razrješava Vlada, gradonačelnik odnosno načelnik na period od jedne godine."
+  },
+  {
+    "oblast": "PRESTANAK RADNOG ODNOSA, DISCIPLINSKA ODGOVORNOST I SUSPENZIJA (čl. 56–65)",
+    "pitanje": "Kada je rukovodilac organa državne službe dužan suspendovati državnog službenika protiv kojeg je pokrenut krivični postupak za krivično djelo počinjeno u obavljanju službene dužnosti ili koji se nalazi u pritvoru?",
+    "odgovor_a": "u roku od osam dana",
+    "odgovor_b": "odmah",
+    "odgovor_c": "u roku od 15 dana",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 65. stav (1) Zakona, rukovodilac je dužan državnog službenika odmah suspendovati u tim slučajevima."
+  },
+  {
+    "oblast": "PRESTANAK RADNOG ODNOSA, DISCIPLINSKA ODGOVORNOST I SUSPENZIJA (čl. 56–65)",
+    "pitanje": "Rukovodilac može suspendovati državnog službenika ako je protiv njega pokrenut krivični postupak za krivično djelo za koje se može izreći kazna zatvora od najmanje:",
+    "odgovor_a": "tri godine",
+    "odgovor_b": "deset godina",
+    "odgovor_c": "pet godina",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 65. stav (2) tačka a) Zakona, suspenzija je moguća ako je pokrenut krivični postupak za krivično djelo za koje se može izreći kazna zatvora od najmanje pet godina."
+  },
+  {
+    "oblast": "PRESTANAK RADNOG ODNOSA, DISCIPLINSKA ODGOVORNOST I SUSPENZIJA (čl. 56–65)",
+    "pitanje": "Koliko traje preventivna suspenzija državnog službenika po osnovu krivičnog postupka?",
+    "odgovor_a": "do okončanja istrage, odnosno krivičnog postupka",
+    "odgovor_b": "najduže šest mjeseci",
+    "odgovor_c": "najduže godinu dana",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 65. stav (4) Zakona, suspenzija traje do okončanja istrage odnosno krivičnog postupka."
+  },
+  {
+    "oblast": "NAMJEŠTENICI (čl. 73–84)",
+    "pitanje": "Koliko najmanje dana ostaje otvoren interni oglas za popunu radnog mjesta namještenika?",
+    "odgovor_a": "sedam dana od dana objavljivanja",
+    "odgovor_b": "osam dana od dana objavljivanja",
+    "odgovor_c": "15 dana od dana objavljivanja",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 73. stav (3) Zakona, oglas ostaje otvoren najmanje osam dana od dana objavljivanja."
+  },
+  {
+    "oblast": "NAMJEŠTENICI (čl. 73–84)",
+    "pitanje": "Koliki je rok za prijavu kandidata na javni oglas za namještenike?",
+    "odgovor_a": "osam dana od dana objave oglasa u dnevnim novinama",
+    "odgovor_b": "30 dana od dana objave oglasa u dnevnim novinama",
+    "odgovor_c": "15 dana od dana objave oglasa u dnevnim novinama",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 76. stav (2) Zakona, rok za prijavu kandidata je 15 dana od dana objave oglasa u dnevnim novinama."
+  },
+  {
+    "oblast": "NAMJEŠTENICI (čl. 73–84)",
+    "pitanje": "Za posljednjih koliko godina, računajući od dana objavljivanja javnog oglasa, kandidat za namještenika ne smije biti otpušten iz organa državne službe kao rezultat disciplinske kazne?",
+    "odgovor_a": "dvije godine",
+    "odgovor_b": "jednu godinu",
+    "odgovor_c": "tri godine",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 77. tačka e) Zakona, opći uvjet je da lice u posljednje dvije godine od dana objavljivanja javnog oglasa nije otpušteno iz organa državne službe kao rezultat disciplinske kazne."
+  },
+  {
+    "oblast": "NAMJEŠTENICI (čl. 73–84)",
+    "pitanje": "U kojem roku primljeni namještenik mora stupiti na posao, a da mu se rješenje o prijemu ne poništi?",
+    "odgovor_a": "u roku od osam dana",
+    "odgovor_b": "u roku od pet radnih dana",
+    "odgovor_c": "u roku od 15 dana",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 78. stav (4) Zakona, ako primljeni kandidat iz neopravdanih razloga u roku od pet radnih dana ne stupi na posao, poništit će se rješenje o njegovom prijemu."
+  },
+  {
+    "oblast": "NAMJEŠTENICI (čl. 73–84)",
+    "pitanje": "Koliko se čuva rezervna lista uspješnih kandidata za namještenike, računajući od konačnosti rješenja o prijemu?",
+    "odgovor_a": "šest mjeseci, a najduže do isteka probnog rada",
+    "odgovor_b": "godinu dana, a najduže do isteka probnog rada",
+    "odgovor_c": "tri mjeseca, a najduže do isteka probnog rada",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 78. stav (5) Zakona, rezervna lista se čuva tri mjeseca od dana konačnosti rješenja o prijemu namještenika, a najduže do isteka probnog rada."
+  },
+  {
+    "oblast": "NAMJEŠTENICI (čl. 73–84)",
+    "pitanje": "Koliko ukupno traje probni rad namještenika kod prvog zapošljavanja u organima državne službe?",
+    "odgovor_a": "tri mjeseca",
+    "odgovor_b": "šest mjeseci",
+    "odgovor_c": "devet mjeseci",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 80. stav (1) Zakona, probni rad namještenika ukupno traje tri mjeseca, osim ako zakonom nije drugačije utvrđeno."
+  },
+  {
+    "oblast": "NAMJEŠTENICI (čl. 73–84)",
+    "pitanje": "Najduže koliko može trajati radni odnos na određeno vrijeme namještenika primljenog zbog duže odsutnosti drugog namještenika?",
+    "odgovor_a": "do povratka odsutnog namještenika, a najduže dvije godine",
+    "odgovor_b": "do povratka odsutnog namještenika, a najduže tri godine",
+    "odgovor_c": "do povratka odsutnog namještenika, a najduže 12 mjeseci",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 81. stav (1) Zakona, radni odnos na određeno vrijeme traje do povratka odsutnog namještenika, a najduže tri godine."
+  },
+  {
+    "oblast": "NAMJEŠTENICI (čl. 73–84)",
+    "pitanje": "Najduže koliko se, u slučaju hitne potrebe, upražnjeno radno mjesto namještenika može popuniti na određeno vrijeme bez javnog oglasa?",
+    "odgovor_a": "šest mjeseci",
+    "odgovor_b": "tri godine",
+    "odgovor_c": "12 mjeseci",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 81. stav (3) Zakona, upražnjeno radno mjesto namještenika može se, bez javnog oglasa, popuniti na određeno vrijeme najduže do 12 mjeseci, uz obavezu istovremenog pokretanja postupka javnog oglašavanja."
+  },
+  {
+    "oblast": "NAMJEŠTENICI (čl. 73–84)",
+    "pitanje": "U kojem roku su namještenici zatečeni u radnom odnosu, koji nemaju položen stručni ispit, dužni položiti ispit, računajući od dana donošenja propisa o sadržaju i načinu polaganja ispita?",
+    "odgovor_a": "u roku od šest mjeseci",
+    "odgovor_b": "u roku od tri mjeseca",
+    "odgovor_c": "u roku od 12 mjeseci",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 82. stav (3) Zakona, namještenici koji se zateknu u radnom odnosu na dan stupanja na snagu Zakona, a nemaju položen stručni ispit, dužni su ga položiti u roku od šest mjeseci od dana donošenja propisa iz stava (8)."
+  },
+  {
+    "oblast": "NAMJEŠTENICI (čl. 73–84)",
+    "pitanje": "Koliki radni ili pripravnički staž od dana sticanja srednje stručne spreme mora imati lice sa srednjom školskom spremom da bi bilo primljeno u radni odnos bez položenog stručnog ispita namještenika?",
+    "odgovor_a": "tri mjeseca",
+    "odgovor_b": "šest mjeseci",
+    "odgovor_c": "devet mjeseci",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 82. stav (4) Zakona, lica sa srednjom školskom spremom moraju imati navršen radni ili pripravnički staž u trajanju od šest mjeseci od dana sticanja srednje stručne spreme (a lica s višom školskom spremom devet mjeseci)."
+  },
+  {
+    "oblast": "NAMJEŠTENICI (čl. 73–84)",
+    "pitanje": "U kojem roku od dana prijema u radni odnos je namještenik, primljen bez položenog stručnog ispita, dužan položiti stručni ispit?",
+    "odgovor_a": "najkasnije u roku od tri mjeseca",
+    "odgovor_b": "najkasnije u roku od godinu dana",
+    "odgovor_c": "najkasnije u roku od šest mjeseci",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 82. stav (4) Zakona, namještenik primljen u radni odnos bez položenog stručnog ispita dužan ga je položiti najkasnije u roku od šest mjeseci od dana prijema u radni odnos. Ako ne položi, prestaje mu radni odnos (stav (5))."
+  },
+  {
+    "oblast": "NAMJEŠTENICI (čl. 73–84)",
+    "pitanje": "Za koliko najduže rukovodilac organa državne službe može, na zahtjev namještenika koji iz opravdanih razloga nije mogao pristupiti polaganju, produžiti rok za polaganje stručnog ispita?",
+    "odgovor_a": "najduže tri mjeseca",
+    "odgovor_b": "najduže šest mjeseci",
+    "odgovor_c": "najduže 30 dana",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 82. stav (6) Zakona, rukovodilac može, na zahtjev namještenika, rješenjem produžiti rok za polaganje ispita, a najduže tri mjeseca."
+  },
+  {
+    "oblast": "NAMJEŠTENICI (čl. 73–84)",
+    "pitanje": "Koliko traje pripravnički staž za pripravnike s višom školskom spremom, koje organ državne službe prima na radno mjesto namještenika?",
+    "odgovor_a": "šest mjeseci",
+    "odgovor_b": "devet mjeseci",
+    "odgovor_c": "jednu godinu",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 84. stav (3) Zakona, pripravnički staž za pripravnike srednje školske spreme traje šest mjeseci, a za pripravnike više školske spreme devet mjeseci."
+  },
+  {
+    "oblast": "NAMJEŠTENICI (čl. 73–84)",
+    "pitanje": "Koliko traje pripravnički staž za pripravnike sa srednjom školskom spremom, koje organ državne službe prima na radno mjesto namještenika?",
+    "odgovor_a": "tri mjeseca",
+    "odgovor_b": "devet mjeseci",
+    "odgovor_c": "šest mjeseci",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 84. stav (3) Zakona, pripravnički staž za pripravnike srednje školske spreme traje šest mjeseci."
+  },
+  {
+    "oblast": "IZVJEŠTAJI I PRELAZNE ODREDBE (čl. 91–107)",
+    "pitanje": "Koliko često Vlada, gradonačelnik odnosno načelnik razmatraju izvještaj o provođenju Zakona o državnoj službi i donose mjere za unapređenje stanja?",
+    "odgovor_a": "najmanje jednom u šest mjeseci",
+    "odgovor_b": "najmanje jednom u tri mjeseca",
+    "odgovor_c": "najmanje jednom godišnje",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 91. stav (1) Zakona, Vlada, gradonačelnik odnosno načelnik najmanje jednom u šest mjeseci razmatraju izvještaj o provođenju Zakona i donose mjere za unapređenje stanja u državnoj službi."
+  },
+  {
+    "oblast": "IZVJEŠTAJI I PRELAZNE ODREDBE (čl. 91–107)",
+    "pitanje": "Kada Vlada, gradonačelnik odnosno načelnik dostavljaju Skupštini, odnosno vijeću izvještaj o stanju u državnoj službi?",
+    "odgovor_a": "svakih šest mjeseci",
+    "odgovor_b": "na kraju svake godine, a i ranije prema potrebi",
+    "odgovor_c": "najkasnije do 31. marta za prethodnu godinu",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 91. stav (2) Zakona, izvještaj o stanju u državnoj službi dostavlja se na kraju svake godine, a i ranije prema potrebi."
+  },
+  {
+    "oblast": "IZVJEŠTAJI I PRELAZNE ODREDBE (čl. 91–107)",
+    "pitanje": "U kojem roku od dana stupanja na snagu Zakona o državnoj službi u TK (br. 7/17) je trebalo uskladiti kantonalne zakone i druge propise kojima se reguliše radno-pravni status državnih službenika?",
+    "odgovor_a": "u roku od 90 dana",
+    "odgovor_b": "u roku od 12 mjeseci",
+    "odgovor_c": "u roku od šest mjeseci",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 96. stav (1) Zakona, usklađivanje je trebalo izvršiti u roku od šest mjeseci od dana stupanja na snagu Zakona (br. 7/17)."
+  },
+  {
+    "oblast": "IZVJEŠTAJI I PRELAZNE ODREDBE (čl. 91–107)",
+    "pitanje": "U kojem roku od dana stupanja na snagu Zakona (br. 7/17) su nadležni organi bili dužni donijeti podzakonske propise na koje su ovlašteni tim Zakonom?",
+    "odgovor_a": "u roku od šest mjeseci",
+    "odgovor_b": "u roku od 30 dana",
+    "odgovor_c": "u roku od 90 dana",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 96. stav (3) Zakona, nadležni organi dužni su podzakonske propise donijeti u roku od šest mjeseci od dana stupanja na snagu Zakona (br. 7/17)."
+  },
+  {
+    "oblast": "IZVJEŠTAJI I PRELAZNE ODREDBE (čl. 91–107)",
+    "pitanje": "U kojem roku od dana donošenja podzakonskih propisa su rukovodioci organa državne službe bili dužni donijeti pravilnike o unutrašnjoj organizaciji?",
+    "odgovor_a": "u roku od 15 dana",
+    "odgovor_b": "u roku od 30 dana",
+    "odgovor_c": "u roku od 90 dana",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 96. stav (4) Zakona, rukovodioci organa dužni su u roku od 30 dana od dana donošenja propisa iz stava (3) donijeti pravilnike o unutrašnjoj organizaciji."
+  },
+  {
+    "oblast": "IZVJEŠTAJI I PRELAZNE ODREDBE (čl. 91–107)",
+    "pitanje": "U kojem roku su se državni službenici i namještenici zatečeni na javnoj funkciji, koji su na odsustvu po ranijim propisima, mogli vratiti na posao nakon isteka odnosno prestanka mandata?",
+    "odgovor_a": "u roku od 15 dana od dana isteka odnosno prestanka mandata",
+    "odgovor_b": "u roku od 60 dana od dana isteka odnosno prestanka mandata",
+    "odgovor_c": "u roku od 30 dana od dana isteka odnosno prestanka mandata",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 98. stav (1) Zakona, lica zatečena na javnoj funkciji mogu se vratiti na isto ili drugo radno mjesto u roku od 30 dana od dana isteka odnosno prestanka mandata."
+  },
+  {
+    "oblast": "IZVJEŠTAJI I PRELAZNE ODREDBE (čl. 91–107)",
+    "pitanje": "U kojem roku od dana stupanja na snagu Zakona (br. 7/17) je državni službenik na nespojivoj poziciji ili djelatnosti bio dužan odstupiti s pozicije, odnosno prestati obavljati nespojivu djelatnost?",
+    "odgovor_a": "u roku od 30 dana",
+    "odgovor_b": "u roku od osam dana",
+    "odgovor_c": "u roku od 15 dana",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 99. stav (1) Zakona, državni službenik je dužan u roku od 30 dana od dana stupanja na snagu Zakona odstupiti s nespojive pozicije. Protiv lica koja ne postupe pokreće se disciplinski postupak (stav (2))."
+  },
+  {
+    "oblast": "IZVJEŠTAJI I PRELAZNE ODREDBE (čl. 91–107)",
+    "pitanje": "U kojem roku od stupanja na snagu Zakona o izmjenama i dopunama (br. 8/21) su rukovodioci bili dužni uskladiti rješenja o pravu na godišnji odmor za 2020. godinu?",
+    "odgovor_a": "u roku od 30 dana",
+    "odgovor_b": "u roku od 15 dana",
+    "odgovor_c": "u roku od 90 dana",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 103. Zakona, rukovodioci su dužni u roku od 15 dana od dana stupanja na snagu Zakona o izmjenama i dopunama (br. 8/21) uskladiti rješenja o godišnjem odmoru za 2020. godinu."
+  },
+  {
+    "oblast": "IZVJEŠTAJI I PRELAZNE ODREDBE (čl. 91–107)",
+    "pitanje": "U kojem roku od stupanja na snagu Zakona o izmjenama i dopunama (br. 7/24) su lica iz člana 30. stav (2) bila dužna podnijeti zahtjev za mirovanje radnog odnosa ili obavijestiti rukovodioca da odustaju od položaja?",
+    "odgovor_a": "u roku od osam dana",
+    "odgovor_b": "u roku od 30 dana",
+    "odgovor_c": "u roku od 15 dana",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 105. Zakona, lica iz člana 30. stav (2) dužna su u roku od 15 dana od dana stupanja na snagu Zakona o izmjenama i dopunama (br. 7/24) podnijeti zahtjev za mirovanje radnog odnosa ili obavijestiti rukovodioca da odustaju od položaja."
+  },
+  {
+    "oblast": "IZVJEŠTAJI I PRELAZNE ODREDBE (čl. 91–107)",
+    "pitanje": "U kojem roku od stupanja na snagu Zakona o izmjenama i dopunama (br. 7/24) je Vlada trebala donijeti propis o organizaciji, načinu rada i kriterijima imenovanja članova Žalbenog vijeća za namještenike?",
+    "odgovor_a": "u roku od 90 dana",
+    "odgovor_b": "u roku od 30 dana",
+    "odgovor_c": "u roku od šest mjeseci",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 107. Zakona, Vlada Kantona, na prijedlog Ministarstva, donosi taj propis u roku od 90 dana od dana stupanja na snagu Zakona o izmjenama i dopunama (br. 7/24)."
+  }
+]
