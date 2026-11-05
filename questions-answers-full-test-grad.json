@@ -397,12 +397,12 @@
   },
   {
     "oblast": "Zakon o upravnom postupku FBiH",
-    "pitanje": "Ko, po pravilu, snosi izdatke u gotovom novcu organa koji vodi postupak (putni troškovi službenih osoba, izdaci za svjedoke, vještake, uviđaj)?",
-    "odgovor_a": "Stranka koja je pokrenula postupak",
-    "odgovor_b": "Stranka na čiju je štetu postupak okončan",
-    "odgovor_c": "Organ koji je cio postupak vodio",
+    "pitanje": "Ko snosi troškove postupka kad je postupak koji je pokrenut po službenoj dužnosti okončan povoljno po stranku?",
+    "odgovor_a": "Stranka u čiju je korist postupak okončan",
+    "odgovor_b": "Stranka i organ, svaki u jednakom dijelu",
+    "odgovor_c": "Organ koji je postupak pokrenuo",
     "tacan_odgovor": "C",
-    "obrazlozenje": "Prema članu 111. stav (1) Zakona o upravnom postupku FBiH, takvi izdaci padaju, po pravilu, na teret onoga koji je cio postupak vodio."
+    "obrazlozenje": "Prema članu 111. stav (3) Zakona o upravnom postupku FBiH, kad je postupak koji je pokrenut po službenoj dužnosti okončan povoljno po stranku, troškove postupka snosi organ koji je postupak pokrenuo."
   },
   {
     "oblast": "Zakon o upravnom postupku FBiH",
@@ -1080,6 +1080,456 @@
     "obrazlozenje": "Prema članu 305. Zakona o upravnom postupku FBiH, zakon stupa na snagu osmog dana od dana objavljivanja u Službenim novinama Federacije BiH."
   },
   {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Kojim se propisom pojedina pitanja postupka za određenu upravnu oblast mogu, samo izuzetno, urediti drukčije nego što su uređena Zakonom o upravnom postupku FBiH?",
+    "odgovor_a": "Uredbom Vlade Federacije, ako je to nužno za tu upravnu oblast",
+    "odgovor_b": "Posebnim federalnim zakonom, ako je to nužno za drugačije postupanje",
+    "odgovor_c": "Kantonalnim zakonom, ako to zahtijevaju posebnosti te upravne oblasti",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 2. Zakona o upravnom postupku FBiH, pojedina pitanja postupka za određenu upravnu oblast mogu se samo izuzetno, posebnim federalnim zakonom, urediti drukčije nego što su uređena ovim zakonom, ako je to nužno za drugačije postupanje u tim pitanjima, s tim da ne mogu biti suprotna načelima ovog zakona."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "U upravnim oblastima za koje je federalnim zakonom propisan poseban postupak, po odredbama Zakona o upravnom postupku FBiH postupa se:",
+    "odgovor_a": "u svim pitanjima koja nisu uređena tim posebnim zakonom",
+    "odgovor_b": "samo kad posebni zakon izričito upućuje na njegovu primjenu",
+    "odgovor_c": "samo u pitanjima koja se odnose na žalbu i vanredne pravne lijekove",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 3. Zakona o upravnom postupku FBiH, u upravnim oblastima za koje je federalnim zakonom propisan poseban postupak postupa se po odredbama tog zakona, s tim da se po odredbama ovog zakona postupa u svim pitanjima koja nisu uređena posebnim zakonom (supsidijarna primjena)."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Kada se rješenje može donijeti bez prethodnog izjašnjenja stranke o činjenicama i okolnostima važnim za donošenje rješenja?",
+    "odgovor_a": "Kad službena osoba ocijeni da je činjenično stanje razjašnjeno",
+    "odgovor_b": "Kad je stranka uredno pozvana, a nije se izjasnila u roku",
+    "odgovor_c": "Samo u slučajevima u kojima je to zakonom dopušteno",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 8. stav (2) Zakona o upravnom postupku FBiH, rješenje se može donijeti bez prethodnog izjašnjenja stranke samo u slučajevima kad je to zakonom dopušteno; po stavu (1) stranci se prije donošenja rješenja mora pružiti mogućnost da se izjasni o svim činjenicama i okolnostima koje su važne za donošenje rješenja."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Na koji način ovlašteno službeno lice odlučuje koje će činjenice uzeti kao dokazane?",
+    "odgovor_a": "Po svom uvjerenju, na osnovu savjesne i brižljive ocjene svakog dokaza posebno i svih dokaza zajedno",
+    "odgovor_b": "Prema dokaznoj snazi koju zakon unaprijed određuje za svako pojedino dokazno sredstvo",
+    "odgovor_c": "Prema saglasnoj ocjeni stranaka, a ako je nema, prema broju dokaza koji govore u prilog neke činjenice",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 9. Zakona o upravnom postupku FBiH, koje će činjenice uzeti kao dokazane odlučuje ovlašteno službeno lice po svom uvjerenju, na osnovu savjesne i brižljive ocjene svakog dokaza posebno i svih dokaza zajedno, kao i na osnovu rezultata cjelokupnog postupka (slobodna ocjena dokaza)."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Pravomoćno rješenje u upravnom postupku je rješenje protiv kojeg:",
+    "odgovor_a": "se ne može izjaviti žalba, bez obzira na mogućnost upravnog spora",
+    "odgovor_b": "se ne može izjaviti žalba niti pokrenuti upravni spor",
+    "odgovor_c": "nije izjavljena žalba u roku od 15 dana od dana dostavljanja",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 13. Zakona o upravnom postupku FBiH, pravomoćno rješenje je rješenje protiv koga se ne može izjaviti žalba niti pokrenuti upravni spor; takvo rješenje kojim je stranka stekla prava ili su joj određene obaveze može se poništiti, ukinuti ili izmijeniti samo u slučajevima predviđenim ovim ili drugim zakonom."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Mogu li se stvarna i mjesna nadležnost u upravnom postupku mijenjati dogovorom?",
+    "odgovor_a": "Mogu dogovorom organa i stranaka, uz službenu zabilješku u spisu",
+    "odgovor_b": "Mogu dogovorom stranaka, ako se time ne vrijeđa javni interes",
+    "odgovor_c": "Ne mogu, osim ako je to zakonom drukčije određeno",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 20. stav (3) Zakona o upravnom postupku FBiH, stvarna i mjesna nadležnost ne mogu se mijenjati dogovorom stranaka, dogovorom organa i stranaka, ni dogovorom organa, osim ako je to zakonom drukčije određeno."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Ako u toku postupka nastupe okolnosti prema kojima bi mjesno nadležan bio drugi organ, organ koji je pokrenuo postupak kao mjesno nadležan:",
+    "odgovor_a": "zadržava nadležnost, a može ustupiti predmet ako se time znatno olakšava postupak",
+    "odgovor_b": "dužan je odmah ustupiti predmet organu koji je prema novim okolnostima postao nadležan",
+    "odgovor_c": "gubi nadležnost i o tome donosi zaključak protiv kojeg je dopuštena posebna žalba",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 23. Zakona o upravnom postupku FBiH, organ koji je pokrenuo postupak kao mjesno nadležan zadržava nadležnost i kad u toku postupka nastupe okolnosti prema kojima bi bio mjesno nadležan drugi organ, a može ustupiti predmet organu koji je prema novim okolnostima postao mjesno nadležan, ako se time znatno olakšava postupak, naročito za stranku."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Ko rješava sukob nadležnosti u upravnom postupku između Vlade Federacije i vlade kantona?",
+    "odgovor_a": "Ustavni sud Federacije",
+    "odgovor_b": "Vrhovni sud Federacije",
+    "odgovor_c": "Parlament Federacije",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 29. Zakona o upravnom postupku FBiH, sukobe nadležnosti u upravnom postupku između vlada dva ili više kantona, odnosno između Vlade Federacije i vlade kantona rješava Vrhovni sud Federacije."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Ko rješava sukob nadležnosti u upravnom postupku između dva kantonalna organa uprave?",
+    "odgovor_a": "Vlada kantona",
+    "odgovor_b": "Najviši sud kantona",
+    "odgovor_c": "Vrhovni sud Federacije",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 31. tačka 1) Zakona o upravnom postupku FBiH, sukob nadležnosti u upravnom postupku u kantonu između kantonalnih organa uprave, između kantonalnih organa uprave i kantonalnih ustanova, kao i između kantonalnih ustanova rješava vlada kantona; najviši sud kantona rješava sukob između kantonalnih institucija koje imaju javne ovlasti i kantonalnih organa uprave i ustanova (tačka 2)."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Ko odlučuje o izuzeću gradonačelnika, odnosno općinskog načelnika u upravnom postupku?",
+    "odgovor_a": "Vlada kantona, na prijedlog načelnika",
+    "odgovor_b": "Kantonalni organ uprave za opću upravu",
+    "odgovor_c": "Gradsko, odnosno općinsko vijeće",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 45. stav (5) Zakona o upravnom postupku FBiH, o izuzeću gradonačelnika odnosno općinskog načelnika odlučuje gradsko odnosno općinsko vijeće; o izuzeću službene osobe u gradskoj odnosno općinskoj službi za upravu odlučuje gradonačelnik odnosno općinski načelnik (stav 2), a o izuzeću se odlučuje zaključkom (stav 8)."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Da li je dopuštena žalba protiv zaključka kojim se određuje izuzeće službene osobe?",
+    "odgovor_a": "Dopuštena je posebna žalba koja ne odgađa izvršenje",
+    "odgovor_b": "Nije dopuštena žalba protiv takvog zaključka",
+    "odgovor_c": "Dopuštena je posebna žalba koja odgađa izvršenje",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 46. stav (2) Zakona o upravnom postupku FBiH, protiv zaključka kojim se određuje izuzeće nije dopuštena žalba; u zaključku o izuzeću odredit će se službena osoba koja će rješavati, odnosno obavljati pojedine radnje u postupku u vezi s tim predmetom (stav 1)."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Šta organ čini ako u toku postupka nastupi smrt stranke, a prema prirodi stvari postupak ne može da se nastavi?",
+    "odgovor_a": "Obustavlja postupak zaključkom protiv kojeg je dopuštena posebna žalba",
+    "odgovor_b": "Prekida postupak do određivanja nasljednika, zaključkom bez prava na žalbu",
+    "odgovor_c": "Nastavlja postupak uz postavljanje privremenog zastupnika umrloj stranci",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 53. stav (2) Zakona o upravnom postupku FBiH, ako u toku postupka nastupi smrt stranke, postupak se može obustaviti ili nastaviti, zavisno od prirode upravne stvari; ako prema prirodi stvari postupak ne može da se nastavi, organ će obustaviti postupak zaključkom protiv kojeg je dopuštena posebna žalba."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Ko postavlja privremenog zastupnika procesno nesposobnoj stranci koja nema zakonskog zastupnika, ako to traži hitnost predmeta, a postupak se mora provesti?",
+    "odgovor_a": "Organ starateljstva, na traženje organa koji vodi postupak",
+    "odgovor_b": "Nadležni sud, na prijedlog organa koji vodi postupak",
+    "odgovor_c": "Organ koji vodi postupak, uz obavještenje organu starateljstva",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 54. stav (1) Zakona o upravnom postupku FBiH, ako procesno nesposobna stranka nema zakonskog zastupnika ili se neka radnja ima poduzeti protiv osobe čije je boravište nepoznato, a koja nema punomoćnika, organ koji vodi postupak postavit će takvoj stranci privremenog zastupnika, ako to traži hitnost predmeta, a postupak se mora provesti; o tome će odmah izvijestiti organ starateljstva."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Šta organ čini ako se kao punomoćnik stranke pojavi osoba koja se bavi nadripisarstvom?",
+    "odgovor_a": "Odbacuje podnesak tog punomoćnika rješenjem protiv kojeg je dopuštena žalba",
+    "odgovor_b": "Uskraćuje joj daljnje zastupanje zaključkom i o tome odmah obavještava stranku",
+    "odgovor_c": "Novčano je kažnjava do 50 DM i nastavlja postupak s tom osobom kao punomoćnikom",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 57. stav (2) Zakona o upravnom postupku FBiH, ako se kao punomoćnik pojavi osoba koja se bavi nadripisarstvom, organ će takvoj osobi uskratiti daljnje zastupanje, o čemu se donosi zaključak, i o tome će odmah obavijestiti stranku; protiv zaključka o uskraćivanju zastupanja može se izjaviti posebna žalba, koja ne odgađa izvršenje zaključka (stav 3)."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Šta se smatra ako podnosilac u određenom roku ne otkloni nedostatke podneska, pa se usljed toga ne može po podnesku postupati?",
+    "odgovor_a": "Da podnesak nije ni podnesen, o čemu organ donosi zaključak protiv kojeg je dopuštena posebna žalba",
+    "odgovor_b": "Da je podnesak bio od početka uredan, pa organ o njemu rješava prema sadržaju koji ima",
+    "odgovor_c": "Da je zahtjev odbijen kao neosnovan, o čemu organ donosi rješenje protiv kojeg je dopuštena žalba",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 67. stav (2) Zakona o upravnom postupku FBiH, ako podnosilac ne otkloni nedostatke u određenom roku, pa se usljed toga ne može u vezi sa podneskom postupati, smatrat će se da podnesak nije ni podnesen; o tome organ donosi zaključak protiv koga se može izjaviti posebna žalba, a na ovu posljedicu podnosilac se naročito upozorava u pozivu za ispravku podneska."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Kad kolegijalni organ u postupku u vezi sa žalbom odluči jednoglasno, o vijećanju i glasanju:",
+    "odgovor_a": "mora se sastaviti poseban zapisnik koji potpisuju svi članovi kolegijalnog organa",
+    "odgovor_b": "ne sastavlja se nikakav akt, jer jednoglasnost proizlazi iz samog rješenja o žalbi",
+    "odgovor_c": "ne mora se sastavljati zapisnik, već se može sastaviti samo službena zabilješka u spisu",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 78. stav (1) Zakona o upravnom postupku FBiH, kad u upravnom postupku rješava kolegijalni organ, o vijećanju i glasanju sastavlja se poseban zapisnik, ali kad je u postupku u vezi sa žalbom jednoglasno odlučeno, ne mora se sastavljati zapisnik o vijećanju i glasanju, već se o tome može sastaviti samo službena zabilješka u spisu, koja se ovjerava potpisom službene osobe koja predsjedava kolegijalnim organom."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Kome se posredno dostavljanje pismena (predaja odraslom članu domaćinstva, susjedu ili osobi zaposlenoj na istom radnom mjestu) NE može izvršiti?",
+    "odgovor_a": "Susjedu primaoca, čak i kad on pristane da primi pismeno",
+    "odgovor_b": "Osobi koja u istom postupku učestvuje sa suprotnim interesom",
+    "odgovor_c": "Osobi koja nije u srodstvu s osobom kojoj je pismeno namijenjeno",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 84. stav (3) Zakona o upravnom postupku FBiH, dostavljanje po st. (1) i (2) tog člana (odraslom članu domaćinstva, susjedu koji na to pristane, odnosno osobi zaposlenoj na istom radnom mjestu koja pristane) ne može se izvršiti osobi koja u istom postupku učestvuje sa suprotnim interesom."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Kako organ postupa pri dostavljanju prvog pismena stranci koja se nalazi u inozemstvu, a nema punomoćnika u Federaciji?",
+    "odgovor_a": "Poziva je da u određenom roku postavi punomoćnika ili punomoćnika za primanje pismena, uz upozorenje na posljedice",
+    "odgovor_b": "Sva pismena dostavlja joj isključivo preko diplomatsko-konzularnog predstavništva, bez postavljanja punomoćnika",
+    "odgovor_c": "Odmah joj po službenoj dužnosti postavlja privremenog zastupnika, bez poziva da sama postavi punomoćnika",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 88. stav (4) Zakona o upravnom postupku FBiH, kad se stranka ili njen zakonski zastupnik nalaze u inozemstvu, a nemaju punomoćnika u Federaciji, pozvat će se pri dostavljanju prvog pismena da u određenom roku postave punomoćnika ili punomoćnika za primanje pismena i upozoriti da će im se, ako to ne učine u ostavljenom roku, postaviti po službenoj dužnosti punomoćnik za primanje pismena, odnosno privremeni zastupnik."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Kada se smatra da je izvršeno dostavljanje pismena javnim priopćenjem na oglasnoj tabli organa, ako organ nije odredio duži rok?",
+    "odgovor_a": "Danom isticanja priopćenja na oglasnoj tabli organa",
+    "odgovor_b": "Poslije isteka 8 dana od dana isticanja priopćenja na oglasnoj tabli",
+    "odgovor_c": "Poslije isteka 15 dana od dana isticanja priopćenja na oglasnoj tabli",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 92. Zakona o upravnom postupku FBiH, ako se radi o osobi ili više osoba koje organu nisu poznate ili se ne mogu odrediti, dostavljanje pismena vrši se javnim priopćenjem na oglasnoj tabli organa koji je pismeno izdao, a smatra se izvršenim poslije isteka 15 dana od dana isticanja priopćenja na oglasnoj tabli, ako organ ne odredi duži rok."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Kako postupa dostavljač ako osoba kojoj je pismeno upućeno bez zakonskog razloga odbije da ga primi?",
+    "odgovor_a": "Vraća pismeno organu koji ga je izdao uz naznaku razloga odbijanja, pa organ ponavlja dostavljanje",
+    "odgovor_b": "Ostavlja pismeno u stanu ili na radnom mjestu, odnosno pribija ga na vrata, čime je dostavljanje izvršeno",
+    "odgovor_c": "Predaje pismeno nadležnom organu općine, a dostavljanje se smatra izvršenim istekom 15 dana od predaje",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 93. stav (1) Zakona o upravnom postupku FBiH, ako osoba kojoj je pismeno upućeno bez zakonskog razloga odbije da primi pismeno, dostavljač će ga ostaviti u stanu ili na radnom mjestu gdje je ta osoba zaposlena ili će ga pribiti na vrata stana ili prostorije; dostavljač na dostavnici bilježi datum, sat i razlog odbijanja i mjesto gdje je pismeno ostavio, i time se smatra da je dostavljanje izvršeno (stav 2)."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Ako posljednji dan roka pada u nedjelju ili na dan državnog praznika, rok ističe:",
+    "odgovor_a": "istekom prvog narednog radnog dana za taj organ",
+    "odgovor_b": "istekom tog dana, jer praznici ne utiču na rokove",
+    "odgovor_c": "istekom posljednjeg radnog dana prije tog dana",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 99. stav (2) Zakona o upravnom postupku FBiH, ako posljednji dan roka pada u nedjelju ili na dan državnog praznika, ili u neki drugi dan kad organ kod koga se radnja postupka ima poduzeti ne radi, rok ističe istekom prvog narednog radnog dana; po stavu (1) početak i tok rokova ne sprečavaju nedjeljni dani i dani državnih praznika."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Kada je dopuštena posebna žalba protiv zaključka kojim je odbijen prijedlog za povrat u pređašnje stanje?",
+    "odgovor_a": "Uvijek, bez obzira na to koji je organ zaključak donio",
+    "odgovor_b": "Nikada, već se pobija žalbom protiv rješenja o glavnoj stvari",
+    "odgovor_c": "Samo ako je taj zaključak donio prvostepeni organ",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 105. stav (2) Zakona o upravnom postupku FBiH, protiv zaključka kojim je odbijen prijedlog za povrat u pređašnje stanje dopuštena je posebna žalba samo ako je zaključak donio prvostepeni organ; žalba nije dopuštena protiv zaključka o prijedlogu za povrat koji je donio organ nadležan za rješavanje u drugom stupnju o glavnoj stvari (stav 3)."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Ko snosi troškove postupka u vezi s izvršenjem ako se oni ne mogu naplatiti od izvršenika?",
+    "odgovor_a": "Stranka po čijem je prijedlogu izvršenje provedeno",
+    "odgovor_b": "Organ koji je proveo administrativno izvršenje",
+    "odgovor_c": "Organ koji je donio rješenje koje se izvršava",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 113. Zakona o upravnom postupku FBiH, troškove postupka u vezi s izvršenjem snosi izvršenik, a ako se ovi troškovi od njega ne mogu naplatiti, snosi ih stranka po čijem je prijedlogu izvršenje provedeno."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Kada će nadležni organ pokrenuti upravni postupak po službenoj dužnosti?",
+    "odgovor_a": "Samo kad to izričito zatraži nadzorni organ, odnosno nadležna upravna inspekcija",
+    "odgovor_b": "Kad to određuje zakon ili propis zasnovan na zakonu, ili kad to traži zaštita javnog interesa",
+    "odgovor_c": "Samo kad primi predstavku građana ili pravnog lica koja ga obavezuje na pokretanje postupka",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 122. stav (1) Zakona o upravnom postupku FBiH, nadležni organ će pokrenuti postupak po službenoj dužnosti kad to određuje zakon ili na zakonu zasnovan propis ili kad utvrdi ili sazna da, s obzirom na postojeće činjenično stanje, treba, radi zaštite javnog interesa, pokrenuti upravni postupak; pri tome uzima u obzir i eventualne predstavke građana i pravnih lica i upozorenja organa (stav 2)."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Ako se u toku postupka pojavi osoba koja zahtijeva da učestvuje kao stranka, a službena osoba joj ne prizna to svojstvo:",
+    "odgovor_a": "o tome se ne donosi poseban akt, nego se razlozi navode u obrazloženju rješenja",
+    "odgovor_b": "donosi se zaključak protiv kojeg posebna žalba nije dopuštena",
+    "odgovor_c": "donosi se zaključak protiv kojeg je dopuštena posebna žalba",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 137. Zakona o upravnom postupku FBiH, ako se u toku postupka pojavi osoba koja do tada nije učestvovala u postupku kao stranka, pa zahtijeva da učestvuje kao stranka, službena osoba koja vodi postupak ispitat će njeno pravo da bude stranka i o tome donijeti zaključak; protiv zaključka kojim se ne priznaje to svojstvo dopuštena je posebna žalba."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Kakvo pravno djelovanje ima rješenje prethodnog pitanja koje je organ koji vodi upravni postupak sam raspravio?",
+    "odgovor_a": "Djeluje prema svima i vezuje sud i druge organe u svim kasnijim postupcima",
+    "odgovor_b": "Ima pravno djelovanje samo u stvari u kojoj je to pitanje riješeno",
+    "odgovor_c": "Nema pravnog djelovanja dok ga ne potvrdi organ nadležan za to pitanje",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 142. stav (2) Zakona o upravnom postupku FBiH, ako je organ raspravio prethodno pitanje, rješenje takvog pitanja ima pravno djelovanje samo u stvari u kojoj je to pitanje riješeno."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Kako se u dokaznom postupku tretiraju činjenice čije postojanje zakon pretpostavlja?",
+    "odgovor_a": "Ne treba ih dokazivati, ali je dopušteno dokazivati njihovo nepostojanje",
+    "odgovor_b": "Moraju se dokazivati kao i sve druge činjenice važne za rješenje stvari",
+    "odgovor_c": "Ne treba ih dokazivati, a nije dopušteno ni dokazivati njihovo nepostojanje",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 158. stav (3) Zakona o upravnom postupku FBiH, ne treba dokazivati činjenice čije postojanje zakon pretpostavlja, ali je dopušteno dokazivati nepostojanje tih činjenica, ako zakonom nije drukčije određeno; isto tako ne treba dokazivati činjenice koje su opće poznate (stav 2)."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Kada svjedok u upravnom postupku polaže zakletvu na svoj iskaz?",
+    "odgovor_a": "Uvijek prije saslušanja, kao uvjet da se iskaz može koristiti kao dokaz",
+    "odgovor_b": "Nikada, jer u upravnom postupku svjedoci, kao ni vještaci, ne polažu zakletvu",
+    "odgovor_c": "Pošto je saslušan, ako tako odluči službena osoba koja vodi postupak",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 178. stav (1) Zakona o upravnom postupku FBiH, pošto sasluša svjedoka, službena osoba koja vodi postupak može odlučiti da svjedok položi zakletvu na svoj iskaz; neće se zaklinjati svjedok koji je maloljetan ili koji ne može dovoljno da shvati značaj zakletve."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Ako bi dokazivanje vještačenjem bilo nesrazmjerno skupo prema značaju ili vrijednosti predmeta, vještačenje će se ipak izvršiti:",
+    "odgovor_a": "ako stranka to zahtijeva i pristane da snosi troškove",
+    "odgovor_b": "ako to naredi drugostepeni organ povodom izjavljene žalbe",
+    "odgovor_c": "ako se stranke sporazumiju da troškove snosi organ",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 182. stav (2) Zakona o upravnom postupku FBiH, u slučaju kad bi dokazivanje vještačenjem bilo nesrazmjerno skupo prema značaju ili vrijednosti predmeta, pa se stvar rješava na osnovu drugih dokaznih sredstava (stav 1), vještačenje će se izvršiti ako stranka to zahtijeva i pristane da snosi troškove."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Kad o upravnoj stvari rješava kolegijalni organ, on može rješavati:",
+    "odgovor_a": "samo kad su prisutni svi članovi, a rješenje donosi većinom glasova svih članova",
+    "odgovor_b": "kad je prisutno više od polovine članova, a rješenje donosi većinom glasova prisutnih",
+    "odgovor_c": "kad je prisutna najmanje trećina članova, a rješenje donosi dvotrećinskom većinom prisutnih",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 200. stav (2) Zakona o upravnom postupku FBiH, kad o stvari rješava kolegijalni organ, on može rješavati kad je prisutno više od polovine njegovih članova, a rješenje donosi većinom glasova prisutnih članova, ako zakonom ili drugim propisima nije određena naročita većina."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Kad je propisano da o jednoj stvari rješavaju dva ili više organa, a oni se ne mogu sporazumjeti ko će donijeti rješenje, rješenje donosi:",
+    "odgovor_a": "organ koji je prvi odlučivao o toj upravnoj stvari",
+    "odgovor_b": "organ koji odredi zajednički nadređeni organ",
+    "odgovor_c": "organ koji je zadnji odlučivao o toj upravnoj stvari",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 201. stav (2) Zakona o upravnom postupku FBiH, ako se organi koji su dužni riješiti o istoj stvari ne mogu sporazumjeti o tome ko će donijeti rješenje, tada ga donosi organ koji je zadnji odlučivao o toj upravnoj stvari; u tom rješenju mora biti naveden akt drugog organa (stav 1)."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Koje sastavne dijelove sadrži rješenje prema Zakonu o upravnom postupku FBiH?",
+    "odgovor_a": "Naziv organa, broj i datum, uvod, dispozitiv, obrazloženje, uputstvo o pravnom lijeku, potpis ovlaštene službene osobe i pečat organa",
+    "odgovor_b": "Naziv organa, broj i datum, dispozitiv, obrazloženje i potpis rukovodioca organa, dok uputstvo o pravnom lijeku nije obavezan sastavni dio",
+    "odgovor_c": "Uvod, dispozitiv i obrazloženje, dok se uputstvo o pravnom lijeku i pečat organa stavljaju samo kad to stranka izričito zahtijeva",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 204. stav (3) Zakona o upravnom postupku FBiH, rješenje sadrži: naziv organa, broj i datum, uvod, dispozitiv (izreku), obrazloženje, uputstvo o pravnom lijeku, potpis ovlaštene službene osobe i pečat organa; samo u slučajevima predviđenim zakonom ili propisom donesenim na osnovu zakona rješenje ne mora sadržavati pojedine od ovih dijelova."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Ko potpisuje rješenje koje je donio kolegijalni organ, ako zakonom ili posebnim propisom nije drugačije određeno?",
+    "odgovor_a": "Svi članovi kolegijalnog organa koji su glasali za rješenje",
+    "odgovor_b": "Predsjedavajući kolegijalnog organa koji je rješenje donio",
+    "odgovor_c": "Službena osoba koja je vodila postupak i sačinila nacrt rješenja",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 209. stav (2) Zakona o upravnom postupku FBiH, rješenje koje je donio kolegijalni organ potpisuje predsjedavajući, ako ovim zakonom ili posebnim propisom nije drugačije određeno; inače rješenje potpisuje službena osoba koja je ovlaštena da donosi rješenje (stav 1)."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Ako nadležni organ rješenjem nije odlučio o svim pitanjima koja su bila predmet postupka, o pitanjima koja nisu obuhvaćena može donijeti:",
+    "odgovor_a": "privremeno rješenje, po službenoj dužnosti ili na prijedlog stranke",
+    "odgovor_b": "djelimično rješenje, ali samo po prijedlogu stranke",
+    "odgovor_c": "dopunsko rješenje, po prijedlogu stranke ili po službenoj dužnosti",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 214. stav (1) Zakona o upravnom postupku FBiH, ako nadležni organ nije rješenjem odlučio o svim pitanjima koja su bila predmet postupka, on može, po prijedlogu stranke ili po službenoj dužnosti, donijeti posebno rješenje o pitanjima koja već donesenim rješenjem nisu obuhvaćena (dopunsko rješenje); ako prijedlog stranke za donošenje dopunskog rješenja bude odbijen, protiv zaključka o tome dopuštena je posebna žalba."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Kada se zaključak u upravnom postupku mora izdati napismeno?",
+    "odgovor_a": "Kad se protiv zaključka može izjaviti posebna žalba ili kad se može odmah tražiti njegovo izvršenje",
+    "odgovor_b": "Uvijek, jer se svaki zaključak dostavlja strankama u pismenom obliku s poukom o pravnom lijeku",
+    "odgovor_c": "Samo kad to izričito zatraži stranka na koju se zaključak odnosi, u roku od osam dana od priopćenja",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 219. stav (3) Zakona o upravnom postupku FBiH, zaključak se sačinjava u vidu službene zabilješke u spisu i priopćava zainteresiranim osobama usmeno, a napismeno se izdaje kada se protiv zaključka može izjaviti posebna žalba, ili kad se može odmah tražiti izvršenje zaključka; pismeni zaključak sadrži uvod, dispozitiv, obrazloženje i pouku o pravnom lijeku (stav 4)."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Protiv kojeg rješenja tužitelj, pravobranitelj i drugi organi, kad su zakonom ovlašteni, mogu izjaviti žalbu?",
+    "odgovor_a": "Protiv svakog prvostepenog rješenja kojim je odbijen zahtjev stranke, bez obzira na to je li povrijeđen javni interes",
+    "odgovor_b": "Protiv rješenja kojim je povrijeđen zakon u korist pojedinca ili pravnog lica, a na štetu javnog interesa",
+    "odgovor_c": "Protiv rješenja kojim je stranci nametnuta obaveza bez njenog prethodnog izjašnjenja u postupku",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 221. stav (2) Zakona o upravnom postupku FBiH, tužitelj, pravobranitelj i drugi organi, kad su zakonom ovlašteni, mogu izjaviti žalbu protiv rješenja kojim je povrijeđen zakon u korist pojedinaca ili pravnog lica a na štetu javnog interesa."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "U kojem roku se podnosi žalba protiv rješenja, ako zakonom nije drugačije određeno?",
+    "odgovor_a": "U roku od 8 dana",
+    "odgovor_b": "U roku od 30 dana",
+    "odgovor_c": "U roku od 15 dana",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 227. stav (1) Zakona o upravnom postupku FBiH, žalba protiv rješenja podnosi se u roku od 15 dana, ako zakonom nije drugačije određeno; rok za žalbu za svaku osobu i za svaki organ kojima se rješenje dostavlja računa se od dana dostavljanja rješenja (stav 2)."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "U kojem se slučaju rješenje iznimno može izvršiti u žalbenom roku, kao i pošto je žalba izjavljena?",
+    "odgovor_a": "Ako je to zakonom predviđeno, ako su u pitanju hitne mjere ili ako bi odgađanjem nastala nepopravljiva šteta",
+    "odgovor_b": "Ako to zatraži stranka u čiju je korist rješenje doneseno, uz obavezno polaganje osiguranja za štetu",
+    "odgovor_c": "Ako prvostepeni organ ocijeni da je žalba očigledno neosnovana i o tome donese poseban obrazloženi zaključak",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 228. stav (2) Zakona o upravnom postupku FBiH, iznimno, rješenje se može izvršiti u žalbenom roku, kao i pošto je žalba izjavljena, ako je to zakonom predviđeno ili ako je riječ o poduzimanju hitnih mjera (član 139. stav 1. tačka 4), ili ako bi usljed odgađanja izvršenja bila nanesena nekoj stranci šteta koja se ne bi mogla popraviti; u posljednjem slučaju može se tražiti odgovarajuće osiguranje od stranke u čijem se interesu provodi izvršenje i njime uvjetovati izvršenje."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Mora li žalilac posebno obrazložiti žalbu protiv rješenja?",
+    "odgovor_a": "Mora, jer se žalba koja nije obrazložena odbacuje kao nedopuštena",
+    "odgovor_b": "Ne mora; dovoljno je da izloži u kom je pogledu nezadovoljan rješenjem",
+    "odgovor_c": "Mora, osim kad žalbu izjavljuje na zapisnik kod prvostepenog organa",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 229. stav (1) Zakona o upravnom postupku FBiH, u žalbi se mora navesti rješenje koje se pobija, označujući naziv organa koji ga je donio, broj i datum rješenja, a dovoljno je da žalilac izloži u kom je pogledu nezadovoljan rješenjem; žalbu ne mora posebno obrazložiti."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Kojim aktom organ prvog stupnja odbacuje nedopuštenu, nepravovremenu ili od neovlaštene osobe izjavljenu žalbu?",
+    "odgovor_a": "Zaključkom, protiv kojeg nije dopuštena posebna žalba",
+    "odgovor_b": "Zaključkom, protiv kojeg je dopuštena posebna žalba",
+    "odgovor_c": "Rješenjem, protiv kojeg stranka ima pravo žalbe",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 231. stav (2) Zakona o upravnom postupku FBiH, nedopuštenu, nepravovremenu ili od neovlaštene osobe izjavljenu žalbu organ prvog stupnja odbacit će svojim rješenjem; protiv rješenja kojim je žalba odbačena stranka ima pravo žalbe, a ako organ koji rješava o žalbi utvrdi da je ona opravdana, riješit će ujedno i o žalbi koja je bila odbačena (stav 4)."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Pod kojim uvjetom organ prvog stupnja može, povodom žalbe, sam stvar riješiti drugačije i novim rješenjem zamijeniti pobijano rješenje?",
+    "odgovor_a": "Ako utvrdi da je žalba opravdana, a nije potrebno provoditi novi ispitni postupak",
+    "odgovor_b": "Ako s tim pristane drugostepeni organ, kojem se žalba prethodno dostavlja na mišljenje",
+    "odgovor_c": "Ako je žalbu izjavila jedina stranka u postupku, bez obzira na potrebu novog ispitnog postupka",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 232. stav (1) Zakona o upravnom postupku FBiH, ako organ prvog stupnja koji je donio rješenje utvrdi da je žalba opravdana, a nije potrebno provoditi novi ispitni postupak, može stvar riješiti drugačije i novim rješenjem zamijeniti rješenje koje se žalbom pobija; protiv novog rješenja stranka ima pravo žalbe (stav 2)."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Šta čini drugostepeni organ kad utvrdi da je prvostepeno rješenje donio nenadležan organ?",
+    "odgovor_a": "Odbija žalbu i upućuje stranku da pokrene postupak za rješavanje sukoba nadležnosti organa",
+    "odgovor_b": "Poništava rješenje po službenoj dužnosti i dostavlja predmet nadležnom organu na rješavanje",
+    "odgovor_c": "Sam rješava stvar, jer je kao drugostepeni organ nadležan za cijelu upravnu oblast",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 238. stav (2) Zakona o upravnom postupku FBiH, ako drugostepeni organ utvrdi da je prvostepeno rješenje donio nenadležan organ, poništit će to rješenje po službenoj dužnosti i dostaviti predmet nadležnom organu na rješavanje."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "U kojem roku prvostepeni organ mora donijeti novo rješenje kad mu je drugostepeni organ poništio rješenje i vratio predmet na ponovni postupak?",
+    "odgovor_a": "Najkasnije u roku od 30 dana od dana prijema predmeta",
+    "odgovor_b": "Najkasnije u roku od 8 dana od dana prijema predmeta",
+    "odgovor_c": "Najkasnije u roku od 15 dana od dana prijema predmeta",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 239. stav (2) Zakona o upravnom postupku FBiH, kad drugostepeni organ poništi prvostepeno rješenje i vrati predmet prvostepenom organu na ponovni postupak, prvostepeni organ je dužan u svemu postupiti po drugostepenom rješenju i bez odgađanja, a najkasnije u roku od 15 dana od dana prijema predmeta, donijeti novo rješenje; protiv novog rješenja stranka ima pravo žalbe."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Ako je rješenje po kome se traži obnova upravnog postupka bilo predmet upravnog spora, obnova se može dozvoliti:",
+    "odgovor_a": "samo zbog onih činjenica koje je organ utvrdio u ranijem upravnom postupku",
+    "odgovor_b": "samo zbog onih činjenica koje je sud utvrdio u postupku upravnog spora",
+    "odgovor_c": "zbog svih činjenica, bez obzira na to ko ih je i u kojem postupku utvrdio",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 248. Zakona o upravnom postupku FBiH, ako je rješenje po kome se traži obnova upravnog postupka bilo predmet upravnog spora, obnova se može dozvoliti samo zbog onih činjenica koje je organ utvrdio u ranijem upravnom postupku, a ne i zbog činjenica koje je utvrdio sud u svom postupku."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Ko rješava o prijedlogu za obnovu upravnog postupka?",
+    "odgovor_a": "Uvijek organ koji je o predmetu rješavao u prvom stupnju",
+    "odgovor_b": "Organ koji je donio rješenje kojim je postupak okončan",
+    "odgovor_c": "Uvijek drugostepeni organ nadležan za rješavanje o žalbi",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 252. stav (2) Zakona o upravnom postupku FBiH, o prijedlogu za obnovu postupka rješava onaj organ koji je donio rješenje kojim je postupak okončan; prijedlog se predaje ili šalje organu koji je o predmetu rješavao u prvom stupnju ili organu koji je donio rješenje kojim je postupak okončan (stav 1)."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Kojim aktom nadležni organ odbija prijedlog za obnovu postupka kad utvrdi da okolnosti odnosno dokazi koji se iznose kao razlog za obnovu nisu takvi da bi mogli dovesti do drugačijeg rješenja?",
+    "odgovor_a": "Zaključkom, isto kao i kad prijedlog odbacuje zbog nepravovremenosti",
+    "odgovor_b": "Zaključkom protiv kojeg nije dopuštena posebna žalba, već samo upravni spor",
+    "odgovor_c": "Rješenjem, za razliku od odbacivanja prijedloga, koje se vrši zaključkom",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 253. stav (3) Zakona o upravnom postupku FBiH, ako su ispunjeni uvjeti iz stava (1) (pravovremenost, ovlaštena osoba, vjerovatnost okolnosti), nadležni organ ispituje da li su okolnosti odnosno dokazi koji se iznose kao razlog za obnovu takvi da bi mogli dovesti do drugačijeg rješenja, pa ako utvrdi da nisu, odbit će prijedlog svojim rješenjem; ako uvjeti iz stava (1) nisu ispunjeni, organ zaključkom odbacuje prijedlog (stav 2)."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Ko ukida neosnovanu potvrdu izvršnosti stavljenu na rješenje radi sudskog izvršenja?",
+    "odgovor_a": "Organ koji je potvrdu stavio, rješenjem koje odmah dostavlja sudu nadležnom za izvršenje",
+    "odgovor_b": "Sud nadležan za izvršenje, rješenjem koje dostavlja organu koji je potvrdu stavio",
+    "odgovor_c": "Drugostepeni organ, rješenjem po žalbi izvršenika izjavljenoj protiv potvrde izvršnosti",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 280. stav (3) Zakona o upravnom postupku FBiH, neosnovanu potvrdu izvršnosti ukinut će rješenjem organ koji je potvrdu stavio i to rješenje odmah dostaviti sudu nadležnom za izvršenje."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Kako se provodi izvršenje ako se izvršenikova obaveza sastoji u radnji koju može izvršiti i druga osoba, a izvršenik je ne izvrši?",
+    "odgovor_a": "Izricanjem prisilnih novčanih kazni izvršeniku sve dok radnju sam ne izvrši",
+    "odgovor_b": "Preko druge osobe na trošak izvršenika, uz prethodnu pismenu opomenu izvršeniku",
+    "odgovor_c": "Neposrednom prisilom prema izvršeniku, bez prethodne pismene opomene i bez novog roka",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 282. stav (1) Zakona o upravnom postupku FBiH, ako se izvršenikova obaveza sastoji u izvršenju radnje koju može izvršiti i druga osoba, a izvršenik je ne izvrši uopće ili je ne izvrši u cijelosti, ova radnja će se izvršiti preko druge osobe, na trošak izvršenika, s tim da izvršenik mora biti na to prethodno pismeno opomenut; organ može zaključkom naložiti izvršeniku da unaprijed položi iznos potreban za troškove izvršenja (stav 2)."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Kada organ nadležan za donošenje rješenja o obavezi stranke može donijeti privremeni zaključak radi osiguranja izvršenja te obaveze?",
+    "odgovor_a": "Tek nakon što rješenje o obavezi postane izvršno, ako izvršenik ne ispuni obavezu u ostavljenom roku",
+    "odgovor_b": "Samo nakon donošenja rješenja o obavezi, a prije isteka roka za žalbu protiv tog rješenja stranke",
+    "odgovor_c": "I prije donošenja rješenja o obavezi, ako je obaveza bar vjerojatna, a izvršenje bi moglo biti osujećeno",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 289. stav (1) Zakona o upravnom postupku FBiH, ako postoji ili je učinjena bar vjerojatnom obaveza stranke, a postoji opasnost da će obavezana stranka raspolaganjem imovine, dogovorom s trećim osobama ili na drugi način osujetiti ili znatno otežati izvršenje te obaveze, organ nadležan za donošenje rješenja o obavezi stranke može prije donošenja rješenja o toj obavezi donijeti privremeni zaključak radi osiguranja izvršenja obaveze, vodeći računa o odredbi člana 270. i uz obrazloženje zaključka."
+  },
+  {
+    "oblast": "Zakon o upravnom postupku FBiH",
+    "pitanje": "Kojoj osobi se u organu uprave može dati ovlaštenje za rješavanje u upravnim stvarima i za poduzimanje radnji u upravnom postupku?",
+    "odgovor_a": "Svakom državnom službeniku kojeg rukovodilac odredi rješenjem, bez dodatnih uvjeta",
+    "odgovor_b": "Samo osobi koja ima propisanu stručnu spremu, radno iskustvo i položen stručni ispit",
+    "odgovor_c": "Samo osobi koja ima završen pravni fakultet i položen pravosudni ispit, bez obzira na iskustvo",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 292. stav (1) Zakona o upravnom postupku FBiH, u organima uprave, kao i u institucijama koje imaju javne ovlasti, ako zakonom nije drugačije određeno, ovlaštenje za poduzimanje radnji u upravnom postupku i ovlaštenje za rješavanje u upravnim stvarima (član 36.) može se dati samo osobi koja ima zakonom propisanu odgovarajuću stručnu spremu, radno iskustvo i položen stručni ispit."
+  },
+  {
     "oblast": "Zakon o eksproprijaciji FBiH",
     "pitanje": "Kako Zakon definira eksproprijaciju?",
     "odgovor_a": "Oduzimanje ili ograničenje prava vlasništva na nekretninama uz naknadu prema procijenjenoj poreznoj vrijednosti",
@@ -1162,12 +1612,12 @@
   },
   {
     "oblast": "Zakon o eksproprijaciji FBiH",
-    "pitanje": "Do kojeg trenutka vlasnik može podnijeti zahtjev za eksproprijaciju preostalog dijela nekretnine kada se ekspropriše samo jedan njen dio?",
+    "pitanje": "Do kojeg trenutka vlasnik, po pravilu, može podnijeti zahtjev za eksproprijaciju preostalog dijela nekretnine kada se ekspropriše samo jedan njen dio?",
     "odgovor_a": "Do podnošenja prijedloga za eksproprijaciju korisnika eksproprijacije",
     "odgovor_b": "Do isplate naknade za eksproprisani dio nekretnine",
     "odgovor_c": "Do donošenja prvostepenog rješenja o eksproprijaciji",
     "tacan_odgovor": "C",
-    "obrazlozenje": "Prema članu 11. stav (3) Zakona o eksproprijaciji FBiH, zahtjev za eksproprijaciju preostalog dijela nekretnine može se podnijeti do donošenja prvostepenog rješenja o eksproprijaciji."
+    "obrazlozenje": "Prema članu 11. stav (3) Zakona o eksproprijaciji FBiH, zahtjev za eksproprijaciju preostalog dijela nekretnine može se podnijeti do donošenja prvostepenog rješenja o eksproprijaciji. Izuzetno, prema stavu (4), vlasnik to može tražiti i u žalbenom postupku ako nije bio upozoren na to pravo."
   },
   {
     "oblast": "Zakon o eksproprijaciji FBiH",
@@ -1710,6 +2160,330 @@
     "obrazlozenje": "Prema članu 72. Zakona o eksproprijaciji FBiH, Zakon stupa na snagu osmog dana od dana objavljivanja u Službenim novinama Federacije BiH."
   },
   {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Šta je, prema Zakonu, predmet eksproprijacije?",
+    "odgovor_a": "Nekretnine u vlasništvu fizičkih i pravnih lica",
+    "odgovor_b": "Samo nekretnine u vlasništvu fizičkih lica",
+    "odgovor_c": "Samo nekretnine u vlasništvu pravnih lica koja nisu korisnici eksproprijacije",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 4. Zakona o eksproprijaciji FBiH, predmet eksproprijacije su nekretnine u vlasništvu fizičkih i pravnih lica."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Šta se, po pravilu, dešava s nekretninom potpunom eksproprijacijom?",
+    "odgovor_a": "Postaje vlasništvo Federacije BiH, a korisnik eksproprijacije stiče pravo korištenja",
+    "odgovor_b": "Postaje vlasništvo korisnika eksproprijacije, osim ako dobiva status dobra od općeg interesa",
+    "odgovor_c": "Ostaje u vlasništvu ranijeg vlasnika, uz trajno pravo korištenja korisnika eksproprijacije",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 7. stav (1) Zakona o eksproprijaciji FBiH, eksproprijacijom nekretnina postaje vlasništvo korisnika eksproprijacije (potpuna eksproprijacija), osim u slučaju ako eksproprisana nekretnina dobiva status dobra od općeg interesa."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Šta se može ustanoviti nepotpunom eksproprijacijom?",
+    "odgovor_a": "Pravo građenja na zemljištu na neodređeno vrijeme",
+    "odgovor_b": "Hipoteka na nekretnini u korist korisnika eksproprijacije",
+    "odgovor_c": "Služnost na zemljištu i zgradi, kao i zakup na zemljištu na određeno vrijeme",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 8. stav (1) Zakona o eksproprijaciji FBiH, eksproprijacijom se može ustanoviti služnost na zemljištu i zgradi, kao i zakup na zemljištu na određeno vrijeme (nepotpuna eksproprijacija)."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Kada će se, na zahtjev vlasnika, eksproprisati i preostali dio nekretnine ako se ekspropriše samo jedan njen dio?",
+    "odgovor_a": "Ako vlasnik nema privrednog interesa koristiti preostali dio ili mu je onemogućeno njegovo normalno korištenje",
+    "odgovor_b": "Ako je preostali dio nekretnine manji od polovine ukupne površine koju je vlasnik imao prije eksproprijacije",
+    "odgovor_c": "Ako korisnik eksproprijacije ima interes da preostali dio koristi za pristupni put do objekta koji gradi",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 11. stav (1) Zakona o eksproprijaciji FBiH, na zahtjev vlasnika eksproprisat će se i preostali dio nekretnine ako se utvrdi da vlasnik nema privrednog interesa da koristi preostali dio, odnosno ako je na preostalom dijelu onemogućena ili bitno pogoršana njegova dotadašnja egzistencija ili mu je onemogućeno normalno korištenje preostalog dijela."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Ko je dužan upozoriti vlasnika da može zahtijevati eksproprijaciju preostalog dijela nekretnine i gdje se to upozorenje unosi?",
+    "odgovor_a": "Korisnik eksproprijacije, u javnom oglasu kojim poziva vlasnike nekretnina",
+    "odgovor_b": "Službeno lice koje vodi postupak eksproprijacije, a upozorenje se unosi u zapisnik o raspravi",
+    "odgovor_c": "Federalna uprava, u rješenju kojim odlučuje o žalbi protiv rješenja o eksproprijaciji",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 11. stav (2) Zakona o eksproprijaciji FBiH, službeno lice koje vodi postupak eksproprijacije dužno je upozoriti vlasnika da može podnijeti zahtjev za eksproprijaciju preostalog dijela nekretnine, a to upozorenje unosi se u zapisnik o raspravi."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "U kojem se slučaju, izuzetno, ne plaća naknada za eksproprisanu nekretninu?",
+    "odgovor_a": "Kada je raniji vlasnik nekretninu stekao nasljeđivanjem manje od godinu dana prije podnošenja prijedloga",
+    "odgovor_b": "Kada se vlasnik nekretnine, iako uredno pozvan, ne odazove na usmenu raspravu pred općinskom službom",
+    "odgovor_c": "Kada se radi ceste ekspropriše nekretnina u vlasništvu Federacije, kantona, grada, općine, javnog preduzeća ili javne ustanove",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 12. stav (2) Zakona o eksproprijaciji FBiH, kada se radi izvođenja radova, građenja, rekonstrukcije ili održavanja autoceste, brze ceste, magistralne, regionalne ili lokalne ceste ekspropriše nekretnina u vlasništvu Federacije BiH, kantona, grada, općine, javnih preduzeća ili javnih ustanova, ne plaća se naknada za eksproprisanu nekretninu."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Ko snosi troškove postupka eksproprijacije?",
+    "odgovor_a": "Korisnik eksproprijacije",
+    "odgovor_b": "Raniji vlasnik nekretnine",
+    "odgovor_c": "Općina na čijem se području nekretnina nalazi",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 37. Zakona o eksproprijaciji FBiH, troškove postupka eksproprijacije snosi korisnik eksproprijacije. Korisnik snosi i naknadu za eksproprisanu nekretninu (član 12. stav (6))."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Ko donosi odluku o utvrđivanju javnog interesa za izgradnju objekta ili izvođenje radova na području jedne općine?",
+    "odgovor_a": "Općinski načelnik, uz saglasnost vlade kantona",
+    "odgovor_b": "Općinsko vijeće na čijem se području namjerava graditi",
+    "odgovor_c": "Općinska služba za upravu za imovinsko-pravne poslove",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 14. stav (4) Zakona o eksproprijaciji FBiH, odluku o utvrđivanju javnog interesa za izgradnju objekta ili izvođenje radova na području općine donosi općinsko vijeće na čijem se području namjerava graditi objekat ili izvoditi radovi, u skladu s planskim dokumentima prostornog uređenja."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Po čijem prethodno pribavljenom mišljenju Vlada Federacije BiH donosi odluku o utvrđivanju javnog interesa za objekat koji se gradi na području dvaju ili više kantona?",
+    "odgovor_a": "Federalne uprave za geodetske i imovinsko-pravne poslove",
+    "odgovor_b": "Općinskih vijeća svih općina na čijem se području namjerava graditi",
+    "odgovor_c": "Vlada kantona na čijim se područjima namjerava graditi objekat",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 14. stav (2) Zakona o eksproprijaciji FBiH, odluku o utvrđivanju javnog interesa za objekat na području dvaju ili više kantona Vlada donosi po prethodno pribavljenim mišljenjima vlada kantona na čijim se područjima namjerava graditi objekat ili izvoditi radovi."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Šta se, pored samog utvrđenja javnog interesa, određuje aktom o utvrđivanju javnog interesa?",
+    "odgovor_a": "Korisnik eksproprijacije",
+    "odgovor_b": "Visina naknade za nekretnine koje se ekspropriraju",
+    "odgovor_c": "Rok za predaju nekretnina u posjed",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 16. stav (4) Zakona o eksproprijaciji FBiH, aktom o utvrđivanju javnog interesa odredit će se i korisnik eksproprijacije."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Ko rješava o prijedlogu za dozvolu vršenja pripremnih radnji u svrhu eksproprijacije?",
+    "odgovor_a": "Federalna uprava za geodetske i imovinsko-pravne poslove",
+    "odgovor_b": "Općinska služba za upravu za imovinsko-pravne poslove",
+    "odgovor_c": "Općinsko vijeće na čijem se području nekretnina nalazi",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 18. stav (2) Zakona o eksproprijaciji FBiH, o prijedlogu za dozvolu vršenja pripremnih radnji rješava općinska služba za upravu za imovinsko-pravne poslove."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Je li predlagač u čiju je korist dozvoljeno vršenje pripremnih radnji dužan platiti naknadu vlasniku nekretnine?",
+    "odgovor_a": "Ne, jer se pripremnim radnjama ne oduzima posjed nekretnine",
+    "odgovor_b": "Da, ali samo ako pripremne radnje traju duže od 30 dana",
+    "odgovor_c": "Da, a na nju se primjenjuju odredbe o naknadi za privremeno zauzimanje zemljišta",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 20. Zakona o eksproprijaciji FBiH, predlagač u čiju je korist dozvoljeno vršenje pripremnih radnji dužan je platiti naknadu vlasniku nekretnine, a odredbe o naknadi za privremeno zauzimanje i o postupku za određivanje visine naknade primjenjuju se i u tom slučaju."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Šta od navedenog mora biti naznačeno u prijedlogu za eksproprijaciju nekretnine?",
+    "odgovor_a": "Vlasnik i posjednik nekretnine",
+    "odgovor_b": "Visina ponuđene naknade za nekretninu",
+    "odgovor_c": "Rok za predaju nekretnine u posjed korisniku",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 22. Zakona o eksproprijaciji FBiH, u prijedlogu za eksproprijaciju moraju biti naznačeni korisnik eksproprijacije, nekretnina za koju se predlaže eksproprijacija, vlasnik i posjednik nekretnine te objekt, odnosno radovi zbog kojih se predlaže eksproprijacija."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Do kada korisnik eksproprijacije i vlasnik nekretnine mogu sporazumno riješiti pitanje prijenosa prava vlasništva i naknade?",
+    "odgovor_a": "Do podnošenja prijedloga za eksproprijaciju općinskoj službi za upravu",
+    "odgovor_b": "Do pravomoćnosti rješenja o eksproprijaciji",
+    "odgovor_c": "Do održavanja usmene rasprave pred općinskom službom za upravu",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 26. stav (1) Zakona o eksproprijaciji FBiH, korisnik eksproprijacije i vlasnik nekretnine mogu do pravomoćnosti rješenja o eksproprijaciji sporazumno riješiti pitanje prijenosa prava vlasništva kao i naknade na određenoj nekretnini."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Šta je općinska služba za upravu dužna učiniti prije donošenja rješenja o eksproprijaciji?",
+    "odgovor_a": "Pribaviti saglasnost Federalne uprave na prijedlog za eksproprijaciju",
+    "odgovor_b": "Isplatiti vlasniku naknadu ili mu predati drugu odgovarajuću nekretninu",
+    "odgovor_c": "Saslušati vlasnika nekretnine o činjenicama u vezi sa eksproprijacijom",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 27. stav (2) Zakona o eksproprijaciji FBiH, prije donošenja rješenja o eksproprijaciji općinska služba za upravu saslušat će vlasnika nekretnine o činjenicama u vezi sa eksproprijacijom."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Na koji se slučaj ne odnosi mogućnost da Vlada dozvoli predaju nekretnine u posjed korisniku prije pravomoćnosti rješenja o eksproprijaciji?",
+    "odgovor_a": "Kada je predmet eksproprijacije stambena ili poslovna zgrada za koju korisnik nije osigurao drugu odgovarajuću nekretninu",
+    "odgovor_b": "Kada je vlasnik nekretnine fizičko lice koje na njoj obavlja registriranu poljoprivrednu djelatnost kao jedini izvor prihoda",
+    "odgovor_c": "Kada je javni interes utvrđen regulacionim planom, a ne posebnim aktom Vlade, vlade kantona ili općinskog vijeća",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 31. stav (6) Zakona o eksproprijaciji FBiH, odredba o hitnom stupanju u posjed (stav (2)) ne odnosi se na slučajeve kada je predmet eksproprijacije stambena ili poslovna zgrada za koju korisnik eksproprijacije nije osigurao drugu odgovarajuću nekretninu."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Šta je korisnik eksproprijacije dužan ako je stupio u posjed nekretnine prije pravomoćnosti rješenja, a prijedlog za eksproprijaciju bude pravomoćno odbijen?",
+    "odgovor_a": "Platiti vlasniku tržišnu vrijednost nekretnine kao da je eksproprijacija izvršena",
+    "odgovor_b": "Nadoknaditi štetu koju je vlasniku prouzrokovao stupanjem u posjed nekretnine",
+    "odgovor_c": "Nastaviti koristiti nekretninu do okončanja upravnog spora, uz plaćanje zakupnine",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 32. stav (1) Zakona o eksproprijaciji FBiH, ako je korisnik stupio u posjed prije pravomoćnosti rješenja, a prijedlog bude pravomoćno odbijen, korisnik je dužan nadoknaditi štetu koju je vlasniku prouzrokovao stupanjem u posjed, a nekretninu vraća u roku od 15 dana od pravomoćnosti (stav (2))."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "U kojem će se slučaju pravomoćno rješenje o eksproprijaciji poništiti ili izmijeniti na zahtjev stranaka, bez obzira na izvršene radove?",
+    "odgovor_a": "Ako to zahtijeva raniji vlasnik u roku od godinu dana od pravomoćnosti rješenja",
+    "odgovor_b": "Ako to zahtijeva korisnik eksproprijacije uz prethodnu saglasnost Federalne uprave",
+    "odgovor_c": "Ako to korisnik eksproprijacije i raniji vlasnik zajednički zahtijevaju",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 33. stav (3) Zakona o eksproprijaciji FBiH, pravomoćno rješenje o eksproprijaciji poništit će se ili izmijeniti ako to korisnik eksproprijacije i raniji vlasnik zajednički zahtijevaju."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Ko donosi rješenje o određivanju privremenog zauzimanja zemljišta i kakav je učinak žalbe protiv tog rješenja?",
+    "odgovor_a": "Općinska služba za upravu, a žalba Federalnoj upravi ne odlaže izvršenje rješenja",
+    "odgovor_b": "Općinsko vijeće, a žalba vladi kantona odlaže izvršenje rješenja",
+    "odgovor_c": "Federalna uprava, a protiv rješenja žalba nije dopuštena, već samo upravni spor",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 36. st. (4) i (5) Zakona o eksproprijaciji FBiH, rješenje o određivanju privremenog zauzimanja zemljišta donosi općinska služba za upravu, a protiv njega je dopuštena žalba o kojoj odlučuje Federalna uprava, s tim da žalba ne odlaže izvršenje rješenja."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Kako Zakon određuje hitnost postupka eksproprijacije i postupka za određivanje naknade za eksproprisanu nekretninu?",
+    "odgovor_a": "Postupak eksproprijacije je hitan, a postupak za određivanje naknade je redovan",
+    "odgovor_b": "I postupak eksproprijacije i postupak za određivanje naknade su hitni",
+    "odgovor_c": "Postupak za određivanje naknade je hitan, a postupak eksproprijacije je redovan",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 38. stav (1) Zakona o eksproprijaciji FBiH, postupak provođenja eksproprijacije je hitan, a prema članu 65. hitan je i postupak za određivanje naknade za eksproprisanu nekretninu."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Ko na područjima zahvaćenim elementarnim nepogodama većeg obima može odlučiti da se nekretnina preda u posjed korisniku prije nego što rješenje o eksproprijaciji postane konačno?",
+    "odgovor_a": "Vlada Federacije BiH, na zahtjev korisnika eksproprijacije",
+    "odgovor_b": "Federalna uprava, po službenoj dužnosti",
+    "odgovor_c": "Općinsko vijeće, na zahtjev korisnika eksproprijacije",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 41. stav (2) Zakona o eksproprijaciji FBiH, općinsko vijeće može na zahtjev korisnika eksproprijacije riješiti da mu se nekretnina preda u posjed prije konačnosti rješenja ako utvrdi da je to neophodno zbog hitnosti slučaja; protiv tog rješenja ne može se voditi upravni spor (stav (3)). U redovnom postupku o hitnom posjedu odlučuje Vlada (član 31. stav (2))."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Ko na području elementarne nepogode donosi rješenje o potrebi i cjelishodnosti privremenog zauzimanja zemljišta radi postavljanja privremenih objekata i kakav značaj to rješenje ima?",
+    "odgovor_a": "Općinsko vijeće, a rješenje ima značaj rješenja o utvrđivanju javnog interesa",
+    "odgovor_b": "Općinska služba za upravu, uz prethodnu saglasnost Vlade",
+    "odgovor_c": "Vlada, na prijedlog općinskog načelnika, uz mišljenje vlade kantona",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 43. stav (2) Zakona o eksproprijaciji FBiH, rješenje o potrebi i cjelishodnosti privremenog zauzimanja zemljišta donosi općinsko vijeće i ono ima značaj rješenja o utvrđivanju javnog interesa u smislu člana 40. Zakona; samo rješenje o privremenom zauzimanju potom donosi općinska služba za upravu (stav (3))."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Pod kojim uvjetom graditelju bespravno izgrađenog stambenog objekta, koji je jedina stambena jedinica njegove uže porodice, pripada pravo na naknadu?",
+    "odgovor_a": "Ako je objekt izgrađen prije stupanja na snagu Zakona o eksproprijaciji",
+    "odgovor_b": "Ako je objekt evidentiran na službenom orto-foto snimku Federacije BiH u razmjeri 1:5000",
+    "odgovor_c": "Ako je graditelj prije podnošenja prijedloga za eksproprijaciju zatražio legalizaciju objekta",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 45. stav (5) Zakona o eksproprijaciji FBiH, pravo na naknadu iz stava (4) pripada samo ako je bespravno izgrađeni stambeni objekt evidentiran na službenom orto-foto snimku teritorije Federacije BiH u razmjeri 1:5000 koji je uradila Federalna uprava za geodetske i imovinsko-pravne poslove."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Kada se naknada za eksproprisanu nekretninu određuje u novcu?",
+    "odgovor_a": "Uvijek, jer je novčana naknada pravilo, a druga nekretnina izuzetak",
+    "odgovor_b": "Samo ako je tržišna vrijednost nekretnine manja od iznosa koji odredi Vlada",
+    "odgovor_c": "Ako vlasnik ne prihvati drugu odgovarajuću nekretninu ili je korisnik ne može osigurati",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 46. stav (1) Zakona o eksproprijaciji FBiH, ako vlasnik nekretnine ne prihvati na ime naknade drugu odgovarajuću nekretninu ili ako korisnik eksproprijacije ne može osigurati takvu nekretninu, naknada se određuje u novcu u visini tržišne vrijednosti nekretnine."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Kako se određuje naknada za eksproprisano neplodno zemljište, kamenjar i slično?",
+    "odgovor_a": "U visini naknade za pašnjak najniže klase u istoj katastarskoj općini",
+    "odgovor_b": "U visini naknade za najbližu livadu istog položaja",
+    "odgovor_c": "Ne određuje se, jer takvo zemljište nema tržišnu vrijednost",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 53. stav (2) Zakona o eksproprijaciji FBiH, naknada za neplodno zemljište, kamenjar i slično određuje se u visini naknade koja bi se odredila za pašnjak najniže klase u istoj katastarskoj općini."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Kakvo pravo ima raniji vlasnik eksproprisanog zemljišta u pogledu usjeva i plodova koji su sazreli u vrijeme stupanja korisnika u posjed?",
+    "odgovor_a": "Usjevi i plodovi pripadaju korisniku eksproprijacije bez posebne naknade",
+    "odgovor_b": "Ima pravo sabrati usjeve i ubrati plodove koji su sazreli u vrijeme stupanja u posjed",
+    "odgovor_c": "Ima pravo samo na novčanu naknadu u visini tržišne vrijednosti usjeva, bez prava berbe",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 55. stav (1) Zakona o eksproprijaciji FBiH, raniji vlasnik eksproprisanog zemljišta ima pravo sabrati usjeve i ubrati plodove koji su sazreli u vrijeme stupanja u posjed korisnika; ako to nije bio u mogućnosti, pripada mu naknada za usjeve po odbitku troškova do žetve ili berbe (stav (2))."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Kako se određuje naknada u slučaju ustanovljenja zakupa nepotpunom eksproprijacijom?",
+    "odgovor_a": "U iznosu za koji je zbog zakupa umanjena tržišna vrijednost nekretnine, uz naknadu štete",
+    "odgovor_b": "U visini tržišne vrijednosti zemljišta umanjene srazmjerno trajanju zakupa",
+    "odgovor_c": "U visini zakupnine koja se postiže na tržištu, jednokratno ili u povremenim davanjima",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 57. st. (1) i (2) Zakona o eksproprijaciji FBiH, u slučaju ustanovljenja zakupa naknada se određuje u visini zakupnine koja se postiže na tržištu, a može se odrediti u obliku jednokratnog iznosa za cijelo vrijeme trajanja zakupa ili u povremenim davanjima u jednakim vremenskim razmacima."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Kako se određuje naknada za privremeno zauzimanje zemljišta?",
+    "odgovor_a": "Kao naknada u slučaju ustanovljenja zakupa",
+    "odgovor_b": "Kao naknada u slučaju ustanovljenja služnosti",
+    "odgovor_c": "Kao naknada za potpunu eksproprijaciju, srazmjerno vremenu zauzimanja",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 58. Zakona o eksproprijaciji FBiH, naknada za privremeno zauzimanje zemljišta određuje se u visini i na način kako je Zakonom određeno za naknadu u slučaju ustanovljenja zakupa."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Ako se zbog obima eksproprijacije znatan broj stanovnika mora iseliti pa su oblici i uvjeti naknade propisani posebnim zakonom, šta raniji vlasnik može zahtijevati?",
+    "odgovor_a": "Da se naknada isplati u dvostrukom iznosu zbog preseljenja",
+    "odgovor_b": "Da se naknada odredi prema odredbama Zakona o eksproprijaciji, ako je to za njega povoljnije",
+    "odgovor_c": "Da se postupak eksproprijacije obustavi do donošenja posebnog zakona",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 59. stav (2) Zakona o eksproprijaciji FBiH, raniji vlasnik može zahtijevati da se naknada odredi prema odredbama ovog Zakona, ako je to za njega povoljnije."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Šta mogu učiniti raniji vlasnik i korisnik eksproprijacije ako općinska služba za upravu u roku ne dostavi pravomoćno rješenje sa spisima sudu radi određivanja naknade?",
+    "odgovor_a": "Izjaviti žalbu Federalnoj upravi zbog šutnje administracije",
+    "odgovor_b": "Zahtijevati od Vlade da rješenjem odredi visinu naknade",
+    "odgovor_c": "Neposredno se obratiti nadležnom sudu radi određivanja naknade",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 62. stav (3) Zakona o eksproprijaciji FBiH, ako općinska služba za upravu u određenom roku ne dostavi rješenje sa spisima sudu, raniji vlasnik eksproprisane nekretnine kao i korisnik eksproprijacije mogu se neposredno obratiti nadležnom sudu radi određivanja naknade."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Ako je nekretnina predata u posjed korisniku prije pravomoćnosti rješenja o eksproprijaciji, prema okolnostima iz kojeg vremena sud određuje naknadu?",
+    "odgovor_a": "Po izboru vlasnika, u vrijeme predaje nekretnine ili u vrijeme donošenja prvostepenog sudskog rješenja o naknadi",
+    "odgovor_b": "Isključivo u vrijeme predaje nekretnine u posjed korisniku eksproprijacije, bez mogućnosti izbora",
+    "odgovor_c": "Isključivo u vrijeme pravomoćnosti rješenja o eksproprijaciji, bez obzira na datum predaje u posjed",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 63. stav (2) Zakona o eksproprijaciji FBiH, ako je korisniku nekretnina predata u posjed prije pravomoćnosti rješenja, vlasnik ima pravo birati da mu se naknada odredi ili prema okolnostima u vrijeme predaje nekretnine ili u vrijeme donošenja prvostepenog sudskog rješenja o naknadi."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Šta je sud dužan uzeti u obzir pri utvrđivanju naknade ako je većina stranaka na određenom području zaključila sporazum o naknadi pred općinskom službom za upravu?",
+    "odgovor_a": "Isključivo nalaz i mišljenje vještaka, bez obzira na zaključene sporazume",
+    "odgovor_b": "Visinu naknade utvrđenu tim sporazumima",
+    "odgovor_c": "Prosječnu visinu naknade iz sudske prakse na području Federacije",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 64. stav (2) Zakona o eksproprijaciji FBiH, sud je dužan uzeti u obzir visinu naknade utvrđenu prilikom sporazumnog utvrđivanja naknade pred općinskom službom za upravu, ako je većina stranaka zaključila takav sporazum na određenom području u postupku eksproprijacije za izgradnju istog ili drugog objekta."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Kako se provodi eksproprijacija nekretnina na područjima zahvaćenim elementarnim nepogodama većeg obima?",
+    "odgovor_a": "Po općem postupku, uz skraćene rokove koje odredi Vlada",
+    "odgovor_b": "Isključivo sporazumom s vlasnicima nekretnina, bez donošenja rješenja",
+    "odgovor_c": "Po posebnom postupku koji je propisan ovim Zakonom",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 13. Zakona o eksproprijaciji FBiH, na područjima zahvaćenim elementarnim nepogodama većeg obima eksproprijacija nekretnina provodi se po posebnom postupku koji je propisan ovim Zakonom (glava V, članovi 39. do 44.)."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Koje pravo korisnik eksproprijacije stiče eksproprijacijom nekretnine?",
+    "odgovor_a": "Pravo da nekretninu koristi u svrhu radi koje je eksproprijacija izvršena",
+    "odgovor_b": "Pravo da nekretninu koristi za bilo koju namjenu u skladu s planskim dokumentima",
+    "odgovor_c": "Pravo da nekretninu otuđi trećim licima po tržišnoj cijeni",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 10. Zakona o eksproprijaciji FBiH, eksproprijacijom nekretnine korisnik eksproprijacije stiče pravo da tu nekretninu koristi u svrhu radi koje je eksproprijacija izvršena."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "U kojoj visini pripada naknada graditelju bespravno izgrađenog stambenog objekta koji je jedina stambena jedinica njegove uže porodice, ako nadležni organ nije donio pravomoćno rješenje o uklanjanju?",
+    "odgovor_a": "U visini tržišne vrijednosti objekta",
+    "odgovor_b": "U visini građevinske vrijednosti objekta",
+    "odgovor_c": "U visini polovine tržišne vrijednosti objekta",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 45. stav (4) Zakona o eksproprijaciji FBiH, izuzetno od pravila da graditelju bespravnog objekta ne pripada naknada, za bespravno izgrađene stambene objekte koji predstavljaju jedinu stambenu jedinicu graditelja i članova uže porodice graditelju pripada naknada u visini građevinske vrijednosti tog objekta."
+  },
+  {
+    "oblast": "Zakon o eksproprijaciji FBiH",
+    "pitanje": "Na čiji se zahtjev vrši zabilježba eksproprijacije u zemljišnim i drugim javnim knjigama?",
+    "odgovor_a": "Vlasnika nekretnine, radi zaštite od otuđenja",
+    "odgovor_b": "Suda, po službenoj dužnosti nakon prijema prijedloga",
+    "odgovor_c": "Predlagača eksproprijacije",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 25. stav (2) Zakona o eksproprijaciji FBiH, na zahtjev predlagača eksproprijacije izvršit će se zabilježba eksproprijacije u zemljišnim i drugim javnim knjigama u kojima se vode podaci o nekretninama."
+  },
+  {
     "oblast": "Zakon o državnoj službi u TK",
     "pitanje": "Koje poslove obavlja namještenik prema definiciji iz zakona?",
     "odgovor_a": "poslove osnovne djelatnosti organa državne službe na radnom mjestu na koje je postavljen",
@@ -1990,12 +2764,12 @@
   },
   {
     "oblast": "Zakon o državnoj službi u TK",
-    "pitanje": "Ko ima pravo prijave na interni oglas za popunu upražnjenog radnog mjesta državnog službenika?",
+    "pitanje": "Ko ima pravo prijave na interni oglas iz člana 36. Zakona (interno oglašavanje radi popune upražnjenog radnog mjesta državnog službenika)?",
     "odgovor_a": "državni službenici bilo kojeg nivoa vlasti na koji se zakon odnosi, ako ispunjavaju uslove",
     "odgovor_b": "državni službenici i namještenici svih organa državne službe u Kantonu koji ispunjavaju uslove",
     "odgovor_c": "samo državni službenici organa koji objavljuje interni oglas, ako ispunjavaju uslove radnog mjesta",
     "tacan_odgovor": "A",
-    "obrazlozenje": "Prema članu 36. stav (4) Zakona, pravo prijave na interni oglas imaju državni službenici bilo kojeg nivoa vlasti na koji se zakon odnosi, ukoliko ispunjavaju uslove za obavljanje poslova tog radnog mjesta."
+    "obrazlozenje": "Prema članu 36. stav (4) Zakona, pravo prijave na interni oglas imaju državni službenici bilo kojeg nivoa vlasti na koji se zakon odnosi, ukoliko ispunjavaju uslove za obavljanje poslova tog radnog mjesta. Za razliku od toga, na interni oglas za unapređenje iz člana 46. stav (3) mogu se prijaviti samo državni službenici organa u kojem se vrši unapređenje."
   },
   {
     "oblast": "Zakon o državnoj službi u TK",
@@ -2463,7 +3237,7 @@
     "odgovor_b": "Agencija",
     "odgovor_c": "Ministarstvo pravosuđa i uprave",
     "tacan_odgovor": "A",
-    "obrazlozenje": "Prema članu 94. Zakona, nadzor nad primjenom zakona obavlja Ministarstvo, a inspekcijski nadzor obavlja upravna inspekcija."
+    "obrazlozenje": "Prema članu 94. stav (2) Zakona, inspekcijski nadzor nad primjenom zakona obavlja upravna inspekcija, dok nadzor nad primjenom zakona obavlja Ministarstvo (stav (1))."
   },
   {
     "oblast": "Zakon o državnoj službi u TK",
@@ -2518,6 +3292,321 @@
     "odgovor_c": "od 1. januara godine koja slijedi nakon objavljivanja",
     "tacan_odgovor": "B",
     "obrazlozenje": "Prema članu 111. Zakona, prečišćeni tekst se primjenjuje od dana objavljivanja u Službenim novinama Tuzlanskog kantona."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Šta se, prema članu 1., uređuje Zakonom o državnoj službi u Tuzlanskom kantonu?",
+    "odgovor_a": "organizacija, nadležnost i način rada organa uprave i upravnih organizacija Kantona, grada i opština na području Kantona",
+    "odgovor_b": "radno-pravni status državnih službenika, namještenika i drugih lica zaposlenih u organima državne službe u Kantonu",
+    "odgovor_c": "plate, naknade i druga materijalna prava zaposlenih u organima državne službe i javnim ustanovama na području Kantona",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 1. Zakona o državnoj službi u TK, ovim zakonom uređuje se radno-pravni status državnih službenika, namještenika i drugih lica zaposlenih u organima državne službe u Kantonu, ako za određene državne službenike posebnim zakonom nije drugačije određeno."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Na koja se pitanja odnosi zabrana diskriminacije državnih službenika i namještenika iz člana 6. zakona?",
+    "odgovor_a": "isključivo na ocjenjivanje i unapređivanje već zaposlenih službenika, po osnovu političkog opredjeljenja",
+    "odgovor_b": "isključivo na zapošljavanje lica koja konkurišu u državnu službu, po osnovu nacionalne pripadnosti i spola",
+    "odgovor_c": "na zapošljavanje, ocjenjivanje, unapređivanje i druga statusna i radno-pravna pitanja, po bilo kom osnovu",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 6. Zakona o državnoj službi u TK, prilikom zapošljavanja lica koja konkurišu u državnu službu, ocjenjivanja, unapređivanja, kao i u drugim statusnim i radno-pravnim pitanjima, zabranjena je diskriminacija državnih službenika i namještenika po bilo kom osnovu."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Kome za svoj rad i upravljanje odgovara rukovodilac stručne i druge službe koju obrazuje Skupština, Vlada, gradsko ili opštinsko vijeće, gradonačelnik odnosno načelnik?",
+    "odgovor_a": "Skupštini, Vladi, gradskom odnosno opštinskom vijeću, gradonačelniku odnosno načelniku",
+    "odgovor_b": "Agenciji za državnu službu i Ministarstvu pravosuđa i uprave Tuzlanskog kantona",
+    "odgovor_c": "sekretaru i rukovodiocu organa državne službe pri kojem je stručna služba obrazovana",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 11. stav (2) Zakona o državnoj službi u TK, rukovodilac stručne i druge službe za svoj rad i upravljanje odgovara Skupštini, Vladi, gradskom odnosno opštinskom vijeću, gradonačelniku odnosno načelniku, u skladu sa zakonom i drugim propisima, tj. organu koji je tu službu obrazovao."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Koje poslove obavlja pomoćnik rukovodioca organa državne službe prema članu 13. zakona?",
+    "odgovor_a": "poslove od značaja za unutrašnju organizaciju organa i koordinaciju rada osnovnih organizacionih jedinica",
+    "odgovor_b": "poslove rukovodnog karaktera i druge najsloženije poslove u okviru organa državne službe",
+    "odgovor_c": "poslove inspekcijskog nadzora nad provođenjem zakona i drugih propisa iz nadležnosti organa",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 13. stav (1) Zakona o državnoj službi u TK, pomoćnik rukovodioca organa državne službe obavlja poslove rukovodnog karaktera kao i druge najsloženije poslove u okviru organa državne službe, u skladu s posebnim propisom i pravilnikom o unutrašnjoj organizaciji, i u okviru svojih ovlašćenja odgovoran je za korišćenje materijalnih i finansijskih sredstava i ljudskih potencijala. Poslove iz odgovora A obavlja sekretar organa (član 12.), a iz odgovora C glavni inspektor i inspektori (čl. 14. i 17.)."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "S kim glavni inspektor, prilikom rukovođenja poslovima inspekcijskog nadzora, ostvaruje saradnju o pitanjima od zajedničkog interesa za obavljanje inspekcije?",
+    "odgovor_a": "s nadležnim inspektorima drugih nivoa vlasti, kojima pruža i potrebnu stručnu pomoć",
+    "odgovor_b": "s Centralnom harmonizacijskom jedinicom Federalnog ministarstva finansija i Uredom za reviziju",
+    "odgovor_c": "s Agencijom za državnu službu i upravnom inspekcijom Ministarstva pravosuđa i uprave",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 14. stav (2) Zakona o državnoj službi u TK, prilikom rukovođenja poslovima inspekcijskog nadzora glavni inspektor ostvaruje saradnju s nadležnim inspektorima drugih nivoa vlasti, koja se odnosi na pitanja od zajedničkog interesa za obavljanje inspekcije, i pruža im potrebnu stručnu pomoć. Za svoj rad odgovara rukovodiocu organa (stav (3))."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "S kim glavni interni revizor ostvaruje saradnju u razmjeni izvještaja, dokumentacije i mišljenja prilikom obavljanja interne revizije?",
+    "odgovor_a": "s glavnim inspektorima i nadležnim inspektorima drugih nivoa vlasti te upravnom inspekcijom Ministarstva pravosuđa i uprave",
+    "odgovor_b": "s Agencijom za državnu službu Federacije BiH i Ministarstvom pravosuđa i uprave Tuzlanskog kantona te Ministarstvom finansija",
+    "odgovor_c": "s Centralnom harmonizacijskom jedinicom Federalnog ministarstva finansija i Uredom za reviziju institucija u Federaciji",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 15. stav (2) Zakona o državnoj službi u TK, prilikom obavljanja interne revizije glavni interni revizor ostvaruje saradnju s Centralnom harmonizacijskom jedinicom Federalnog ministarstva finansija kao i Uredom za reviziju institucija u Federaciji u razmjeni izvještaja, dokumentacije i mišljenja."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Kome za svoj rad i upravljanje odgovara šef unutrašnje organizacione jedinice koja se nalazi u sastavu osnovne organizacione jedinice kojom rukovodi pomoćnik rukovodioca organa?",
+    "odgovor_a": "neposredno rukovodiocu organa državne službe, bez obzira na to ko rukovodi osnovnom organizacionom jedinicom",
+    "odgovor_b": "sekretaru organa državne službe, koji koordinira radom svih osnovnih organizacionih jedinica",
+    "odgovor_c": "pomoćniku rukovodioca organa državne službe koji rukovodi tom osnovnom organizacionom jedinicom",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 16. stav (2) Zakona o državnoj službi u TK, šef unutrašnje organizacione jedinice za svoj rad i upravljanje odgovara pomoćniku rukovodioca organa državne službe koji rukovodi osnovnom organizacionom jedinicom u čijem je sastavu unutrašnja organizaciona jedinica, odnosno sekretaru organa, odnosno rukovodiocu organa državne službe, ukoliko u toj osnovnoj organizacionoj jedinici nema pomoćnika rukovodioca."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Koje poslove obavljaju inspektori prema članu 17. zakona?",
+    "odgovor_a": "inspekcijski nadzor nad primjenom zakona i propisa donesenih na osnovu zakona i nad radom organa",
+    "odgovor_b": "poslove interne revizije u skladu s važećim propisima iz oblasti interne revizije u javnom sektoru",
+    "odgovor_c": "poslove rukovodnog karaktera i druge najsloženije poslove u okviru organa državne službe, prema pravilniku",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 17. Zakona o državnoj službi u TK, inspektori obavljaju poslove koji se odnose na inspekcijski nadzor nad primjenom zakona i drugih propisa donesenih na osnovu zakona i inspekcijski nadzor nad radom organa državne službe, u skladu sa zakonom. Odgovor B opisuje internog revizora (član 18.), a odgovor C pomoćnika rukovodioca (član 13.)."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Kome za svoj rad i upravljanje odgovara rukovodilac samostalne uprave i samostalne upravne organizacije?",
+    "odgovor_a": "ministru i Vladi, gradonačelniku odnosno načelniku, zavisno od nivoa vlasti",
+    "odgovor_b": "Vladi, gradonačelniku odnosno načelniku, koji ga i imenuju i razrješavaju",
+    "odgovor_c": "Skupštini Kantona, odnosno gradskom ili opštinskom vijeću, kao organima koji su je osnovali",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 22. stav (2) Zakona o državnoj službi u TK, rukovodilac samostalne uprave i samostalne upravne organizacije za svoj rad i upravljanje odgovara Vladi, gradonačelniku, odnosno načelniku (koji ga prema članu 24. stav (1) i imenuju i razrješavaju). Ministru odgovara samo rukovodilac uprave koja je u sastavu organa državne službe (član 23. stav (2))."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Kome za svoj rad i upravljanje odgovara rukovodilac uprave i upravne organizacije koja se nalazi u sastavu organa državne službe?",
+    "odgovor_a": "ministru i Vladi, gradonačelniku, odnosno načelniku",
+    "odgovor_b": "samo Vladi, gradonačelniku, odnosno načelniku, bez ministra",
+    "odgovor_c": "sekretaru organa i rukovodiocu organa državne službe",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 23. stav (2) Zakona o državnoj službi u TK, rukovodilac uprave i upravne organizacije koje se nalaze u sastavu organa državne službe za svoj rad i upravljanje odgovara ministru i Vladi, gradonačelniku, odnosno načelniku. Samo Vladi, gradonačelniku odnosno načelniku odgovara rukovodilac samostalne uprave (član 22. stav (2))."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Lica iz člana 9. stavovi (2) i (3) zakona (rukovodioci uprava i upravnih organizacija i savjetnici) ne mogu biti članovi upravnih, nadzornih niti školskih odbora i skupština javnih preduzeća, privrednih društava sa učešćem državnog kapitala i javnih ustanova čiji je osnivač bilo koji nivo vlasti u BiH:",
+    "odgovor_a": "bez ikakvog izuzetka, dok traje njihov mandat",
+    "odgovor_b": "osim ako posebnim zakonom nije drugačije propisano",
+    "odgovor_c": "osim uz prethodno odobrenje organa koji ih je imenovao",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 26. Zakona o državnoj službi u TK, lica iz člana 9. stavovi (2) i (3) ne mogu biti članovi upravnih, nadzornih niti školskih odbora i skupština javnih preduzeća i privrednih društava sa učešćem državnog kapitala kao i javnih ustanova i drugih pravnih lica čiji je osnivač bilo koji nivo vlasti u Bosni i Hercegovini, osim ako posebnim zakonom nije drugačije propisano."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Kome rukovodilac organa državne službe podnosi zahtjev za dostavljanje liste prekobrojnih državnih službenika kada odluči da popunu upražnjenog radnog mjesta ne vrši internim premještajem ili preuzimanjem?",
+    "odgovor_a": "Odboru za žalbe, koji vodi listu prekobrojnih državnih službenika",
+    "odgovor_b": "Ministarstvu, koje vodi listu prekobrojnih državnih službenika",
+    "odgovor_c": "Agenciji, koja vodi listu prekobrojnih državnih službenika",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 35. stav (1) Zakona o državnoj službi u TK, kada rukovodilac organa odluči da popunu upražnjenog radnog mjesta ne vrši na način predviđen čl. 33. i 34. (interni premještaj i preuzimanje), odnosno ako se popuna ne izvrši na taj način, podnosi zahtjev Agenciji za dostavljanje liste prekobrojnih državnih službenika koju vodi Agencija; popuna sa liste vrši se prema kriterijima i pravilima Agencije (stav (3))."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Do kojeg trenutka rukovodilac organa državne službe može donijeti odluku o poništenju javnog konkursa za državnog službenika?",
+    "odgovor_a": "najkasnije do isteka roka za prijavu kandidata na javni konkurs",
+    "odgovor_b": "najkasnije do održavanja pismenog dijela stručnog ispita",
+    "odgovor_c": "najkasnije do utvrđivanja liste uspješnih kandidata",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 41. stav (4) Zakona o državnoj službi u TK, rukovodilac organa državne službe može donijeti odluku o poništenju javnog konkursa najkasnije do održavanja pismenog dijela stručnog ispita (za razliku od internog oglasa, koji se može poništiti najkasnije do utvrđivanja liste kandidata koji ispunjavaju uslove - član 36. stav (7))."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Na čemu se zasniva unapređenje državnog službenika na više radno mjesto i ko o njemu odlučuje?",
+    "odgovor_a": "na pozitivnoj ocjeni rada, a odlučuje rukovodilac organa",
+    "odgovor_b": "na rezultatu posebnog stručnog ispita, a odlučuje Komisija",
+    "odgovor_c": "na dužini radnog staža u državnoj službi, a odlučuje Agencija",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 45. Zakona o državnoj službi u TK, unapređenje državnog službenika na više radno mjesto iz člana 10. stav (1) tačke b) do k) zasniva se na pozitivnoj ocjeni rada i o njemu odlučuje rukovodilac organa državne službe, u skladu sa članom 46. Zakona."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Na koje se radno mjesto državnog službenika može putem javnog konkursa, bez obaveze pripravničkog staža, prijaviti namještenik koji je uz rad stekao najmanje VII stepen stručne spreme i ima najmanje pet godina radnog staža u organima državne službe nakon položenog stručnog ispita za namještenika?",
+    "odgovor_a": "stručni saradnik",
+    "odgovor_b": "viši stručni saradnik",
+    "odgovor_c": "stručni savjetnik",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 49. stav (1) Zakona o državnoj službi u TK, takav namještenik može se prijaviti na javni konkurs za upražnjeno radno mjesto stručnog saradnika u organu državne službe i primiti u radni odnos bez obaveze obavljanja pripravničkog staža (prema stavu (2) može se prijaviti i na interni odnosno javni oglas za radno mjesto višeg samostalnog referenta)."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Koji se propisi primjenjuju na državnog službenika, namještenika i lice iz člana 9. stavovi (2) i (3) u pogledu prava i obaveza iz radnih odnosa, osim ako ovim zakonom nije drugačije utvrđeno?",
+    "odgovor_a": "Zakon o upravnom postupku i podzakonski propisi Vlade",
+    "odgovor_b": "Zakon o radu, drugi zakoni i kolektivni ugovori o radnim odnosima",
+    "odgovor_c": "Zakon o ministarskim, vladinim i drugim imenovanjima u FBiH",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 51. Zakona o državnoj službi u TK, na državnog službenika i namještenika i lice iz člana 9. stavovi (2) i (3) primjenjuje se Zakon o radu, drugi zakoni i kolektivni ugovori kojima se uređuju prava i obaveze iz radnih odnosa, osim ako ovim zakonom nije drugačije utvrđeno."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Ko uplaćuje razliku do visine pune plate državnom službeniku za vrijeme porodiljskog dopusta?",
+    "odgovor_a": "Ministarstvo pravosuđa i uprave, iz sredstava budžeta Kantona",
+    "odgovor_b": "nadležni kantonalni organ koji isplaćuje naknadu plate",
+    "odgovor_c": "organ državne službe u kojem je službenik u radnom odnosu",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 54. Zakona o državnoj službi u TK, državni službenik za vrijeme porodiljskog dopusta ima pravo na naknadu plate prema propisima Kantona kojim se uređuje ova oblast, prema mjestu uplate doprinosa, s tim da razliku do visine pune plate uplaćuje organ državne službe u kojem se taj državni službenik nalazi u radnom odnosu."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Ko odlučuje o učestvovanju državnih službenika na savjetovanjima i drugim oblicima stručnog usavršavanja i osposobljavanja?",
+    "odgovor_a": "Ministarstvo, na prijedlog neposredno nadređenog državnog službenika iz tog organa",
+    "odgovor_b": "Agencija, prema jedinstvenom planu i programu obuke državnih službenika u Federaciji",
+    "odgovor_c": "rukovodilac organa, vodeći računa o podjednakom učestvovanju svih državnih službenika",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 55. stav (3) Zakona o državnoj službi u TK, o učestvovanju državnih službenika na savjetovanjima i drugim oblicima stručnog usavršavanja i osposobljavanja odlučuje rukovodilac organa državne službe, vodeći pri tome računa o podjednakom učestvovanju svih državnih službenika."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Kakav je učinak žalbe državnog službenika na rješenje o razrješenju koje je rukovodilac organa donio u postupku za prestanak radnog odnosa?",
+    "odgovor_a": "žalba odlaže izvršenje rješenja do odluke Odbora za žalbe",
+    "odgovor_b": "žalba ne odlaže izvršenje rješenja o razrješenju",
+    "odgovor_c": "žalba odlaže izvršenje samo ako to zatraži sindikat",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 57. stav (3) Zakona o državnoj službi u TK, žalba na rješenje o razrješenju, koju državni službenik može podnijeti Odboru za žalbe u roku od 15 dana od dana prijema rješenja (stav (2)), ne odlaže izvršenje rješenja. Državnog službenika razrješava rukovodilac organa (stav (1))."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Po kojem osnovu gubitka statusa državni službenik, prema članu 58. zakona, ostvaruje pravo na otpremninu u skladu s kolektivnim ugovorom i drugim propisom?",
+    "odgovor_a": "zbog prekobrojnosti usljed reorganizacije ili ukidanja organa",
+    "odgovor_b": "zbog dvije uzastopne nezadovoljavajuće godišnje ocjene rada",
+    "odgovor_c": "zbog nezadovoljavajuće ocjene rada na kraju probnog rada u organu",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 58. Zakona o državnoj službi u TK, državni službenik koji izgubi status državnog službenika zbog prekobrojnosti ostvaruje pravo na otpremninu, u skladu s kolektivnim ugovorom i drugim propisom. Kod razrješenja zbog nezadovoljavajućeg probnog rada i dvije uzastopne nezadovoljavajuće ocjene službenik gubi status bez naknade zbog otpuštanja (član 43. stav (4) i član 44. stav (8))."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Ko ima pravo žalbe Odboru za žalbe protiv odluke disciplinske komisije donesene u postupku za tešku povredu službene dužnosti?",
+    "odgovor_a": "organ koji je pokrenuo disciplinski postupak, kao i državni službenik",
+    "odgovor_b": "isključivo državni službenik protiv kojeg je disciplinski postupak vođen",
+    "odgovor_c": "isključivo rukovodilac organa državne službe koji je pokrenuo postupak",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 63. stav (2) Zakona o državnoj službi u TK, protiv odluke disciplinske komisije organ koji je pokrenuo disciplinski postupak i državni službenik imaju pravo žalbe Odboru za žalbe u roku od 15 dana od dana prijema rješenja. Konačnu odluku izvršava rukovodilac organa (stav (3)), a komisija primjerak dostavlja Agenciji (stav (4))."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "U kojem je od navedenih slučajeva rukovodilac organa državne službe dužan (a ne samo ovlašćen) odmah suspendovati državnog službenika?",
+    "odgovor_a": "ako je protiv njega pokrenut krivični postupak za krivično djelo za koje se može izreći kazna zatvora od najmanje pet godina",
+    "odgovor_b": "ako postoje ozbiljni razlozi koji ukazuju na izvršenje krivičnog djela, bez obzira na visinu kazne zaprijećene za to djelo",
+    "odgovor_c": "ako se nalazi u pritvoru ili je protiv njega pokrenut krivični postupak za djelo počinjeno u obavljanju službene dužnosti",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 65. stav (1) Zakona o državnoj službi u TK, rukovodilac organa dužan je državnog službenika odmah suspendovati ako se protiv njega pokrene krivični postupak za krivično djelo počinjeno u obavljanju službene dužnosti ili/i ako se nalazi u pritvoru. U slučajevima iz stava (2) (npr. krivični postupak za djelo sa zaprijećenom kaznom zatvora od najmanje pet godina ili ozbiljni razlozi koji ukazuju na izvršenje krivičnog djela) rukovodilac ga može suspendovati."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Ko odlučuje o prijemu namještenika u radni odnos u organ državne službe?",
+    "odgovor_a": "Agencija, na zahtjev rukovodioca organa i prema svojim kriterijima i pravilima",
+    "odgovor_b": "rukovodilac organa državne službe, prema potrebi popune radnog mjesta",
+    "odgovor_c": "Vlada, gradonačelnik odnosno načelnik, na prijedlog rukovodioca organa",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 72. stav (1) Zakona o državnoj službi u TK, o prijemu namještenika u radni odnos odlučuje rukovodilac organa državne službe u skladu sa potrebom za popunom upražnjenog radnog mjesta namještenika utvrđenog pravilnikom o unutrašnjoj organizaciji; način popune bira rukovodilac zavisno od konkretne potrebe i situacije (stav (2))."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Ko ima pravo prijave na interni oglas za popunu upražnjenog radnog mjesta namještenika?",
+    "odgovor_a": "namještenici organa državne službe svih nivoa vlasti u Kantonu koji ispunjavaju uslove radnog mjesta",
+    "odgovor_b": "samo namještenici organa državne službe u kojem je radno mjesto upražnjeno, ako ispunjavaju uslove",
+    "odgovor_c": "namještenici i državni službenici organa državne službe istog nivoa vlasti koji ispunjavaju uslove",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 73. stav (3) Zakona o državnoj službi u TK, pravo prijave na interni oglas imaju namještenici organa državne službe svih nivoa vlasti u Kantonu koji ispunjavaju uslove za obavljanje poslova tog radnog mjesta; oglas ostaje otvoren najmanje osam dana od dana objavljivanja."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "U kojem roku se može izjaviti žalba Odboru za žalbe protiv rješenja o prijemu namještenika, odnosno obavještenja o rezultatima internog oglasa za namještenika?",
+    "odgovor_a": "u roku od 15 dana od dana prijema rješenja odnosno obavještenja",
+    "odgovor_b": "u roku od osam dana od dana prijema rješenja odnosno obavještenja",
+    "odgovor_c": "u roku od 30 dana od dana prijema rješenja odnosno obavještenja",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 74. stav (5) Zakona o državnoj službi u TK, protiv rješenja, odnosno obavještenja iz stava (4) može se u roku od osam dana od dana prijema rješenja odnosno obavještenja izjaviti žalba Odboru za žalbe (kod internog oglasa za državne službenike rok je 15 dana - član 36. stav (11))."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Kome se dostavljaju prijave na javni oglas za popunu upražnjenog radnog mjesta namještenika i koliki je rok za prijavu kandidata?",
+    "odgovor_a": "Agenciji za državnu službu, u roku od 15 dana od dana objave oglasa u \"Službenim novinama Federacije BiH\"",
+    "odgovor_b": "Ministarstvu pravosuđa i uprave, u roku od osam dana od dana objave oglasa na internet stranici organa",
+    "odgovor_c": "organu državne službe u kojem se vrši popuna, u roku od 15 dana od dana objave oglasa u dnevnim novinama",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 76. stav (1) Zakona o državnoj službi u TK, prijave na javni oglas dostavljaju se organu državne službe u kojem se vrši popuna upražnjenog radnog mjesta, a prema stavu (2) rok za prijavu kandidata je 15 dana od dana objave oglasa u dnevnim novinama."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Šta se dešava ako primljeni kandidat za namještenika iz neopravdanih razloga ne stupi na posao u roku od pet radnih dana?",
+    "odgovor_a": "poništava se rješenje o njegovom prijemu, a rukovodilac donosi rješenje o prijemu drugog kandidata koji ispunjava uslove",
+    "odgovor_b": "rok za stupanje na posao produžava mu se rješenjem za još pet radnih dana, a tek nakon toga rješenje o prijemu se poništava",
+    "odgovor_c": "radno mjesto se ponovo oglašava putem javnog oglasa, a kandidat gubi pravo prijave na oglase u toj kalendarskoj godini",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 78. stav (4) Zakona o državnoj službi u TK, ukoliko primljeni kandidat, iz neopravdanih razloga, u roku od pet radnih dana ne stupi na posao, poništiće se rješenje o njegovom prijemu, u kom slučaju rukovodilac organa državne službe donosi rješenje o prijemu kandidata sa liste kandidata koji ispunjavaju uslove javnog oglasa."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Koliko najduže rukovodilac organa može, bez javnog oglasa, popuniti upražnjeno radno mjesto namještenika na određeno vrijeme u slučaju potrebe hitnog obavljanja poslova, uz obavezu da istovremeno pokrene javno oglašavanje?",
+    "odgovor_a": "najduže do šest mjeseci",
+    "odgovor_b": "najduže do 12 mjeseci",
+    "odgovor_c": "najduže do tri godine",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 81. stav (3) Zakona o državnoj službi u TK, u slučaju potrebe hitnog obavljanja poslova upražnjenog radnog mjesta namještenika, za čiju popunu organ ima potrebnu saglasnost, rukovodilac može privremeno rasporediti drugog namještenika ili upražnjeno radno mjesto, bez javnog oglasa, popuniti na određeno vrijeme najduže do 12 mjeseci, uz obavezu da se istovremeno pokrene postupak javnog oglašavanja. Tri godine je najduže trajanje radnog odnosa na određeno vrijeme zbog duže odsutnosti namještenika (stav (1))."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Pred kojom komisijom namještenici polažu stručni ispit namještenika u organima državne službe?",
+    "odgovor_a": "pred kantonalnom komisijom koju imenuje nadležni ministar",
+    "odgovor_b": "pred komisijom koju rješenjem imenuje rukovodilac organa",
+    "odgovor_c": "pred komisijom koju imenuje Agencija za državnu službu",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 83. Zakona o državnoj službi u TK, namještenici stručni ispit polažu pred kantonalnom komisijom koju imenuje ministar pravosuđa i uprave Tuzlanskog kantona (koji propisom uređuje i sadržaj i način polaganja ispita - član 82. stav (8))."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Koliko traje pripravnički staž u organu državne službe za pripravnike srednje školske spreme, a koliko za pripravnike više školske spreme?",
+    "odgovor_a": "šest mjeseci za srednju, a jednu godinu za višu školsku spremu",
+    "odgovor_b": "devet mjeseci za srednju, a jednu godinu za višu školsku spremu",
+    "odgovor_c": "šest mjeseci za srednju, a devet mjeseci za višu školsku spremu",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 84. stav (3) Zakona o državnoj službi u TK, pripravnički staž za pripravnike srednje školske spreme traje šest mjeseci, a za pripravnike više školske spreme traje devet mjeseci (pripravnički staž za državne službenike traje jednu godinu - član 48. stav (3))."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Ko utvrđuje opšte smjernice upravljanja ljudskim resursima u organima državne službe?",
+    "odgovor_a": "Agencija, uz saglasnost Ministarstva pravosuđa i uprave",
+    "odgovor_b": "Vlada, gradsko odnosno opštinsko vijeće, u skladu sa zakonom",
+    "odgovor_c": "rukovodilac organa državne službe, u saradnji sa sindikatom",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 86. Zakona o državnoj službi u TK, Vlada, gradsko odnosno opštinsko vijeće utvrđuje opšte smjernice upravljanja ljudskim resursima u organima državne službe i o tome mogu donositi odgovarajuće akte, u skladu sa ovim zakonom."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Ko vrši nadzor nad pravilnim provođenjem obuke i stručnog usavršavanja i osposobljavanja državnih službenika?",
+    "odgovor_a": "Agencija, u saradnji s rukovodiocima organa državne službe",
+    "odgovor_b": "Odbor za žalbe, odnosno Žalbeno vijeće za namještenike",
+    "odgovor_c": "Ministarstvo, odnosno nadležni organ grada ili opštine",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 89. stav (2) Zakona o državnoj službi u TK, Ministarstvo, nadležni organ grada odnosno opštine, vrši nadzor nad pravilnim provođenjem obuke i stručnog usavršavanja i osposobljavanja državnih službenika (organi državne službe pritom ostvaruju saradnju s Agencijom - stav (1))."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Kome Vlada, gradonačelnik odnosno načelnik dostavljaju, na kraju svake godine, izvještaj o stanju u državnoj službi u Kantonu, gradu odnosno opštini?",
+    "odgovor_a": "Skupštini Kantona, gradskom odnosno opštinskom vijeću",
+    "odgovor_b": "Agenciji za državnu službu Federacije Bosne i Hercegovine",
+    "odgovor_c": "Ministarstvu pravosuđa i uprave Tuzlanskog kantona",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 91. stav (2) Zakona o državnoj službi u TK, Vlada, gradonačelnik odnosno načelnik, na kraju svake godine, a i ranije prema potrebi, dostavljaju Skupštini Kantona, gradskom odnosno opštinskom vijeću, izvještaj o stanju u državnoj službi u Kantonu, gradu, odnosno opštini; najmanje jednom u šest mjeseci razmatraju i izvještaj o provođenju zakona (stav (1))."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Šta se, prema članu 93. zakona, dešava sa zaposlenicima budžetskog korisnika koje organ državne službe preuzme zbog prenošenja poslova u svoju nadležnost?",
+    "odgovor_a": "primaju se u radni odnos na određeno vrijeme, do provođenja javnog konkursa odnosno javnog oglasa za ta radna mjesta",
+    "odgovor_b": "stiču status državnog službenika odnosno namještenika i raspoređuju se na radna mjesta za koja ispunjavaju uslove",
+    "odgovor_c": "zadržavaju dosadašnji status, a prava iz radnog odnosa i dalje ostvaruju kod ranijeg budžetskog korisnika",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 93. stav (2) Zakona o državnoj službi u TK, preuzeti zaposlenici stiču status državnog službenika, odnosno namještenika i raspoređuju se na radna mjesta za koja ispunjavaju uslove u skladu s pravilnikom o unutrašnjoj organizaciji, osim ispita opšteg znanja odnosno stručnog ispita; rok do kojeg su dužni položiti te ispite utvrđuje se odlukom Vlade, odnosno nadležnog gradskog i opštinskog organa (st. (3) i (4))."
+  },
+  {
+    "oblast": "Zakon o državnoj službi u TK",
+    "pitanje": "Koji se federalni zakon, prema članu 109. stav (2), prestao primjenjivati na području Kantona danom stupanja na snagu Zakona o državnoj službi u Tuzlanskom kantonu (\"Službene novine Tuzlanskog kantona\", broj 7/17)?",
+    "odgovor_a": "Zakon o upravnom postupku Federacije Bosne i Hercegovine",
+    "odgovor_b": "Zakon o ministarskim, vladinim i drugim imenovanjima u Federaciji BiH",
+    "odgovor_c": "Zakon o namještenicima u organima državne službe u Federaciji BiH",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 109. stav (2) Zakona o državnoj službi u TK, danom stupanja na snagu Zakona o državnoj službi u TK (broj 7/17) na području Kantona se prestaje primjenjivati Zakon o namještenicima u organima državne službe u Federaciji BiH (broj 49/05), dok je prema stavu (1) prestao da važi kantonalni Zakon o preuzimanju Zakona o državnoj službi u FBiH. Zakon o upravnom postupku i Zakon o ministarskim, vladinim i drugim imenovanjima i dalje se primjenjuju (čl. 31. stav (4), 24. stav (3) i 102.)."
   },
   {
     "oblast": "Odluka o raspolaganju nekretninama Grada Tuzla",
@@ -2925,6 +4014,195 @@
     "obrazlozenje": "Prema članu 38. stav (2) Odluke (dodan izmjenom 6/19), svi postupci započeti prije stupanja na snagu ove Odluke okončat će se po odredbama ranije Odluke."
   },
   {
+    "oblast": "Odluka o raspolaganju nekretninama Grada Tuzla",
+    "pitanje": "Na kojim načelima nadležna tijela Grada Tuzla upravljaju nekretninama u vlasništvu Grada?",
+    "odgovor_a": "Zakonitosti i svrsishodnosti, u skladu s namjenom nekretnina, s pažnjom dobrog domaćina",
+    "odgovor_b": "Ekonomičnosti i efikasnosti, u skladu s budžetom Grada, s pažnjom dobrog privrednika",
+    "odgovor_c": "Javnosti i transparentnosti, u skladu s planom privatizacije, uz saglasnost Gradskog vijeća",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 2. stav (2) Odluke, nadležna tijela Grada Tuzla upravljaju nekretninama na načelima zakonitosti i svrsishodnosti, u skladu s namjenom nekretnina, s pažnjom dobrog domaćina."
+  },
+  {
+    "oblast": "Odluka o raspolaganju nekretninama Grada Tuzla",
+    "pitanje": "Može li Grad Tuzla raspolagati nekretninom povodom prijedloga zainteresirane osobe?",
+    "odgovor_a": "Ne, raspolaganje se pokreće isključivo na inicijativu Gradonačelnika ili nadležne Službe",
+    "odgovor_b": "Da, na način i pod uslovima propisanim Odlukom",
+    "odgovor_c": "Da, ali samo ako je zainteresirana osoba pravno lice čiji je osnivač Grad Tuzla",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 5. stav (1) Odluke, Grad Tuzla može raspolagati nekretninom i povodom prijedloga zainteresirane osobe, na način i pod uslovima propisanim Odlukom, uz ograničenja iz stava (2) (zakonska zabrana raspolaganja i nekretnine potrebne Gradu)."
+  },
+  {
+    "oblast": "Odluka o raspolaganju nekretninama Grada Tuzla",
+    "pitanje": "O čemu nadležna Služba vodi računa pri dostavljanju odluke o raspolaganju notaru radi izrade ugovora, u slučajevima kada troškove notarske obrade snosi Grad Tuzla?",
+    "odgovor_a": "O najnižoj cijeni notarske obrade koju ponudi notar",
+    "odgovor_b": "O tome da notar ima sjedište na području Grada Tuzla",
+    "odgovor_c": "O ravnomjernoj zastupljenosti notara upisanih u notarsku komoru",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 7. stav (1) Odluke (izmijenjen 2/23), nadležna Služba usvojenu odluku dostavlja notaru radi izrade i notarske obrade ugovora, pri čemu će se, u slučajevima kada troškove snosi Grad Tuzla, voditi računa o ravnomjernoj zastupljenosti notara upisanih u notarsku komoru."
+  },
+  {
+    "oblast": "Odluka o raspolaganju nekretninama Grada Tuzla",
+    "pitanje": "Kome notar dostavlja nacrt ugovora o raspolaganju nekretninom koji je sačinio?",
+    "odgovor_a": "Nadležnoj Službi, koja ga prosljeđuje Gradskom pravobranilaštvu radi davanja mišljenja",
+    "odgovor_b": "Gradonačelniku, koji ga upućuje Gradskom vijeću na usvajanje",
+    "odgovor_c": "Neposredno Gradskom vijeću radi davanja saglasnosti na tekst ugovora",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 7. stav (2) Odluke, nacrt ugovora koji je sačinio notar dostavlja nadležnoj Službi iz člana 6. Odluke, koja će ga proslijediti Gradskom pravobranilaštvu radi davanja mišljenja."
+  },
+  {
+    "oblast": "Odluka o raspolaganju nekretninama Grada Tuzla",
+    "pitanje": "Ko obavlja administrativne i tehničke poslove za potrebe Komisije koja provodi postupak neposredne pogodbe pri pribavljanju nekretnine?",
+    "odgovor_a": "Zamjenik predsjednika Komisije",
+    "odgovor_b": "Sekretar Komisije, imenovan iz reda uposlenih u nadležnoj Službi",
+    "odgovor_c": "Službenik Gradskog pravobranilaštva kojeg odredi gradski pravobranilac",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 9. stav (4) Odluke, administrativne i tehničke poslove za potrebe Komisije obavlja sekretar Komisije koji se imenuje iz reda uposlenih u nadležnoj Službi iz člana 6. Odluke."
+  },
+  {
+    "oblast": "Odluka o raspolaganju nekretninama Grada Tuzla",
+    "pitanje": "Kome Komisija, po okončanju postupka pregovaranja o pribavljanju nekretnine, dostavlja zapisnik o radu s prijedlogom načina pribavljanja?",
+    "odgovor_a": "Gradonačelniku, radi potpisivanja ugovora s vlasnikom nekretnine",
+    "odgovor_b": "Gradskom pravobranilaštvu, radi davanja saglasnosti na postignutu cijenu",
+    "odgovor_c": "Nadležnoj Službi, radi izrade nacrta odluke za Gradsko vijeće",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 10. stav (3) Odluke, po okončanju postupka pregovaranja Komisija zapisnik o radu, s prijedlogom načina pribavljanja nekretnine, dostavlja nadležnoj Službi iz člana 6. Odluke radi izrade nacrta odluke za Gradsko vijeće."
+  },
+  {
+    "oblast": "Odluka o raspolaganju nekretninama Grada Tuzla",
+    "pitanje": "Šta će se, kod definiranja zadatka, naložiti sudskom vještaku prilikom izrade nalaza i mišljenja o tržišnoj vrijednosti nekretnine?",
+    "odgovor_a": "Da izvrši uvid i cijeni podatke nadležnog organa za utvrđivanje prometne vrijednosti nepokretnosti",
+    "odgovor_b": "Da pribavi mišljenje Gradskog pravobranilaštva o vrijednosti nekretnine prije izrade nalaza",
+    "odgovor_c": "Da nalaz uskladi s knjigovodstvenom vrijednošću nekretnine u evidenciji gradske imovine",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 13. stav (3) Odluke, kod definiranja zadatka sudskom vještaku naložit će se da prilikom izrade nalaza i mišljenja izvrši uvid i cijeni podatke nadležnog organa za utvrđivanje prometne vrijednosti nepokretnosti i prava."
+  },
+  {
+    "oblast": "Odluka o raspolaganju nekretninama Grada Tuzla",
+    "pitanje": "Na koji se način, prema članu 16. Odluke, provodi postupak prodaje nekretnina u vlasništvu Grada Tuzla?",
+    "odgovor_a": "Prikupljanjem pisanih ponuda u zatvorenim kovertama, prema odredbama Pravilnika",
+    "odgovor_b": "Usmenim javnim nadmetanjem – licitacijom, na osnovu javnog oglasa, prema odredbama Pravilnika",
+    "odgovor_c": "Elektronskom aukcijom na internet stranici Grada Tuzla, prema odredbama Pravilnika",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 16. stav (1) Odluke, postupak prodaje nekretnina u vlasništvu Grada Tuzla vrši se na osnovu javnog oglasa, usmenim javnim nadmetanjem – licitacijom prema odredbama Pravilnika."
+  },
+  {
+    "oblast": "Odluka o raspolaganju nekretninama Grada Tuzla",
+    "pitanje": "Ko odlučuje u kojim će se sredstvima javnog informiranja objaviti oglas o licitaciji za prodaju nekretnine Grada Tuzla?",
+    "odgovor_a": "Komisija za provođenje javnog nadmetanja – licitacije",
+    "odgovor_b": "Nadležna Služba koja raspisuje javni oglas",
+    "odgovor_c": "Gradsko vijeće, u odluci o načinu i uvjetima prodaje",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 17. stav (3) Odluke, u odluci o načinu i uvjetima prodaje iz člana 16. stav (2) Gradsko vijeće odlučuje u kojim se sredstvima javnog informiranja objavljuje oglas o licitaciji."
+  },
+  {
+    "oblast": "Odluka o raspolaganju nekretninama Grada Tuzla",
+    "pitanje": "Koliko dana javni oglas o nadmetanju – licitaciji ostaje otvoren?",
+    "odgovor_a": "15 dana od dana objavljivanja",
+    "odgovor_b": "8 dana od dana objavljivanja",
+    "odgovor_c": "30 dana od dana objavljivanja",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 17. stav (4) Odluke, javni oglas o nadmetanju – licitaciji ostaje otvoren 15 dana od dana objavljivanja."
+  },
+  {
+    "oblast": "Odluka o raspolaganju nekretninama Grada Tuzla",
+    "pitanje": "Ko raspisuje javni oglas o nadmetanju – licitaciji za prodaju nekretnine, odnosno opterećenje pravom građenja?",
+    "odgovor_a": "Gradsko vijeće, nakon donošenja odluke o prodaji",
+    "odgovor_b": "Nadležna Služba iz člana 6. Odluke",
+    "odgovor_c": "Komisija za provođenje javnog nadmetanja – licitacije",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 24. stav (3) Odluke, nadležna Služba iz člana 6. Odluke raspisuje javni oglas o nadmetanju – licitaciji, a Komisija provodi postupak prodaje, odnosno opterećenja pravom građenja u skladu s Pravilnikom."
+  },
+  {
+    "oblast": "Odluka o raspolaganju nekretninama Grada Tuzla",
+    "pitanje": "Šta se dešava s uplaćenim depozitom učesnika licitacije koji je pobijedio na licitaciji i odabran je kao najpovoljniji ponuđač?",
+    "odgovor_a": "Vraća mu se u roku od 15 dana od završene licitacije",
+    "odgovor_b": "Zadržava se kao sredstvo obezbjeđenja do uknjižbe prava vlasništva",
+    "odgovor_c": "Uračunava se u kupoprodajnu cijenu",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 25. stav (3) Odluke, učesniku licitacije koji je pobijedio na licitaciji i odabran kao najpovoljniji ponuđač uplaćeni iznos depozita se uračunava u kupoprodajnu cijenu."
+  },
+  {
+    "oblast": "Odluka o raspolaganju nekretninama Grada Tuzla",
+    "pitanje": "U kojem roku se ostalim učesnicima licitacije (koji nisu odabrani kao najpovoljniji ponuđač) vraća uplaćeni iznos kapare?",
+    "odgovor_a": "U roku od 15 dana od završene licitacije",
+    "odgovor_b": "U roku od 8 dana od završene licitacije",
+    "odgovor_c": "U roku od 30 dana od zaključenja ugovora s najpovoljnijim ponuđačem",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 25. stav (5) Odluke, ostalim učesnicima licitacije vraća se uplaćeni iznos kapare u roku od 15 dana od završene licitacije."
+  },
+  {
+    "oblast": "Odluka o raspolaganju nekretninama Grada Tuzla",
+    "pitanje": "U kojem iznosu se plaća naknada za stvarnu služnost zasnovanu na nekretnini u vlasništvu Grada Tuzla?",
+    "odgovor_a": "U iznosu prosječne mjesečne zakupnine za takvu nekretninu",
+    "odgovor_b": "U iznosu za koji je umanjena tržišna vrijednost nekretnine, kao i za nastalu štetu",
+    "odgovor_c": "U iznosu od 10% tržišne vrijednosti poslužne nekretnine",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 31. stav (2) Odluke, za utvrđenu služnost na nekretninama u vlasništvu Grada Tuzla plaća se naknada u iznosu za koji je umanjena tržišna vrijednost nekretnine, kao i za nastalu štetu, a visina se utvrđuje na osnovu nalaza sudskog vještaka (stav (3))."
+  },
+  {
+    "oblast": "Odluka o raspolaganju nekretninama Grada Tuzla",
+    "pitanje": "Koja služba provodi stručne, upravne i druge poslove u vezi sa zasnivanjem lične služnosti – prava stanovanja na stanovima u vlasništvu Grada?",
+    "odgovor_a": "Služba za upravu nadležna za imovinsko-pravne poslove",
+    "odgovor_b": "Služba za upravu nadležna za budžet i finansije",
+    "odgovor_c": "Služba za upravu nadležna za poslove stanovanja",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 32. stav (3) Odluke, stručne, upravne i druge poslove u vezi sa zasnivanjem lične služnosti – prava stanovanja iz stava (2) provodi Služba za upravu nadležna za poslove stanovanja."
+  },
+  {
+    "oblast": "Odluka o raspolaganju nekretninama Grada Tuzla",
+    "pitanje": "Koju obavezu ugovor o nepravilnoj služnosti nameće ovlašteniku služnosti za slučaj provođenja dokumenata prostornog uređenja Grada Tuzla (Regulacionog plana)?",
+    "odgovor_a": "Da na svoj teret izmjesti postojeće podzemne instalacije, uređaje i stubove zračne mreže",
+    "odgovor_b": "Da Gradu plati naknadu u visini tržišne vrijednosti zemljišta pod instalacijama",
+    "odgovor_c": "Da zatraži novu odluku Gradskog vijeća o zasnivanju služnosti na drugoj lokaciji",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 33. stav (3) Odluke, ugovorom se, između ostalog, određuje obaveza ovlaštenika služnosti da će u slučaju potrebe, na svoj teret, izmjestiti postojeće podzemne instalacije, uređaje i stubove zračne mreže te slične objekte, u svrhu provođenja dokumenata prostornog uređenja Grada Tuzla."
+  },
+  {
+    "oblast": "Odluka o raspolaganju nekretninama Grada Tuzla",
+    "pitanje": "Kojim se aktom uređuju uspostavljanje registara nekretnina i sva pitanja vezana za njihov sadržaj, vođenje i održavanje?",
+    "odgovor_a": "Posebnom odlukom Gradskog vijeća",
+    "odgovor_b": "Posebnim pravilnicima koje donosi gradonačelnik",
+    "odgovor_c": "Uputstvom nadležne Službe za geodetske poslove",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 36. stav (2) Odluke (dodan izmjenom 9/23), uspostavljanje registara i sva pitanja od značaja vezana za sadržaj, vođenje, održavanje, prikupljanje i obradu podataka u registrima uredit će se posebnim pravilnicima koje donosi gradonačelnik."
+  },
+  {
+    "oblast": "Odluka o raspolaganju nekretninama Grada Tuzla",
+    "pitanje": "Šta je sa zakupnim odnosima te stvarnim i ličnim služnostima koji su uspostavljeni prije stupanja na snagu Odluke?",
+    "odgovor_a": "Prestaju danom stupanja na snagu Odluke",
+    "odgovor_b": "Moraju se uskladiti s Odlukom u roku od godinu dana",
+    "odgovor_c": "Ostaju na snazi do isteka vremena na koje su zasnovani",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 39. Odluke, zakupni odnosi, stvarne i lične služnosti uspostavljene do dana stupanja Odluke na snagu ostaju na snazi do isteka vremena na koje su zasnovane."
+  },
+  {
+    "oblast": "Odluka o raspolaganju nekretninama Grada Tuzla",
+    "pitanje": "Ko je ovlašten da, u slučaju potrebe, donese Uputstvo o načinu primjene Odluke?",
+    "odgovor_a": "Gradonačelnik",
+    "odgovor_b": "Gradsko vijeće",
+    "odgovor_c": "Gradsko pravobranilaštvo",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 40. Odluke, ovlašćuje se Gradonačelnik da, u slučaju potrebe, donese Uputstvo o načinu primjene Odluke."
+  },
+  {
+    "oblast": "Odluka o raspolaganju nekretninama Grada Tuzla",
+    "pitanje": "Kada Odluka o uvjetima i načinu pribavljanja i raspolaganja nekretninama u vlasništvu Grada Tuzla stupa na snagu?",
+    "odgovor_a": "Osmog dana od dana objavljivanja u Službenom glasniku Grada Tuzla",
+    "odgovor_b": "Danom objavljivanja u Službenom glasniku Grada Tuzla",
+    "odgovor_c": "Petnaestog dana od dana objavljivanja u Službenom glasniku Grada Tuzla",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 41. Odluke, Odluka stupa na snagu danom objavljivanja u Službenom glasniku Grada Tuzla."
+  },
+  {
+    "oblast": "Odluka o raspolaganju nekretninama Grada Tuzla",
+    "pitanje": "Koji je od navedenih slučajeva u članu 8a. Odluke izričito naveden kao slučaj pribavljanja nekretnine u vlasništvo Grada kada nije utvrđen javni interes?",
+    "odgovor_a": "Izgradnja saobraćajne infrastrukture",
+    "odgovor_b": "Izgradnja objekata vjerskih zajednica",
+    "odgovor_c": "Razvrgnuće suvlasničke zajednice",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 8a. stav (1) tačka b) Odluke (dodan izmjenom 4/21), Grad Tuzla može pribavljati nekretnine kada postoji pravni interes, a naročito kod razvrgnuća suvlasničke zajednice. Izgradnja saobraćajne infrastrukture je slučaj javnog interesa iz člana 8. (eksproprijacija), a objekti vjerskih zajednica su osnov za prodaju neposrednom pogodbom iz člana 27."
+  },
+  {
     "oblast": "Pravilnik o javnom konkursu za raspolaganje nekretninama",
     "pitanje": "Čije nekretnine su predmet raspolaganja po postupku javnog konkursa propisanom ovim pravilnikom?",
     "odgovor_a": "Nekretnine u vlasništvu Federacije BiH, kantona, gradova i općina",
@@ -3193,5 +4471,113 @@
     "odgovor_c": "Petnaestog dana od dana objavljivanja u Službenim novinama Federacije BiH",
     "tacan_odgovor": "B",
     "obrazlozenje": "Prema članu 25. Pravilnika, Pravilnik stupa na snagu osmog dana od dana objavljivanja u Službenim novinama Federacije BiH."
+  },
+  {
+    "oblast": "Pravilnik o javnom konkursu za raspolaganje nekretninama",
+    "pitanje": "Ko imenuje Komisiju za sprovođenje javnog nadmetanja koja provodi postupak licitacije?",
+    "odgovor_a": "Federalni ministar pravde, za sve nivoe vlasti",
+    "odgovor_b": "Nadležni organ, odnosno služba iz člana 3. Pravilnika",
+    "odgovor_c": "Notar koji će sačiniti ugovor o raspolaganju nekretninom",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 9. stav (1) Pravilnika, postupak licitacije sprovodi Komisija za sprovođenje javnog nadmetanja koju imenuje nadležni organ, odnosno služba iz člana 3. Pravilnika (organ koji donosi odluku o načinu i uvjetima raspolaganja)."
+  },
+  {
+    "oblast": "Pravilnik o javnom konkursu za raspolaganje nekretninama",
+    "pitanje": "Ko rukovodi licitacijom i prethodno utvrđuje da li su ispunjeni svi uvjeti za njeno održavanje (oglašavanje, broj učesnika, položene kaucije i dr.)?",
+    "odgovor_a": "Predsjednik Komisije",
+    "odgovor_b": "Sekretar nadležnog organa",
+    "odgovor_c": "Ovlašteni predstavnik vlasnika nekretnine",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 12. stav (1) Pravilnika, licitacijom rukovodi predsjednik Komisije, koji prethodno utvrđuje da li su ispunjeni svi uvjeti za održavanje licitacije: oglašavanje, utvrđivanje uvjeta, potreban broj učesnika, položene kaucije, redoslijed prodaje i drugi uvjeti."
+  },
+  {
+    "oblast": "Pravilnik o javnom konkursu za raspolaganje nekretninama",
+    "pitanje": "Čime, prema Pravilniku, počinje postupak nadmetanja na licitaciji?",
+    "odgovor_a": "Utvrđivanjem predsjednika Komisije da su svi učesnici položili kaparu",
+    "odgovor_b": "Potpisivanjem zapisnika o ispunjenosti uvjeta za održavanje licitacije",
+    "odgovor_c": "Pozivom predsjednika Komisije učesnicima da daju ponude na početnu cijenu",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 14. Pravilnika, nakon što se utvrdi da su ispunjeni uvjeti za održavanje licitacije, predsjednik Komisije upoznaje učesnike s načinom i postupkom licitacije i poziva ih da daju ponude na početnu cijenu, čime počinje postupak nadmetanja."
+  },
+  {
+    "oblast": "Pravilnik o javnom konkursu za raspolaganje nekretninama",
+    "pitanje": "Šta se učesnicima u licitaciji, na njihov zahtjev, može dozvoliti tokom nadmetanja?",
+    "odgovor_a": "Kraći rok za razmišljanje o daljim ponudama",
+    "odgovor_b": "Povlačenje ponude koju su već dali",
+    "odgovor_c": "Naknadno polaganje kapare tokom licitacije",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 15. stav (3) Pravilnika, učesnicima u licitaciji, na njihov zahtjev, može se dozvoliti kraći rok za razmišljanje o daljim ponudama. Data ponuda vrijedi sve dok se ne da veća (stav (1))."
+  },
+  {
+    "oblast": "Pravilnik o javnom konkursu za raspolaganje nekretninama",
+    "pitanje": "Šta predsjednik Komisije čini neposredno prije nego što objavi da je licitacija zaključena?",
+    "odgovor_a": "Poziva učesnika s najvećom ponudom da potpiše ugovor",
+    "odgovor_b": "Još jedanput ponavlja posljednju ponudu",
+    "odgovor_c": "Utvrđuje da su svi učesnici položili kaparu",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 16. stav (2) Pravilnika, prije zaključenja licitacije predsjednik Komisije još jedanput ponavlja posljednju ponudu, a zatim objavljuje da je licitacija zaključena."
+  },
+  {
+    "oblast": "Pravilnik o javnom konkursu za raspolaganje nekretninama",
+    "pitanje": "Šta Komisija odlučuje ako ustanovi da su nedostaci na koje prigovor ukazuje takve prirode da mogu biti odmah otklonjeni?",
+    "odgovor_a": "Da se postupak licitacije u cjelini poništi i ponovo sprovede",
+    "odgovor_b": "Da se licitacija prekine do odluke nadležnog organa",
+    "odgovor_c": "Da se licitacija nastavi pošto se nedostaci otklone",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 19. stav (1) Pravilnika, ako Komisija ustanovi da su nedostaci i propusti na koje prigovor ukazuje takve prirode da mogu biti odmah otklonjeni, donosi odluku da se licitacija nastavi pošto se nedostaci otklone."
+  },
+  {
+    "oblast": "Pravilnik o javnom konkursu za raspolaganje nekretninama",
+    "pitanje": "Kada se licitacija nastavi nakon otklanjanja nedostataka na koje je ukazano prigovorom, šta je s ponudama koje su učesnici ranije dali?",
+    "odgovor_a": "Prestaju vrijediti i nadmetanje počinje ponovo od početne cijene",
+    "odgovor_b": "Vrijede, osim ako su zbog davanja većih ponuda prestale vrijediti",
+    "odgovor_c": "Vrijedi samo posljednja ponuda data prije ulaganja prigovora",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 19. stav (2) Pravilnika, u slučaju nastavka licitacije nakon otklanjanja nedostataka učesnicima licitacije vrijede njihove ponude, osim ako one, zbog davanja većih ponuda, nisu prestale da vrijede."
+  },
+  {
+    "oblast": "Pravilnik o javnom konkursu za raspolaganje nekretninama",
+    "pitanje": "Ko odlučuje o prigovoru koji je učesnik uložio na sprovedeni postupak licitacije?",
+    "odgovor_a": "Komisija za sprovođenje javnog nadmetanja",
+    "odgovor_b": "Organ koji je donio odluku o raspolaganju",
+    "odgovor_c": "Predsjednik Komisije samostalno",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema članu 17. stav (2) Pravilnika, o prigovoru odlučuje Komisija."
+  },
+  {
+    "oblast": "Pravilnik o javnom konkursu za raspolaganje nekretninama",
+    "pitanje": "Da bi nepravilno sprovođenje postupka licitacije bilo osnov za prigovor, Pravilnik traži i da:",
+    "odgovor_a": "je nepravilnost prijavljena nadležnom organu prije održavanja licitacije",
+    "odgovor_b": "je nepravilnost uočio i u zapisnik unio predsjednik Komisije",
+    "odgovor_c": "je to imalo bitnog uticaja na stavljanje ponuda i pravilnost postupka",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 18. tačka c) Pravilnika, prigovor se može zasnivati na tome da je postupak licitacije nepravilno sproveden i da je to imalo bitnog uticaja na stavljanje ponuda i pravilnost postupka licitacije."
+  },
+  {
+    "oblast": "Pravilnik o javnom konkursu za raspolaganje nekretninama",
+    "pitanje": "Mogu li učesnici ulagati prigovore poslije zaključenja zapisnika o postupku licitacije?",
+    "odgovor_a": "Mogu, pisanim putem u roku od tri dana od zaključenja zapisnika",
+    "odgovor_b": "Ne mogu ulagati prigovore",
+    "odgovor_c": "Mogu, ako to dozvoli predsjednik Komisije",
+    "tacan_odgovor": "B",
+    "obrazlozenje": "Prema članu 23. stav (3) Pravilnika, poslije zaključenja zapisnika o postupku licitacije učesnici ne mogu ulagati prigovore. Prigovori se ulažu odmah na zapisnik po zaključenju licitacije (član 17. stav (1))."
+  },
+  {
+    "oblast": "Pravilnik o javnom konkursu za raspolaganje nekretninama",
+    "pitanje": "Ko je donio Pravilnik o postupku javnog konkursa za raspolaganje nekretninama u vlasništvu Federacije BiH, kantona, općina i gradova?",
+    "odgovor_a": "Federalni ministar pravde",
+    "odgovor_b": "Vlada Federacije Bosne i Hercegovine",
+    "odgovor_c": "Parlament Federacije Bosne i Hercegovine",
+    "tacan_odgovor": "A",
+    "obrazlozenje": "Prema uvodnom dijelu Pravilnika, Pravilnik je na osnovu člana 363. stav 2. Zakona o stvarnim pravima donio federalni ministar pravde (broj 02-02-2-759/14 od 18.2.2014.)."
+  },
+  {
+    "oblast": "Pravilnik o javnom konkursu za raspolaganje nekretninama",
+    "pitanje": "U kojoj formi se zaključuje ugovor s učesnikom licitacije čija je ponuda utvrđena kao najpovoljnija?",
+    "odgovor_a": "U pisanoj formi s ovjerom potpisa kod općinskog organa uprave",
+    "odgovor_b": "U formi zapisnika Komisije koji potpisuju učesnik i predsjednik",
+    "odgovor_c": "U formi notarski obrađene isprave",
+    "tacan_odgovor": "C",
+    "obrazlozenje": "Prema članu 24. stav (1) Pravilnika, sa učesnikom licitacije čija je ponuda utvrđena kao najpovoljnija zaključuje se odgovarajući ugovor u formi notarski obrađene isprave (isto propisuje i član 20.)."
   }
 ]
