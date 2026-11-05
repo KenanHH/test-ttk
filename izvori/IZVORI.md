@@ -1,6 +1,6 @@
 # Izvori za „FULL Test Grad“
 
-Test `questions-answers-propisi-ispit.json` (355 pitanja) pokriva cijele propise iz oglasa. Svako pitanje ima u polju `obrazlozenje` navedene član i stav na kojima se temelji. Pitanja su pisana isključivo prema tekstovima iz ovog foldera, a zatim je svaki odgovor provjeren slijepo (odgovori iz teksta bez uvida u ključ).
+Test `questions-answers-full-test-grad.json` (355 pitanja) pokriva cijele propise iz oglasa. Svako pitanje ima u polju `obrazlozenje` navedene član i stav na kojima se temelji. Pitanja su pisana isključivo prema tekstovima iz ovog foldera, a zatim je svaki odgovor provjeren slijepo (odgovori iz teksta bez uvida u ključ).
 
 > Ovo NISU zvanična ispitna pitanja. Tekstovi iz ovog foldera su kopije s javnih stranica i nisu zvanični prečišćeni tekstovi, pa provjerite sa službenim glasilima.
 
