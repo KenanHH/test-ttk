@@ -3,18 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Zakon o državnoj službi TK — Rokovi</title>
+    <title>Test za pripremu ispita</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>Zakon o državnoj službi u Tuzlanskom kantonu</h1>
-            <p class="subtitle">Test za pripremu ispita — ROKOVI</p>
+            <h1 id="app-title">Test za pripremu ispita</h1>
+            <p class="subtitle" id="app-subtitle">Odaberite test</p>
         </header>
 
+        <!-- Test Selection Screen -->
+        <div id="select-screen" class="screen">
+            <div class="info-box">
+                <h2>Odaberite test</h2>
+                <p>Svaki test učitava pitanja iz vlastitog JSON fajla, a statistika se vodi zasebno za svaki test.</p>
+            </div>
+            <div id="test-list" class="test-list"></div>
+            <div class="disclaimer">
+                <p><strong>Napomena:</strong> Sva pitanja su generisana korištenjem Claude AI agenata. Ovo NISU zvanična ispitna pitanja. Aplikacija služi isključivo kao pomoćno sredstvo za pripremu i učenje. Ne garantujemo tačnost informacija - uvijek provjerite sa originalnim izvorima.</p>
+            </div>
+        </div>
+
         <!-- Start Screen -->
-        <div id="start-screen" class="screen">
+        <div id="start-screen" class="screen hidden">
             <div class="info-box">
                 <h2>Dobrodošli!</h2>
                 <p>Ovaj test sadrži <strong>10 pitanja</strong> iz sljedećih oblasti:</p>
@@ -25,6 +37,7 @@
                 <button id="start-btn" class="btn btn-primary">Započni test</button>
                 <button id="stats-btn" class="btn btn-secondary">Statistika</button>
             </div>
+            <button id="change-test-btn" class="btn btn-link">&larr; Promijeni test</button>
             <div class="disclaimer">
                 <p><strong>Napomena:</strong> Sva pitanja su generisana korištenjem Claude AI agenata. Ovo NISU zvanična ispitna pitanja. Aplikacija služi isključivo kao pomoćno sredstvo za pripremu i učenje. Ne garantujemo tačnost informacija - uvijek provjerite sa originalnim izvorima.</p>
             </div>
@@ -122,7 +135,7 @@
             </div>
         </div>
 
-        <div class="version">v3.2 | Zakon o državnoj službi TK — rokovi</div>
+        <div class="version">v4.0 | Quiz za pripremu ispita</div>
     </div>
 
     <script src="app.js"></script>

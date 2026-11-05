@@ -157,6 +157,63 @@ header .subtitle {
     box-shadow: 0 5px 20px rgba(139, 92, 246, 0.4);
 }
 
+/* Test selection */
+.test-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 24px;
+}
+
+.test-card {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    width: 100%;
+    text-align: left;
+    padding: 18px 20px;
+    background: #fff;
+    border: 2px solid #e0e7ff;
+    border-radius: 12px;
+    font: inherit;
+    cursor: pointer;
+    transition: border-color 0.2s, transform 0.2s, box-shadow 0.2s;
+}
+
+.test-card:hover:not(:disabled) {
+    border-color: #6366f1;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 20px rgba(99, 102, 241, 0.2);
+}
+
+.test-card:disabled {
+    opacity: 0.6;
+    cursor: wait;
+}
+
+.test-card-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #312e81;
+}
+
+.test-card-desc {
+    font-size: 0.9rem;
+    color: #666;
+}
+
+.btn-link {
+    display: block;
+    margin: 16px auto 20px;
+    background: none;
+    color: #4f46e5;
+    padding: 8px 12px;
+}
+
+.btn-link:hover {
+    text-decoration: underline;
+}
+
 /* Quiz Screen */
 .progress-bar {
     height: 8px;

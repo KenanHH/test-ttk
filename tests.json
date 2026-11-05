@@ -1,0 +1,33 @@
+[
+  {
+    "id": "ispit-propisi-nekretnine",
+    "title": "FULL Test Grad",
+    "description": "Objedinjeni test iz 5 propisa: ZUP FBiH, Zakon o eksproprijaciji FBiH, Zakon o državnoj službi u TK, Odluka o raspolaganju nekretninama Grada Tuzla i Pravilnik o javnom konkursu za raspolaganje nekretninama (355 pitanja, izvori u izvori/IZVORI.md)",
+    "file": "questions-answers-propisi-ispit.json"
+  },
+  {
+    "id": "zakon-ds-tk-rokovi",
+    "title": "Zakon o državnoj službi TK — Rokovi",
+    "description": "Rokovi iz Zakona o državnoj službi u Tuzlanskom kantonu",
+    "file": "questions-answers-zakon-ts-rokovi.json",
+    "legacyStorage": true
+  },
+  {
+    "id": "zup-fbih-glave",
+    "title": "ZUP FBiH — glave X–XVI",
+    "description": "Zakon o upravnom postupku FBiH, od pokretanja postupka do poništavanja rješenja",
+    "file": "questions-answers-zup-glave.json"
+  },
+  {
+    "id": "zup-fbih",
+    "title": "ZUP FBiH — opći test",
+    "description": "Zakon o upravnom postupku FBiH, cijeli zakon",
+    "file": "questions-answers.json"
+  },
+  {
+    "id": "tuzilastvo-tk",
+    "title": "Tužilaštvo TK",
+    "description": "Zakon o državnoj službi TK, ZKP FBiH, KZ FBiH, TCMS pravilnik, Zakon o kantonalnom tužilaštvu TK",
+    "file": "questions-answers-tuzilastvo.json"
+  }
+]

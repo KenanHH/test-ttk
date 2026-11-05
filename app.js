@@ -6,21 +6,35 @@
     let REQUIRED_OBLASTI = [];
 
     const QUESTIONS_PER_TEST = 10;
-    const HISTORY_KEY = 'quiz_question_history';
+    const HISTORY_KEY_BASE = 'quiz_question_history';
     const HISTORY_SIZE = 50; // Remember last 50 questions to avoid repetition
-    const STATS_KEY = 'quiz_statistics';
+    const STATS_KEY_BASE = 'quiz_statistics';
+    const TESTS_MANIFEST = 'tests.json';
+    const DEFAULT_TITLE = 'Test za pripremu ispita';
+
+    // Storage keys are per test; set when a test is selected.
+    // The test flagged legacyStorage keeps the original (unsuffixed) keys so existing data survives.
+    let HISTORY_KEY = HISTORY_KEY_BASE;
+    let STATS_KEY = STATS_KEY_BASE;
 
     // State
+    let tests = [];
+    let currentTest = null;
     let allQuestions = [];
     let currentQuestions = [];
     let currentQuestionIndex = 0;
     let userAnswers = [];
 
     // DOM Elements
+    const selectScreen = document.getElementById('select-screen');
     const startScreen = document.getElementById('start-screen');
     const quizScreen = document.getElementById('quiz-screen');
     const resultsScreen = document.getElementById('results-screen');
     const statsScreen = document.getElementById('stats-screen');
+    const testList = document.getElementById('test-list');
+    const appTitle = document.getElementById('app-title');
+    const appSubtitle = document.getElementById('app-subtitle');
+    const changeTestBtn = document.getElementById('change-test-btn');
     const startBtn = document.getElementById('start-btn');
     const statsBtn = document.getElementById('stats-btn');
     const prevBtn = document.getElementById('prev-btn');
@@ -38,21 +52,80 @@
     // Initialize
     async function init() {
         try {
-            await loadQuestions();
             bindEvents();
+            await loadTests();
+            showSelectScreen();
         } catch (error) {
             console.error('Failed to initialize quiz:', error);
-            alert('Greška pri učitavanju pitanja. Molimo osvježite stranicu.');
+            alert('Greška pri učitavanju testova. Molimo osvježite stranicu.');
         }
     }
 
-    // Load questions from JSON
-    async function loadQuestions() {
-        const response = await fetch('questions-answers-zakon-ts-rokovi.json');
+    // Load the list of available tests and render the picker
+    async function loadTests() {
+        const response = await fetch(TESTS_MANIFEST);
+        if (!response.ok) {
+            throw new Error('Failed to load tests manifest');
+        }
+        tests = await response.json();
+
+        testList.innerHTML = '';
+        tests.forEach(test => {
+            const card = document.createElement('button');
+            card.className = 'test-card';
+            card.innerHTML = `
+                <span class="test-card-title"></span>
+                <span class="test-card-desc"></span>
+            `;
+            card.querySelector('.test-card-title').textContent = test.title;
+            card.querySelector('.test-card-desc').textContent = test.description || '';
+            card.addEventListener('click', () => selectTest(test, card));
+            testList.appendChild(card);
+        });
+    }
+
+    // Select a test: load its JSON, switch storage keys, show its intro screen
+    async function selectTest(test, card) {
+        if (card) card.disabled = true;
+        try {
+            await loadQuestions(test.file);
+        } catch (error) {
+            console.error('Failed to load test:', error);
+            alert('Greška pri učitavanju pitanja. Molimo pokušajte ponovo.');
+            return;
+        } finally {
+            if (card) card.disabled = false;
+        }
+
+        currentTest = test;
+        HISTORY_KEY = test.legacyStorage ? HISTORY_KEY_BASE : `${HISTORY_KEY_BASE}:${test.id}`;
+        STATS_KEY = test.legacyStorage ? STATS_KEY_BASE : `${STATS_KEY_BASE}:${test.id}`;
+
+        appTitle.textContent = test.title;
+        appSubtitle.textContent = 'Test za pripremu ispita';
+        document.title = `${test.title} — ${DEFAULT_TITLE}`;
+        showScreen(startScreen);
+    }
+
+    // Back to the test picker
+    function showSelectScreen() {
+        currentTest = null;
+        allQuestions = [];
+        currentQuestions = [];
+        appTitle.textContent = DEFAULT_TITLE;
+        appSubtitle.textContent = 'Odaberite test';
+        document.title = DEFAULT_TITLE;
+        showScreen(selectScreen);
+    }
+
+    // Load questions from a test's JSON file
+    async function loadQuestions(file) {
+        const response = await fetch(file);
         if (!response.ok) {
             throw new Error('Failed to load questions');
         }
-        allQuestions = await response.json();
+        const questions = await response.json();
+        allQuestions = questions;
 
         // Derive oblasti dynamically from loaded questions
         REQUIRED_OBLASTI = [...new Set(allQuestions.map(q => q.oblast))];
@@ -67,6 +140,7 @@
 
     // Bind event listeners
     function bindEvents() {
+        changeTestBtn.addEventListener('click', showSelectScreen);
         startBtn.addEventListener('click', startQuiz);
         statsBtn.addEventListener('click', showStats);
         prevBtn.addEventListener('click', goToPreviousQuestion);
@@ -725,6 +799,7 @@
 
     // Show specific screen, hide others
     function showScreen(screen) {
+        selectScreen.classList.add('hidden');
         startScreen.classList.add('hidden');
         quizScreen.classList.add('hidden');
         resultsScreen.classList.add('hidden');
